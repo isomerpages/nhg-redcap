@@ -1,4 +1,5 @@
 collections:
   getting-access:
     output: true
-    order: []
+    order:
+      - REDCap User Accounts.md
