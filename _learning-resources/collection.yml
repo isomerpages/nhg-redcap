@@ -2,6 +2,7 @@ collections:
   learning-resources:
     output: true
     order:
+      - Resources/Videos.md
       - Resources/FAQs.md
       - Resources/User Guides.md
       - Resources/.keep
