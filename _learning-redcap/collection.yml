@@ -1,5 +1,5 @@
 collections:
-  learning-resources:
+  learning-redcap:
     output: true
     order:
       - Resources/Videos.md
