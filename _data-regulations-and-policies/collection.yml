@@ -1,0 +1,4 @@
+collections:
+  data-regulations-and-policies:
+    output: true
+    order: []
