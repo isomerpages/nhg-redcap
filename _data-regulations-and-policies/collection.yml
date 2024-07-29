@@ -1,4 +1,5 @@
 collections:
   data-regulations-and-policies:
     output: true
-    order: []
+    order:
+      - NHG REDCap System Usage Agreement.md
