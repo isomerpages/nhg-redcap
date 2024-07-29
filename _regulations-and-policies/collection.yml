@@ -1,5 +1,5 @@
 collections:
-  data-regulations-and-policies:
+  regulations-and-policies:
     output: true
     order:
       - What Researchers need to know.md
