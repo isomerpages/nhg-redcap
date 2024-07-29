@@ -2,5 +2,5 @@ collections:
   user-guides:
     output: true
     order:
-      - User Guides.md
       - About REDCap User Guides.md
+      - User Guides.md
