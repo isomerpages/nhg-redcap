@@ -2,8 +2,8 @@ collections:
   learning-redcap:
     output: true
     order:
+      - Learning REDCap.md
+      - Resources/.keep
       - Resources/Videos.md
       - Resources/FAQs.md
       - Resources/User Guides.md
-      - Resources/.keep
-      - Learning REDCap.md
