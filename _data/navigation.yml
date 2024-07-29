@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Learning Redcap
+    collection: learning-redcap
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Learning Redcap
-    collection: learning-redcap
