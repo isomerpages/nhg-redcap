@@ -4,6 +4,6 @@ collections:
     order:
       - Learning REDCap.md
       - Resources/.keep
-      - Resources/Videos.md
-      - Resources/FAQs.md
       - Resources/User Guides.md
+      - Resources/FAQs.md
+      - Resources/Videos.md
