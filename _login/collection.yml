@@ -1,0 +1,4 @@
+collections:
+  login:
+    output: true
+    order: []
