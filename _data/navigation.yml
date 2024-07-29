@@ -1,8 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About REDCap
+    collection: about-redcap
   - title: Learning Redcap
     collection: learning-redcap
+  - title: GETTING ACCESS
+    collection: getting-access
+  - title: Regulatory
+    collection: regulations-and-policies
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: LOGIN
+    collection: login
