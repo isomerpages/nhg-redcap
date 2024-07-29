@@ -2,5 +2,6 @@ collections:
   data-regulations-and-policies:
     output: true
     order:
+      - Personal Data Protection Act (PDPA).md
       - Human Biomedical Research Act (HBRA).md
       - NHG REDCap System Usage Agreement.md
