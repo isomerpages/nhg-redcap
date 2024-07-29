@@ -2,4 +2,5 @@ collections:
   getting-access:
     output: true
     order:
+      - Request for REDCap Projects.md
       - REDCap User Accounts.md
