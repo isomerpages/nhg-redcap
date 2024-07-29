@@ -1,5 +1,5 @@
 collections:
-  user-guides:
+  learning-resources:
     output: true
     order:
       - About REDCap User Guides.md
