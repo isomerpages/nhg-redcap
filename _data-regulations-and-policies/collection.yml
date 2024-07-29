@@ -2,4 +2,5 @@ collections:
   data-regulations-and-policies:
     output: true
     order:
+      - Human Biomedical Research Act (HBRA).md
       - NHG REDCap System Usage Agreement.md
