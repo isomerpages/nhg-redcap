@@ -8,8 +8,7 @@ description: ""
 web application designed to support electronic data capture in a secured
 and systematic manner.</p>
 <p>Developed in 2004 by Vanderbilt University, REDCap is intended to help
-researchers collect and manage data for small-medium sized projects in
-a systematic manner.</p>
+researchers collect and manage data for small-medium sized projects.</p>
 <p>By using REDCap's simple menu-driven interface, researchers can quickly
 create web-based data capture forms with features like branching-logic
 questions, user access control, multi-visit data capture and real-time
