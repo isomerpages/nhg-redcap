@@ -18,7 +18,8 @@ for the most current information.
 <br>Do note that any references to policies and regulatory requirements in
 these videos are <strong>NOT APPLICABLE</strong> to NHG's REDCap Users. Instead,
 NHG RECap users should refer to NHG's REDCap Policies for more information.</p>
-<p>&nbsp;</p>
+<p>Please be aware that NHG has no control over external video links available
+below.</p>
 <p>
 <br><strong>Official REDCap Consortium Training Videos</strong>
 <br>The official REDCap Training Videos are split up into small videos which
