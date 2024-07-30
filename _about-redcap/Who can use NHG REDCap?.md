@@ -4,8 +4,8 @@ permalink: /who-can-use-nhg-redcap/
 variant: tiptap
 description: ""
 ---
-<p>NHG-REDCap is currently available for use by Staff from all NHG Institutions
-to support approved research activities.&nbsp;</p>
+<p>NHG-REDCap can be used by all NHG Institution Staff engaged in supported
+activities.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tan Tock Seng Hospital</p>
@@ -41,14 +41,13 @@ to support approved research activities.&nbsp;</p>
 <p>NHG HQ</p>
 </li>
 </ul>
-<p>See here for details on applying for REDCap User Accounts.</p>
+<p>Click here to apply for REDCap User Accounts.</p>
 <p></p>
-<p>For External, Non-NHG Users: No access.</p>
+<p>Note: Due to NHG's cybersecurity policy restrictions, External and non-NHG
+users will not be granted any access to NHG-REDCap system.</p>
 <p></p>
-<p>Click here to learn more about using REDCap in NHG.</p>
-<p></p>
-<h4><strong>Types of Supported Activities</strong></h4>
-<p>The following categories of activities* may apply to use NHG-REDCap</p>
+<h4><strong>Supported Activities</strong></h4>
+<p>At present, the following categories of activities* may apply to use NHG-REDCap</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Approved Human Subject Research Activities (as defined by NHG DSRB)</p>
@@ -58,7 +57,7 @@ to support approved research activities.&nbsp;</p>
 </li>
 </ul>
 <p>
-<br><strong>*</strong>  <sup><sub>NOTE: The NHG-REDCap system is not configured as a "High-Availability" system, and hence cannot be used for delivering Clinical service/care/operations and any other mission-critical activities. </sub></sup>
+<br><strong>*</strong>  <sup><sub>NOTE: The NHG-REDCap system is not configured as a "High-Availability" system, and hence cannot be used for delivering Clinical service/care/operations and any other mission-critical activities. In addition, NHG-REDCap cannot be used as the basis for providing a contract or other services to any entity.</sub></sup>
 </p>
 <p></p>
 <p></p>
