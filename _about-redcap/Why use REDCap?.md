@@ -40,8 +40,9 @@ and resources to do the real work of answering your research questions!</p>
 <h4><strong>Secured Environment</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secure your research data via Project Logs, Audit trails, Fine-grain User-Rights
-control, regular data backups and network security.</p>
+<p>Secure your research data via REDCap's Project Logs, Audit trails, Fine-grain
+User-Rights control, with regular data backups and network security overseen
+by Synapxe.</p>
 </li>
 </ul>
 <h4><strong>Collaborate Easily</strong></h4>
@@ -54,7 +55,8 @@ Files to quickly setup a Study Site for collaboration.</p>
 <h4><strong>Learn Transferable Skills</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Your REDCap knowledge will be a valuable addition to your research skillset.</p>
+<p>As REDCap is used in all three public healthcare clusters in Singapore,
+your REDCap knowledge will be a valuable addition to your research skillset.</p>
 </li>
 </ul>
 <h4><strong>Save the Earth. Save limited Resources</strong></h4>
