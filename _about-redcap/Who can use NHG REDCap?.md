@@ -42,3 +42,4 @@ to support approved research activities.&nbsp;</p>
 </li>
 </ul>
 <p>See here for details on applying for REDCap User Accounts and Projects.</p>
+<p>Click here to learn more about using REDCap in NHG.</p>
