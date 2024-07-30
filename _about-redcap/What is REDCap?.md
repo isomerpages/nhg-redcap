@@ -22,8 +22,7 @@ Synapxe.</p>
 <p>NHG is also member of the REDCap Consortium which, in 2024, has 7,357
 active partners in 159 countries who utilize and support REDCap in various
 ways.</p>
-<p>NHG-REDCap is available to NHG Staff for supporting approved research
-activities.</p>
+<p></p>
 <p></p>
 <p>Click <a href="https://projectredcap.org" rel="noopener noreferrer nofollow" target="_blank">here to learn more at the REDCap Consortium.</a> (External
 Link)</p>
