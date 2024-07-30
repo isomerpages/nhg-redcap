@@ -41,5 +41,24 @@ to support approved research activities.&nbsp;</p>
 <p>NHG HQ</p>
 </li>
 </ul>
-<p>See here for details on applying for REDCap User Accounts and Projects.</p>
+<p>See here for details on applying for REDCap User Accounts.</p>
+<p></p>
+<p>For External, Non-NHG Users: No access.</p>
+<p></p>
 <p>Click here to learn more about using REDCap in NHG.</p>
+<p></p>
+<h4><strong>Types of Supported Activities</strong></h4>
+<p>The following categories of activities* may apply to use NHG-REDCap</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Approved Human Subject Research Activities (as defined by NHG DSRB)</p>
+</li>
+<li>
+<p>Registered Standing Databases (for potential future research)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>*</strong> Any activity which is deemed to be providing clinical
+service/care, or is mission-critical will not be able to use NHG-DSRB.</p>
+<p></p>
+<p></p>
