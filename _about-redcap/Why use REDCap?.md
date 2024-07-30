@@ -58,9 +58,13 @@ Files to quickly setup a Study Site for collaboration.</p>
 </li>
 </ul>
 <h4><strong>Save the Earth. Save limited Resources</strong></h4>
-<p>It’s not just about going green by eliminating paper use. Save your limited
-time and research resources for more productive and value-add research
-activities.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>It’s not just about going green by eliminating paper use by going fully
+electronic. Save your limited time and research resources for more productive
+and value-add research activities.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p>Click <a href="https://projectredcap.org/software/" rel="noopener noreferrer nofollow" target="_blank">here to learn more at the REDCap Consortium*</a> (External
