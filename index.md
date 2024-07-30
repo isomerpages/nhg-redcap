@@ -7,11 +7,11 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: NHG REDCap End-User Helpdesk
+      subtitle: REDCap Tech Support for NHG REDCap Users
+      background: /images/Hero Banners/RED_Links.jpg
       dropdown:
-        title: Hero Dropdown Title
+        title: Shortcuts...
         options:
           - title: Announcements
             url: /about/
