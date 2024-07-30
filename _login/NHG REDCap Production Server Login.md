@@ -12,3 +12,7 @@ Data Protection Act (PDPA) and any other applicable regulations where applicable
 to protect the Study Participants’ privacy and confidentiality.&nbsp;</p>
 <p><strong><a href="https://redcap.nhg.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Login to the NHG REDCap Production Server here</u></a></strong> (NHG
 Intranet access only)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
