@@ -69,6 +69,6 @@ and value-add research activities.</p>
 <p></p>
 <p>Click <a href="https://projectredcap.org/software/" rel="noopener noreferrer nofollow" target="_blank">here to learn more at the REDCap Consortium*</a> (External
 Link).
-<br><sup><sub>* Due to NHG cyber-security policies, some features and functionalities may not be available in NHG-REDCap.</sub></sup>
+<br><strong><sup><sub>*</sub></sup></strong><sup><sub> Due to NHG cyber-security policy restrictions, there are some features and functionalities that are not be available in NHG-REDCap.</sub></sup>
 </p>
 <p></p>
