@@ -57,8 +57,8 @@ to support approved research activities.&nbsp;</p>
 <p>Registered Standing Databases (for potential future research)</p>
 </li>
 </ul>
-<p></p>
-<p><strong>*</strong> Any activity which is deemed to be providing clinical
-service/care, or is mission-critical will not be able to use NHG-DSRB.</p>
+<p>
+<br><strong>*</strong>  <sup><sub>NOTE: The NHG-REDCap system is not configured as a "High-Availability" system, and hence cannot be used for delivering Clinical service/care/operations and any other mission-critical activities. </sub></sup>
+</p>
 <p></p>
 <p></p>
