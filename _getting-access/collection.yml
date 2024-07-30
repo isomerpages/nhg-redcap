@@ -2,6 +2,7 @@ collections:
   getting-access:
     output: true
     order:
+      - REDCap User Account Requests/REDCap User Account Reactivation.md
       - REDCap User Account Requests/Request for REDCap User Accounts.md
       - REDCap User Account Requests/.keep
       - Request for REDCap Projects.md
