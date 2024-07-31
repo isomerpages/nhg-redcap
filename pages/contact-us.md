@@ -7,9 +7,12 @@ contacts:
   - content:
       - phone: ""
       - email: redcap@nhg.com.sg
-      - other: <br>Please provide as much details (including screen-captures) as
-          possible about the problem so that we can efficiently pin-point and
-          troubleshoot the problem for you.<br>
+      - other: <br>Please provide as much details as possible about the problem so that
+          we can efficiently troubleshoot the
+          problem.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>• NHG-ADID Username <br>•
+          REDCap Server (Staging or Production) <br>• REDCap Project
+          Title  <br>• Name of Form & Data-Field <br>• A description of the
+          problem together with screen-captures where possible.
     title: NHG REDCap Helpdesk
   - content:
       - phone: ""
