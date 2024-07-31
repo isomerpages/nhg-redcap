@@ -17,11 +17,11 @@ their REDCap User-Account Request:</p>
 <p>Has a valid<strong> NHG ADID </strong>(Active Directory ID) Account</p>
 </li>
 <li>
-<p>Has a valid <strong>NHG Email address*</strong>.</p>
+<p>Has a valid <strong>NHG Email address</strong>.</p>
 </li>
 </ol>
 <p></p>
-<p>The NHG cybersecurity policy does not permit us to issue any REDCap User
+<p>The NHG Cybersecurity policy does not permit us to issue any REDCap User
 Accounts to applicants who do not meet the above criteria
 <br>
 </p>
