@@ -14,7 +14,7 @@ sections:
         title: Shortcuts...
         options:
           - title: Announcements
-            url: /about/
+            url: /announcements/
           - title: REDCap Login
             url: /about/
           - title: Getting Access
