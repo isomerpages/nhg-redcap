@@ -2,7 +2,6 @@ collections:
   getting-access:
     output: true
     order:
-      - REDCap User Accounts/About REDCap User Accounts.md
       - REDCap User Accounts/.keep
       - REDCap User Accounts/Request New REDCap User Account.md
       - REDCap User Accounts/Reactivating Suspended REDCap User Accounts.md
