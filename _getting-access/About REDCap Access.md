@@ -21,7 +21,8 @@ their REDCap User-Account Request:</p>
 </ol>
 <p></p>
 <p>The NHG Cybersecurity policy does not permit us to issue any REDCap User
-Accounts to applicants who do not meet the above criteria
+Accounts to applicants who do not meet the above criteria (ie: External
+and Non-NHG persons).
 <br>
 </p>
 <p></p>
