@@ -18,7 +18,7 @@ sections:
           - title: REDCap Login
             url: /production-login/
           - title: Getting Access
-            url: /about/
+            url: /rcuser-access/
           - title: Learning Resources
             url: /about/
           - title: Contact Helpdesk
