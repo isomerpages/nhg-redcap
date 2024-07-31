@@ -15,5 +15,10 @@ contacts:
       - other: The NHG REDCap Helpdesk can only provide support and asistance for NHG
           Staff and Users of the NHG REDCap system.
     title: Important
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <p>Monday to Friday <br>9am - 5pm<br> (Closed on Public Holidays)</p>
+    title: Operating Hours
 feedback: ""
 ---
