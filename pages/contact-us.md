@@ -7,7 +7,7 @@ contacts:
   - content:
       - phone: ""
       - email: redcap@nhg.com.sg
-      - other: "Note: We are only able to assist Staff from NHG Institutions."
+      - other: ""
     title: NHG REDCap Helpdesk
 feedback: ""
 ---
