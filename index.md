@@ -20,7 +20,7 @@ sections:
           - title: Getting Access
             url: /rcuser-access/
           - title: Learning Resources
-            url: /about/
+            url: /learnredcap/
           - title: Contact Helpdesk
             url: /about/
 ---
