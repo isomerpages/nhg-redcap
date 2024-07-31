@@ -22,5 +22,5 @@ sections:
           - title: Learning Resources
             url: /learnredcap/
           - title: Contact Helpdesk
-            url: /about/
+            url: /contact-us/
 ---
