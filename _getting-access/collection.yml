@@ -4,7 +4,7 @@ collections:
     order:
       - REDCap User Account Requests/About REDCap User Accounts.md
       - REDCap User Account Requests/.keep
-      - REDCap User Account Requests/Request for REDCap User Accounts.md
+      - REDCap User Account Requests/Request New REDCap User Account.md
       - REDCap User Account Requests/Reactivating Suspended REDCap User
         Accounts.md
       - REDCap Project Requests.md
