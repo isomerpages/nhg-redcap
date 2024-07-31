@@ -9,7 +9,7 @@ description: ""
 their REDCap User-Account Request:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Is a current <strong>NHG Employee</strong> 
+<p>Is a current <strong>NHG Employee</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
