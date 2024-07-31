@@ -7,14 +7,10 @@ contacts:
   - content:
       - phone: ""
       - email: redcap@nhg.com.sg
-      - other: ""
+      - other: <br>Please provide as much details (including screen-captures) as
+          possible about the problem so that we can efficiently pin-point and
+          troubleshoot the problem for you.<br>
     title: NHG REDCap Helpdesk
-  - content:
-      - phone: ""
-      - email: ""
-      - other: The NHG REDCap Helpdesk can only provide support and asistance for NHG
-          Staff and Users of the NHG REDCap system.
-    title: Important
   - content:
       - phone: ""
       - email: ""
@@ -23,9 +19,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <br>Please provide as much information as possible about the problem so
-          that we can efficiently pin-point and troubleshoot the problem for
-          you.<br>
-    title: ""
+      - other: The NHG REDCap Helpdesk can only provide support and asistance for NHG
+          Staff and Users of the NHG REDCap system.
+    title: Important
 feedback: ""
 ---
