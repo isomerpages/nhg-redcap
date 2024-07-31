@@ -4,7 +4,7 @@ permalink: /who-can-use-nhg-redcap/
 variant: tiptap
 description: ""
 ---
-<p>NHG-REDCap can be used by all NHG Institution Staff engaged in supported
+<p>NHG-REDCap can be used by all NHG Institution Staff for REDCap-supported
 activities.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,17 +43,20 @@ activities.&nbsp;</p>
 </ul>
 <p>Click here to apply for REDCap User Accounts.</p>
 <p></p>
-<p>Note: Due to NHG's cybersecurity policy restrictions, External and non-NHG
-users will not be granted any access to NHG-REDCap system.</p>
+<p><sup>Note: Due to NHG's cybersecurity policy restrictions, we are not able to grant any External and non-NHG users access to NHG-REDCap system.</sup>
+</p>
 <p></p>
 <h4><strong>Supported Activities</strong></h4>
-<p>At present, the following categories of activities* may apply to use NHG-REDCap</p>
+<p>At present, the following categories of activities<strong>*</strong> may
+apply to use NHG-REDCap</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Approved Human Subject Research Activities (as defined by NHG DSRB)</p>
+<p>Approved Human Subject Research Activities (as reviewed and approved by
+NHG DSRB)</p>
 </li>
 <li>
-<p>Registered Standing Databases (for potential future research)</p>
+<p>Registered Standing Databases &amp; Tissue Banks (for potential future
+research)</p>
 </li>
 </ul>
 <p>
