@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About REDCap User Access.md
+      - REDCap Projects.md
       - REDCap User Accounts/.keep
       - REDCap User Accounts/Request New REDCap User Account.md
       - REDCap User Accounts/Reactivating Suspended REDCap User Accounts.md
-      - REDCap Projects.md
