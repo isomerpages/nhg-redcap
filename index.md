@@ -16,7 +16,7 @@ sections:
           - title: Announcements
             url: /announcements/
           - title: REDCap Login
-            url: /about/
+            url: /production-login/
           - title: Getting Access
             url: /about/
           - title: Learning Resources
