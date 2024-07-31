@@ -2,6 +2,7 @@ collections:
   getting-access:
     output: true
     order:
+      - About Access 2.md
       - About REDCap User Access.md
       - REDCap Projects.md
       - REDCap User Accounts/.keep
