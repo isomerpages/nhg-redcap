@@ -11,23 +11,23 @@ REDCap’s essential concepts and features.</p>
 <p>Please be aware that we have no control over these externally hosted video
 links listed below.
 <br>
-<br><strong><sup>Note: </sup></strong>
+<br><strong><sup>Note:</sup></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><sup><sub>New versions of REDCap are released frequently, so the videos and other training resources below may reflect earlier software versions and thus may look slightly different than your system. However, the basic REDCap concepts are still valid.</sub></sup>
+<p><strong><sup><sub>New versions of REDCap are released frequently, so the videos and other training resources below may reflect earlier software versions and thus may look slightly different than your system. However, the basic REDCap concepts are still valid.</sub></sup></strong>
 </p>
 </li>
 <li>
-<p><sup><sub>Always refer to the REDCap software's built-in prompts and instructional text for the most current information. </sub></sup>
+<p><strong><sup><sub>Always refer to the REDCap software's built-in prompts and instructional text for the most current information.</sub></sup></strong>
 </p>
 </li>
 <li>
-<p><sup><sub>Do note that any references to policies and regulatory requirements in these videos may not relevant to NHG REDCap Users. Instead, NHG RECap users should refer to NHG's Policies for the applicable information.</sub></sup>
+<p><strong><sup><sub>Do note that any references to policies and regulatory requirements in these videos may not relevant to NHG REDCap Users. Instead, NHG RECap users should refer to NHG's Policies for the applicable information.</sub></sup></strong>
 </p>
 </li>
 <li>
-<p><sup><sub>Due to NHG's cybersecurity policy restrictions, some of the features described may not be available in NHG-REDCap.</sub></sup>
+<p><strong><sup><sub>Due to NHG's cybersecurity policy restrictions, some of the features described may not be available in NHG-REDCap.</sub></sup></strong>
 </p>
 </li>
 </ul>
@@ -45,7 +45,7 @@ LInk)</p>
 </ul>
 <p></p>
 <p></p>
-<h4><strong>ITHS REDCap Lecture series </strong></h4>
+<h4><strong>ITHS REDCap Lecture series</strong></h4>
 <p>This is a series of lecture-style videos produced by the Institute of
 Translational Health Sciences (ITHS), University of Washington. These videos
 take a detailed look at REDCap and are highly recommended for users who
