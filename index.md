@@ -7,8 +7,8 @@ permalink: /
 notification: This Site is currently under construction.
 sections:
   - hero:
-      title: NHG REDCap End-User Helpdesk
-      subtitle: REDCap Tech Support for NHG REDCap Users
+      title: NHG REDCap Helpdesk
+      subtitle: REDCap Techical & User Support for NHG REDCap Users
       background: /images/Hero Banners/RED_Links.jpg
       dropdown:
         title: Shortcuts...
