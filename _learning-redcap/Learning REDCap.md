@@ -4,11 +4,10 @@ permalink: /learnredcap/
 variant: tiptap
 description: ""
 ---
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
-nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
-nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+<p>REDCap is intended to be a primarily "Self-Service" tool where researchers
+can develop and deploy a REDCap Project with minimal IT Support.</p>
+<p>Users are expected to learn to use REDCap via the User Guides, Tutorial
+Videos, the built-in Frequently Asked Questions knowledge bank, and embedded
+documentation.</p>
+<p>These learning resources all work together to guide the researcher in
+the learning and use of the system.</p>
