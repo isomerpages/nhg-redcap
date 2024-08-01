@@ -14,7 +14,7 @@ sections:
         title: Shortcuts...
         options:
           - title: Announcements
-            url: /resourceCategory/announcements
+            url: /resources/
           - title: REDCap Login
             url: /production-login/
           - title: Getting Access
