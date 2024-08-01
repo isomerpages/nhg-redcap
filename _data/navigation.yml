@@ -4,7 +4,7 @@ links:
     collection: about-redcap
   - title: Announcements
     resource_room: true
-  - title: ACCESS
+  - title: Access
     collection: getting-access
   - title: Learning
     collection: learning-redcap
@@ -12,5 +12,5 @@ links:
     collection: regulations-and-policies
   - title: Contact Us
     url: /contact-us/
-  - title: LOGIN
+  - title: Login
     collection: login
