@@ -13,18 +13,25 @@ sections:
       dropdown:
         title: Shortcuts...
         options:
+          - title: Login
+            url: /production-login/
           - title: Announcements
             url: /resources/
-          - title: REDCap Login
-            url: /production-login/
-          - title: Getting Access
-            url: /rcuser-access/
+          - title: Account Requests
+            url: /request-useraccts/
+          - title: Project Requests
+            url: /request-rcprojects/
           - title: Learning Resources
             url: /learnredcap/
           - title: Contact Helpdesk
             url: /contact-us/
-  - resources:
-      title: Announcements & News
-      id: resources
-      button: See more here
+  - announcements:
+      title: Latest News & Announcements
+      id: announcements
+      announcement_items:
+        - title: NHG REDCap Helpdesk Portal
+          date: 01 August 2024
+          announcement: We have a new REDCap Helpdesk Portal for NHG Users!
+          link_text: Read more
+          link_url: /nhg-redcap-helpdesk-site/
 ---
