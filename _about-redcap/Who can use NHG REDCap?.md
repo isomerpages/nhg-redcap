@@ -46,7 +46,7 @@ types of activities.&nbsp;NHG Institutions include:</p>
 <p>Due to NHG cybersecurity policy restrictions, we are not able to provide
 access to NHG-REDCap for External and Non-NHG persons.</p>
 <p></p>
-<h4><strong>Supported Activities </strong></h4>
+<h4><strong>Supported Activities</strong></h4>
 <p>At present, the following categories of activities may apply to use NHG-REDCap</p>
 <ul data-tight="true" class="tight">
 <li>
