@@ -2,15 +2,15 @@ logo: /images/REDCap logo/Logo2.png
 links:
   - title: About REDCap
     collection: about-redcap
-  - title: Learning Redcap
-    collection: learning-redcap
+  - title: Announcements
+    resource_room: true
   - title: GETTING ACCESS
     collection: getting-access
+  - title: Learning Redcap
+    collection: learning-redcap
   - title: Regulatory
     collection: regulations-and-policies
   - title: Contact Us
     url: /contact-us/
   - title: LOGIN
     collection: login
-  - title: Announcements
-    resource_room: true
