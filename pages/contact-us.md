@@ -23,7 +23,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: The NHG REDCap Helpdesk can only provide support and assistance to NHG
-          Institution Staff and NHG-REDCap Users
+          Institution Staff and NHG-REDCap Users.
     title: Important
 feedback: ""
 ---
