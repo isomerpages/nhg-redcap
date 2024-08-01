@@ -4,12 +4,10 @@ permalink: /why-use-redcap/
 variant: tiptap
 description: ""
 ---
-<h4><strong>User-Friendly</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
 <p>REDCap enables researchers to collect, store, organize, report, clean,
 and export data for analysis electronically.</p>
-</li>
+<h4><strong>User-Friendly Tools</strong></h4>
+<ul data-tight="true" class="tight">
 <li>
 <p>Researchers can easily create web-based databases and data capture forms
 by using REDCap’s menu-driven process to enable rapid project design and
