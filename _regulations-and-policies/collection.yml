@@ -2,7 +2,7 @@ collections:
   regulations-and-policies:
     output: true
     order:
-      - What Researchers need to know.md
+      - What NHG Researchers need to know.md
       - NHG REDCap Policies/.keep
       - NHG REDCap Policies/NHG REDCap System Usage Agreement.md
       - Personal Data Protection Act (PDPA).md
