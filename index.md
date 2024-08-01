@@ -23,4 +23,13 @@ sections:
             url: /learnredcap/
           - title: Contact Helpdesk
             url: /contact-us/
+  - announcements:
+      title: Announcements & News
+      id: announcements
+      announcement_items:
+        - title: New Announcement
+          date: 01 August 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
