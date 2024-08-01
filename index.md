@@ -26,4 +26,5 @@ sections:
   - resources:
       title: Announcements & News
       id: resources
+      button: See more here
 ---
