@@ -13,7 +13,7 @@ requirements for their research activity.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Regulations</summary>
+<summary>Singapore Regulations</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="/human-biomedical-research-act-hbra/" rel="noopener noreferrer nofollow" target="_blank">Human Biomedical Research Act (HBRA)</a>
 </p>
@@ -30,28 +30,4 @@ requirements for their research activity.</p>
 </div>
 </details>
 </div>
-<p><strong>Regulations</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Human Biomedical Research Act (HBRA)</p>
-</li>
-<li>
-<p>Personal Data Protection Act (PDPA)</p>
-</li>
-</ul>
-<p></p>
-<p><strong>NHG Policies</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>NHG Research Data Policy</p>
-</li>
-<li>
-<p>NHG Proper Conduct of Research Policy</p>
-</li>
-<li>
-<p>NHG REDCap System Usage Agreement</p>
-</li>
-</ul>
 <p></p>
