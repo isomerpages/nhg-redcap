@@ -46,20 +46,15 @@ personal data only for purposes that would be considered appropriate to
 a reasonable person in the given circumstances.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>References and Further Reading</strong>
-<br>
-<br>For more information on the Personal Data Protection Act, please refer
-to the following websites:</p>
+<p>&nbsp;<strong>References and Further Reading</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Statutes Online, available at <strong><a href="https://sso.agc.gov.sg/Act/PDPA2012" rel="noopener noreferrer nofollow" target="_blank"><u>https://sso.agc.gov.sg/Act/PDPA2012</u></a></strong>
+<p><a href="https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act" rel="noopener noreferrer nofollow" target="_blank">Personal Data Protection Commission Singapore (PDPA Overview)</a>
 </p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
-<p>Personal Data Protection Commission Singapore, available at <strong><a href="https://sso.agc.gov.sg/Act/PDPA2012" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pdpc.gov.sg/legislation-and-guidelines/overview</u></a></strong>
+<p><a href="https://sso.agc.gov.sg/Act/PDPA2012" rel="noopener noreferrer nofollow" target="_blank">Singapore Statutes Online (Personal Data Protection Act 2012)</a>
 </p>
 </li>
 </ul>
