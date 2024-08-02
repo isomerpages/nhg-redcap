@@ -4,8 +4,10 @@ permalink: /who-can-use-nhg-redcap/
 variant: tiptap
 description: ""
 ---
-<p>The NHG-REDCap system is available to NHG Institutions to support specific
-types of activities.&nbsp;NHG Institutions include:</p>
+<p>Only Staff of the National Healthcare Group (NHG) and her Institutions
+are eligible to use the NHG-REDCap system to support specific types of
+activities.&nbsp;</p>
+<p>NHG Institutions include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tan Tock Seng Hospital</p>
@@ -41,13 +43,19 @@ types of activities.&nbsp;NHG Institutions include:</p>
 <p>NHG HQ</p>
 </li>
 </ul>
+<p>NHG Staff should note that REDCap User Accounts are not automatically
+issued. You will need to submit your REDCap User Account Request here.</p>
 <p></p>
 <h4><strong>External &amp; Non-NHG Persons</strong></h4>
 <p>Due to NHG cybersecurity policy restrictions, we are unable to provide
-access for NHG-REDCap for External and Non-NHG persons.</p>
+access to the NHG-REDCap system for External and Non-NHG persons.</p>
+<p>If you are from another Singapore Public Healthcare Cluster/Institution
+(ie: NUHS or Singhealth), we recommend that you check with your Cluster's
+Clinical Research Unit/Office to see how you can get access to your Institution's
+REDCap system to support your research activity.</p>
 <p></p>
 <h4><strong>Supported Activities</strong></h4>
-<p>At present, the following categories of activities may apply to use NHG-REDCap</p>
+<p>NHG-REDCap is available for use by the following research activities:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Approved Human Subject Research Activities (as reviewed and approved by
