@@ -17,7 +17,7 @@ sections:
             url: /production-login/
           - title: Announcements
             url: /resources/
-          - title: Account Requests
+          - title: User Account Requests
             url: /request-useraccts/
           - title: Project Requests
             url: /request-rcprojects/
