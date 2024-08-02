@@ -4,8 +4,9 @@ permalink: /why-use-redcap/
 variant: tiptap
 description: ""
 ---
-<p>REDCap enables researchers to collect, store, organize, report, clean,
-and export data for analysis electronically.</p>
+<p>REDCap is an easy-to-use web application designed to support electronic
+data capture for research studies. REDCap enables researchers to collect,
+store, organize, report, clean, and export data for analysis electronically.</p>
 <h4><strong>User-Friendly Tools</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
