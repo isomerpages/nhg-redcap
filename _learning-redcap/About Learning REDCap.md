@@ -13,3 +13,9 @@ and embedded documentation.</p>
 on the Internet due to the widespread use of REDCap internationally.</p>
 <p>We recommend that Users begin their learning journey with the REDCap Tutorial
 Videos and User Guides.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Content Images/Learning.jpg">
+</div>
+<p></p>
