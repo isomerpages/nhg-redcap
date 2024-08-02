@@ -14,11 +14,15 @@ Review Boards (DSRB).</p>
 </li>
 <li>
 <p>Registered Standing Databases &amp; Tissue Banks (for potential future
-research)
-<br>
-</p>
+research)</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/LabImages1000x361.jpg">
+</div>
+<p></p>
 <h4><strong>Excluded Activities</strong></h4>
 <p>The NHG-REDCap system is not configured as a "High-Availability" system.
 Hence NHG-REDCap cannot be used for delivering Clinical Service/Care/Operations
