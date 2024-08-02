@@ -20,12 +20,6 @@ knowledge.</p>
 <p>Visit the <a href="https://projectredcap.org/about/" rel="noopener noreferrer nofollow" target="_blank">REDCap Consortium</a> (External
 Link) for more information.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/data2.jpg">
-</div>
-<p></p>
-<p></p>
 <p><strong>About REDCap in NHG</strong>
 </p>
 <p>The National Healthcare Group (NHG) is a member of the REDCap Consortium
