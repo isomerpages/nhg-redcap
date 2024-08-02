@@ -7,6 +7,9 @@ description: ""
 <p><strong>REDCap (Research Electronic Data Capture)</strong> is an easy-to-use
 web application designed to support electronic data capture in a secured
 and systematic manner.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/REDCap logo/REDCap_Logo.png">
+</div>
 <p>Developed in 2004 by Vanderbilt University, REDCap is intended to help
 researchers collect and manage data for small-medium sized projects.</p>
 <p>By using REDCap's simple menu-driven interface, researchers can quickly
