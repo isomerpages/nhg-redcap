@@ -25,12 +25,17 @@ Link) for more information.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/data2.jpg">
 </div>
 <p></p>
+<p></p>
 <p><strong>About REDCap in NHG</strong>
 </p>
 <p>The National Healthcare Group (NHG) is a member of the REDCap Consortium
 which, in 2024, has 7,357 active partners in 159 countries who utilize
 and support REDCap in various ways. In Singapore, all three public healthcare
 clusters (NHG, NUHS, Singhealth) host and support their own REDCap systems.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/REDCap logo/Logo2.png">
+</div>
 <p>The NHG-REDCap system was first launched in 2016 and is jointly administered
 and maintained by NHG's Group Research &amp; Innovation (GRI) and Synapxe.</p>
 <p></p>
