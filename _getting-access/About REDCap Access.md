@@ -38,3 +38,5 @@ access to the NHG-REDCap system for External and Non-NHG persons.</p>
 (ie: NUHS or Singhealth), we recommend that you check with your Cluster's
 Clinical Research Unit/Office to see how you can get access to your Institution's
 REDCap system to support your research activity.</p>
+<p></p>
+<p></p>
