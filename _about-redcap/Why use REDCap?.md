@@ -60,15 +60,14 @@ to your research skillset.</p>
 <h4><strong>Use limited Resources effectively</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>It’s not just about going green by eliminating paper use by going fully
-electronic. Save your limited time and finite resources for more productive
-and value-added research activities.</p>
+<p>Going fully electronic is not just about going green and eliminating paper-use.
+Save your valuable time and finite resources for more productive and value-added
+research activities.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
-<p>Click <a href="https://projectredcap.org/software/" rel="noopener noreferrer nofollow" target="_blank">here to learn more at the REDCap Consortium*</a> (External
-Link).
-<br><strong><sup><sub>*</sub></sup></strong><sup><sub> Due to NHG cyber-security policy restrictions, there are some features and functionalities that are not be available in NHG-REDCap.</sub></sup>
+<p>Learn more <a href="https://projectredcap.org/software/" rel="noopener noreferrer nofollow" target="_blank">at the REDCap Consortium</a><strong>*</strong> (External
+Link)
+<br><strong><sup><sub>*</sub></sup></strong><sup><sub> Due to NHG cybersecurity policy restrictions, there are some features and functionalities that are not be available in NHG-REDCap.</sub></sup>
 </p>
 <p></p>
