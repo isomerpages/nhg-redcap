@@ -11,46 +11,50 @@ REDCap’s essential concepts and features.</p>
 <p>Please be aware that we have no control over these externally hosted video
 links listed below.
 <br>
-<br><strong><sup>Note:</sup></strong>
+<br><strong>NOTE:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><sup><sub>New versions of REDCap are released frequently, so the videos and other training resources below may reflect earlier software versions and thus may look slightly different than your system. However, the basic REDCap concepts are still valid.</sub></sup></strong>
-</p>
+<p>New versions of REDCap are released frequently, so the videos and other
+training resources may reflect earlier REDCap versions and thus may look
+slightly different. However, the basic REDCap concepts are still valid.</p>
 </li>
 <li>
-<p><strong><sup><sub>Always refer to the REDCap software's built-in prompts and instructional text for the most current information.</sub></sup></strong>
-</p>
+<p>Always refer to the REDCap system's built-in prompts and instructional
+text for the most current information.</p>
 </li>
 <li>
-<p><strong><sup><sub>Do note that any references to policies and regulatory requirements in these videos may not relevant to NHG REDCap Users. Instead, NHG RECap users should refer to NHG's Policies for the applicable information.</sub></sup></strong>
-</p>
+<p>The references to policies and regulatory requirements in these videos
+may not relevant to NHG REDCap Users. Instead, NHG RECap users should refer
+to NHG's Policies for the applicable information.</p>
 </li>
 <li>
-<p><strong><sup><sub>Due to NHG's cybersecurity policy restrictions, some of the features described may not be available in NHG-REDCap.</sub></sup></strong>
-</p>
+<p>Due to NHG's cybersecurity policy restrictions, some of the features described
+may not be available in NHG-REDCap.</p>
 </li>
 </ul>
-<h4><br><strong>Official REDCap Training Videos</strong></h4>
-<p>The official REDCap Training Videos are split up into small videos which
-range from 5 to 15 minutes on various topics for easy viewing.</p>
+<p></p>
+<h4><strong>REDCap Consortium Videos</strong></h4>
+<p>The REDCap Consortium has a list of informational videos that will help
+new users get started and gain a better understanding of the REDCap application
+and its functionality. The videos range from 5 to 15 minutes on various
+topics for easy viewing.</p>
 <p>This is the quickest way to learn the basics of using REDCap. We recommend
-that you watch the videos in sequence to built up your understanding of
+that you watch the videos in sequence to build up your understanding of
 REDCap.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://projectredcap.org/resources/videos/" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for the official&nbsp;REDCap Consortium&nbsp;Training&nbsp;Videos</u></a> </strong>(External
-LInk)</p>
+<p><strong><a href="https://projectredcap.org/resources/videos/" rel="noopener noreferrer nofollow" target="_blank"><u>REDCap Consortium&nbsp;Videos</u></a> </strong>(External
+Link)</p>
 </li>
 </ul>
 <p></p>
-<p></p>
-<h4><strong>ITHS REDCap Lecture series</strong></h4>
+<h4><strong>ITHS REDCap Lecture series (YouTube</strong></h4>
 <p>This is a series of lecture-style videos produced by the Institute of
 Translational Health Sciences (ITHS), University of Washington. These videos
 take a detailed look at REDCap and are highly recommended for users who
 want to gain a further in-depth look at REDCap.</p>
-<p><sup>Note: These videos are hosted on YouTube.</sup>
+<p><strong><sup>Note: These videos are hosted on YouTube.</sup></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
