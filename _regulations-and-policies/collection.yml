@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - What NHG Researchers need to know.md
-      - NHG REDCap Policies/.keep
-      - NHG REDCap Policies/NHG REDCap System Usage Agreement.md
+      - NHG Policies/.keep
+      - NHG Policies/NHG REDCap System Usage Agreement.md
       - Personal Data Protection Act (PDPA).md
       - Human Biomedical Research Act (HBRA).md
