@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Welcome.</p>
+<p></p>
+<p>This is the new NHG REDCap Helpdesk Portal for the NHG Research Community.</p>
+<p></p>
