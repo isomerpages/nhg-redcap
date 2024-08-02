@@ -14,8 +14,8 @@ create web-based data capture forms with features like branching-logic
 questions, user access control, multi-visit data capture and real-time
 data entry validation without the need for any programming or specialist-IT
 knowledge.</p>
-<p>Visit the <a href="https://projectredcap.org" rel="noopener noreferrer nofollow" target="_blank">REDCap Consortium</a> for
-more information (External Link).</p>
+<p>Visit the <a href="https://projectredcap.org/about/" rel="noopener noreferrer nofollow" target="_blank">REDCap Consortium</a> (External
+Link) for more information.</p>
 <p><strong>About REDCap in NHG</strong>
 </p>
 <p>The National Healthcare Group (NHG) is a member of the REDCap Consortium
