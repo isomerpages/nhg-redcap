@@ -14,15 +14,15 @@ create web-based data capture forms with features like branching-logic
 questions, user access control, multi-visit data capture and real-time
 data entry validation without the need for any programming or specialist-IT
 knowledge.</p>
-<h4><strong>About REDCap in NHG</strong></h4>
-<p>The REDCap system in NHG was first launched in 2016 and is currently jointly
-administered and maintained by NHG Group Research &amp; Innovation and
-Synapxe.</p>
-<p>NHG is also member of the REDCap Consortium which, in 2024, has 7,357
-active partners in 159 countries who utilize and support REDCap in various
-ways.</p>
-<p>In Singapore, all three public healthcare clusters host their own REDCap
-system.</p>
+<p><strong>About REDCap in NHG</strong>
+</p>
+<p>The National Healthcare Group (NHG) is a member of the REDCap Consortium
+which, in 2024, has 7,357 active partners in 159 countries who utilize
+and support REDCap in various ways. In Singapore, all three public healthcare
+clusters (NHG, NUHS, Singhealth) host and support their own REDCap systems.</p>
+<p>The NHG-REDCap system was first launched in 2016 and is jointly administered
+and maintained by NHG's Group Research &amp; Innovation (GRI) and Synapxe.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
