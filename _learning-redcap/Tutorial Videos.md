@@ -8,10 +8,17 @@ description: ""
 to watch these videos below. The videos will help you to get started on
 the basics of the REDCap system and provide a good overview for some of
 REDCap’s essential concepts and features.</p>
-<p>Please be aware that we have no control over these externally hosted video
-links listed below.
+<p><strong>IMPORTANT: </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please be aware that we have no control over these third-party, externally
+hosted video links listed below.
 <br>
-<br><strong>NOTE:</strong>
+</p>
+</li>
+</ul>
+<p><strong>NOTE:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -44,12 +51,12 @@ that you watch the videos in sequence to build up your understanding of
 REDCap.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://projectredcap.org/resources/videos/" rel="noopener noreferrer nofollow" target="_blank"><u>REDCap Consortium&nbsp;Videos</u></a> </strong>(External
-Link)</p>
+<p><strong><a href="https://projectredcap.org/resources/videos/" rel="noopener noreferrer nofollow" target="_blank"><u>REDCap Consortium&nbsp;Videos</u></a></strong>
+</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>ITHS REDCap Lecture series (YouTube</strong></h4>
+<h4><strong>ITHS REDCap Lecture series (YouTube)</strong></h4>
 <p>This is a series of lecture-style videos produced by the Institute of
 Translational Health Sciences (ITHS), University of Washington. These videos
 take a detailed look at REDCap and are highly recommended for users who
