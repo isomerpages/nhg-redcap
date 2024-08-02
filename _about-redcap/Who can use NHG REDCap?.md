@@ -61,12 +61,12 @@ REDCap system to support your research activity.</p>
 <p>Approved Human Subject Research Activities (as reviewed and approved by
 NHG DSRB)</p>
 </li>
-<li>
-<p>Registered Standing Databases &amp; Tissue Banks (for potential future
-research)</p>
-</li>
 </ul>
-<h4><br><strong>Excluded Activities</strong></h4>
+<p>Registered Standing Databases &amp; Tissue Banks (for potential future
+research)
+<br>
+</p>
+<h4><strong>Excluded Activities</strong></h4>
 <p>The NHG-REDCap system is not configured as a "High-Availability" system
 and is subject to unplanned downtime.</p>
 <p>Hence NHG-REDCap cannot be used for delivering Clinical Service/Care/Operations
