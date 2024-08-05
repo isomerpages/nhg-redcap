@@ -33,5 +33,5 @@ sections:
           date: 01 August 2024
           announcement: We have a new REDCap Helpdesk Portal for NHG Users!
           link_text: Read more
-          link_url: /nhg-redcap-helpdesk-site/
+          link_url: /welcome-to-the-new-nhg-redcap-helpdesk-portal/
 ---
