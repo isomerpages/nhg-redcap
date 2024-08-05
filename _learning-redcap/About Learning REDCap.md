@@ -10,7 +10,8 @@ can develop and deploy a REDCap Project with minimal IT Support.</p>
 Tutorial Videos, the built-in Frequently Asked Questions knowledge bank,
 and embedded documentation.</p>
 <p>In addition, Users can also find an abundance of REDCap learning resources
-on the Internet due to the widespread use of REDCap internationally.</p>
+on the Internet due to the widespread use of REDCap at research centers
+and academic institutions internationally.</p>
 <p>We recommend that Users begin their learning journey with the REDCap Tutorial
 Videos and User Guides.</p>
 <p></p>
