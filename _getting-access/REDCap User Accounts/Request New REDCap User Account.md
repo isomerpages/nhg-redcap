@@ -9,9 +9,6 @@ third_nav_title: REDCap User Accounts
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/CreateAccInfoPanel.jpg">
 </div>
 <p></p>
-<p>Click here to submit a <a href="https://redcap.nhg.com.sg/surveys/?s=FY8NDCDKWE" rel="noopener noreferrer nofollow" target="_blank">NEW NHG-REDCap User Account Request</a> (NHG
-Intranet access required)</p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>NHG REDCap System Usage Agreement</strong>
@@ -29,10 +26,16 @@ Intranet access required).</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Types of REDCap User Accounts</summary>
+<summary><strong>Types of REDCap User Accounts &amp; their Purpose</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/rcAcctTypeInfoPanel.jpg">
+</div>
 </div>
 </details>
 </div>
 <p></p>
+<p><strong>Click here to submit a <a href="https://redcap.nhg.com.sg/surveys/?s=FY8NDCDKWE" rel="noopener noreferrer nofollow" target="_blank">NEW NHG-REDCap User Account Request</a></strong> (NHG
+Intranet access required)</p>
