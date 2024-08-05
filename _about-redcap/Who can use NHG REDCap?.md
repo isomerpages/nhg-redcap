@@ -44,7 +44,9 @@ to use the NHG-REDCap system to support specific types of activities.&nbsp;</p>
 </li>
 </ul>
 <p>NHG Staff should note that REDCap User Accounts are not automatically
-issued. <a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">(See here for details)</a>
+issued. REDCap User Accounts must be requested for.</p>
+<p></p>
+<p><em><sup>If your Inst/Dept would like us to conduct a Presentation on REDCap and how it can benefit your research activities, please contact us at </sup><a href="mailto:redcap@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><sup>redcap@nhg.com.sg</sup></a><sup>.</sup></em>
 </p>
 <p></p>
 <h4><strong>External &amp; Non-NHG Persons</strong></h4>
