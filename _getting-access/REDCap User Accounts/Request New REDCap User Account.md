@@ -35,6 +35,26 @@ Intranet access required).</p>
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>REDCap User Account Suspension</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>If you <strong>do not log in</strong> to REDCap for more than&nbsp;<strong><u>90 calendar days</u></strong>,
+your REDCap User Account will be <strong><u>automatically suspended</u></strong> for
+security reasons.</p>
+</li>
+<li>
+<p>REDCap Users will need to&nbsp;submit a Request&nbsp;to re-activate their
+suspended REDCap Account(s) for use.</p>
+</li>
+<li>
+<p>We <strong>do not accept email requests</strong> for account re-activation.</p>
+</li>
+</ul>
+</div>
+</details>
 </div>
 <p></p>
 <p><strong>Click here to submit a <a href="https://redcap.nhg.com.sg/surveys/?s=FY8NDCDKWE" rel="noopener noreferrer nofollow" target="_blank">NEW NHG-REDCap User Account Request</a></strong> (NHG
