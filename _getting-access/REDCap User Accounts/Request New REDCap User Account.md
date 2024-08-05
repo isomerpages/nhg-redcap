@@ -18,7 +18,8 @@ Intranet access required)</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>NHG REDCap System Usage Agreement</summary>
+<summary><strong>NHG REDCap System Usage Agreement</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The NHG REDCap System Usage Agreement (‘Agreement’) defines the responsibilities
 and obligations of all NHG-REDCap Users.</p>
