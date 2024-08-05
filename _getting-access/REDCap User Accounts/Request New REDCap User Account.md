@@ -15,3 +15,27 @@ Intranet access required)</p>
 <p></p>
 <p>Click here to submit a <a href="https://redcap.nhg.com.sg/surveys/?s=FY8NDCDKWE" rel="noopener noreferrer nofollow" target="_blank">NEW NHG-REDCap User Account Request</a> (NHG
 Intranet access required)</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>NHG REDCap System Usage Agreement</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The NHG REDCap System Usage Agreement (‘Agreement’) defines the responsibilities
+and obligations of all NHG-REDCap Users.</p>
+<p>By using the NHG REDCap system, the REDCap Users agree to abide by the
+provisions of the NHG REDCap System Usage Agreement.</p>
+<p>REDCap Users understand that violating the provisions of this Agreement
+may constitute grounds for disciplinary actions as determined by applicable
+research regulations and NHG’s Policies and Procedures</p>
+<p>Click <a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Policies/1302-001%20NHG%20REDCap%20System%20Usage%20Agreement%20v1.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">here to view the NHG REDCap System Usage Agreement</a> (NHG
+Intranet access required).</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
