@@ -10,7 +10,7 @@ links:
     collection: learning-redcap
   - title: Regulations
     collection: regulations-and-policies
-  - title: Contact Us
-    url: /contact-us/
   - title: Login
     collection: login
+  - title: Contact Us
+    url: /contact-us/
