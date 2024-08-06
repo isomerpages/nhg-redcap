@@ -8,7 +8,7 @@ notification: This Site is currently under construction.
 sections:
   - hero:
       title: NHG REDCap Helpdesk
-      subtitle: REDCap Techical & User Support for NHG REDCap Users
+      subtitle: REDCap End-User Support for the NHG Research Community
       background: /images/Hero Banners/RED_Links.jpg
       dropdown:
         title: Shortcuts...
