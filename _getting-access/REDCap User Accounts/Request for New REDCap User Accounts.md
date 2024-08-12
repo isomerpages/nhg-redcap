@@ -14,15 +14,25 @@ third_nav_title: REDCap User Accounts
 <summary><strong>NHG REDCap System Usage Agreement</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p>The NHG REDCap System Usage Agreement (‘Agreement’) defines the responsibilities
 and obligations of all NHG-REDCap Users.</p>
+</li>
+<li>
 <p>By using the NHG REDCap system, the REDCap Users agree to abide by the
 provisions of the NHG REDCap System Usage Agreement.</p>
+</li>
+<li>
 <p>REDCap Users understand that violating the provisions of this Agreement
 may constitute grounds for disciplinary actions as determined by applicable
 research regulations and NHG’s Policies and Procedures</p>
+</li>
+<li>
 <p>Click <a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Policies/1302-001%20NHG%20REDCap%20System%20Usage%20Agreement%20v1.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">here to view the NHG REDCap System Usage Agreement</a> (NHG
 Intranet access required).</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -57,5 +67,10 @@ suspended REDCap Account(s) for use.</p>
 </details>
 </div>
 <p></p>
-<p><strong>Click here to submit a <a href="https://redcap.nhg.com.sg/surveys/?s=FY8NDCDKWE" rel="noopener noreferrer nofollow" target="_blank">NEW NHG-REDCap User Account Request</a></strong> (NHG
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Submit a <a href="https://redcap.nhg.com.sg/surveys/?s=FY8NDCDKWE" rel="noopener noreferrer nofollow" target="_blank">NEW NHG-REDCap User Account Request here</a></strong> (NHG
 Intranet access required)</p>
+</li>
+</ul>
+<p></p>
