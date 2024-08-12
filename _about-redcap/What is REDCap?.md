@@ -22,7 +22,7 @@ Link) for more information.</p>
 <p></p>
 <p><strong>About REDCap in NHG</strong>
 </p>
-<p>The National Healthcare Group (NHG) has been a member of the REDCap Consortium
+<p>The National Healthcare Group (NHG) is a member of the REDCap Consortium
 (since 2016) which is made up of 7,357 active partners in 159 countries
 (as of 2024) who utilize and support REDCap in various ways. In Singapore,
 all three public healthcare clusters (NHG, NUHS, Singhealth) host and support
