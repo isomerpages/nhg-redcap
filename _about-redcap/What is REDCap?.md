@@ -11,9 +11,9 @@ and systematic manner.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/REDCap logo/REDCap_Logo.png">
 </div>
 <p>Developed in 2004 by Vanderbilt University, REDCap is intended to help
-researchers collect and manage data for small-medium sized projects.</p>
-<p>By using REDCap's simple menu-driven interface, researchers can quickly
-create web-based data capture forms with features like branching-logic
+researchers collect and manage data for small-to-medium sized projects.</p>
+<p>With REDCap's simple menu-driven interface, researchers can quickly and
+easily create web-based data capture forms with features like branching-logic
 questions, user access control, multi-visit data capture and real-time
 data entry validation without the need for any programming or specialist-IT
 knowledge.</p>
@@ -22,10 +22,11 @@ Link) for more information.</p>
 <p></p>
 <p><strong>About REDCap in NHG</strong>
 </p>
-<p>The National Healthcare Group (NHG) is a member of the REDCap Consortium
-which, in 2024, has 7,357 active partners in 159 countries who utilize
-and support REDCap in various ways. In Singapore, all three public healthcare
-clusters (NHG, NUHS, Singhealth) host and support their own REDCap systems.</p>
+<p>The National Healthcare Group (NHG) has been a member of the REDCap Consortium
+(since 2016) which is made up of 7,357 active partners in 159 countries
+(as of 2024) who utilize and support REDCap in various ways. In Singapore,
+all three public healthcare clusters (NHG, NUHS, Singhealth) host and support
+their own REDCap systems.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/REDCap logo/Logo2.png">
