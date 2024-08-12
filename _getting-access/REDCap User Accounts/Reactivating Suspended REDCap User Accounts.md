@@ -10,7 +10,15 @@ third_nav_title: REDCap User Accounts
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/ReactivateSuspAcctsInfoPanel.png">
 </div>
 <p></p>
-<p>Click here to <strong><a href="https://redcap.nhg.com.sg/surveys/?s=LPWM8XRMX7" rel="noopener noreferrer" target="_blank"><u>submit an online Request</u></a></strong>
-<a href="https://redcap.nhg.com.sg/surveys/?s=LPWM8XRMX7" rel="noopener noreferrer" target="_blank"><u> </u>
-</a>to <strong>re-activate Suspended REDCap Account(s)</strong> for use. (NHG
-Intranet access required)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/SuspendedUserAcctMsg.jpg">
+</div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://redcap.nhg.com.sg/surveys/?s=LPWM8XRMX7" rel="noopener noreferrer" target="_blank"><u>Submit an online Request here</u></a></strong> to <strong>re-activate Suspended REDCap User Account(s)</strong> for
+use. (NHG Intranet access required)</p>
+</li>
+</ul>
+<p></p>
