@@ -44,7 +44,7 @@ to use the NHG-REDCap system to support specific types of activities.&nbsp;</p>
 </li>
 </ul>
 <p>NHG Staff should note that REDCap User Accounts are not automatically
-issued. REDCap User Accounts must be requested for.</p>
+issued. NHG Staff will need to apply for their REDCap User Accounts.</p>
 <p></p>
 <p><sup>If your Inst/Dept would like us to conduct a Presentation on REDCap and how it can benefit your research activities, please contact us at redcap@nhg.com.sg .</sup>
 </p>
