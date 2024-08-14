@@ -4,6 +4,7 @@ permalink: /staging-login/
 variant: tiptap
 description: ""
 ---
+<a class="isomer-image-wrapper" href="https://redcapuat.nhg.com.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Content Images/rcStagserver.png"></a>
 <p>The NHG-REDCap Staging Server is intended <strong>only for testing and learning purposes</strong>.&nbsp;</p>
 <p>Users <strong>CANNOT</strong> to use the NHG-REDCap Staging Server to collect
 or store any actual or 'live' data. All Data on the Staging Server will
