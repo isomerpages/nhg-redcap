@@ -32,5 +32,13 @@ their own REDCap systems.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/REDCap logo/Logo2.png">
 </div>
 <p>The NHG-REDCap system was first launched in 2016 and is jointly administered
-and maintained by NHG's Group Research &amp; Innovation (GRI) and Synapxe.</p>
+and maintained by NHG Group Research &amp; Innovation (GRI) and Synapxe.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn more about NHG Group Research &amp; Innovation (GRI) here.</p>
+</li>
+<li>
+<p>Learn more about Synapxe here.</p>
+</li>
+</ul>
 <p></p>
