@@ -2,6 +2,7 @@ collections:
   regulations-and-policies:
     output: true
     order:
+      - Singapore Regulations.md
       - What NHG Researchers need to know.md
       - Human Biomedical Research Act (HBRA).md
       - Personal Data Protection Act (PDPA).md
