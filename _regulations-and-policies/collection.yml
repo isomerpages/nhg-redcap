@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - What NHG Researchers need to know.md
+      - Singapore Regulations/Clinical Trials under the Health Products Act and
+        the Medicines Act.md
       - Singapore Regulations/.keep
       - Singapore Regulations/Human Biomedical Research Act (HBRA).md
       - Singapore Regulations/Personal Data Protection Act (PDPA).md
