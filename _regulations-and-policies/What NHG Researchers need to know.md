@@ -21,7 +21,7 @@ Researchers must be aware of before conducting any research activities.</p>
 <summary>NHG Policies</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NHG Research Data Policy</p>
-<p>NHG Proper Conduct of Reseach Policy</p>
+<p>NHG Proper Conduct of Reseach SOPs</p>
 <p><a href="/nhg-redcap-system-usage-agreement/" rel="noopener noreferrer nofollow" target="_blank">NHG REDCap System Usage Agreement</a>
 </p>
 </div>
