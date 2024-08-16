@@ -2,6 +2,7 @@ collections:
   learning-redcap:
     output: true
     order:
+      - Training Courses.md
       - How to learn REDCap.md
       - Tutorial Videos.md
       - User Guides.md
