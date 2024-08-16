@@ -2,6 +2,7 @@ collections:
   regulations-and-policies:
     output: true
     order:
+      - Singapore Regulations/Personal Data Protection Act (PDPA).md
       - Singapore Regulations/Human Biomedical Research Act (HBRA).md
       - Singapore Regulations/.keep
       - Singapore Regulations.md
