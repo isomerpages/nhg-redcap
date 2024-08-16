@@ -13,7 +13,7 @@ guidelines and regulations.</p>
 <br>All NHG staff carrying out research activities.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learn more about the PCR-SOPs here (Restricted - NHG Intranet access required).&nbsp;</p>
+<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/resources/pcr+sops+and+templates" rel="noopener noreferrer nofollow" target="_blank">Learn more about the NHG PCR-SOPs here</a>.</p>
 </li>
 </ul>
 <p></p>
