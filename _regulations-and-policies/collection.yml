@@ -2,7 +2,7 @@ collections:
   regulations-and-policies:
     output: true
     order:
-      - What NHG Researchers need to know.md
+      - What Researchers should know.md
       - Singapore Regulations/Conduct of Clinical Trials under the Health
         Products Act and the Medicines Act.md
       - Singapore Regulations/.keep
