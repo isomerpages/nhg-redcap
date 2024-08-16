@@ -24,7 +24,7 @@ research)</p>
 </div>
 <p></p>
 <h4><strong>Excluded Activities</strong></h4>
-<p>The NHG-REDCap system is not setup as a "High-Availability" system. Hence
+<p>The NHG-REDCap system is not set up as a "High-Availability" system. Hence
 NHG-REDCap cannot be used for delivering Clinical Service/Care/Operations
 and any other mission-critical activities.</p>
 <p></p>
