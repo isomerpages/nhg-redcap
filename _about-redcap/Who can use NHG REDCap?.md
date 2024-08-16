@@ -44,18 +44,20 @@ to use the NHG-REDCap system to support specific types of activities.&nbsp;</p>
 </li>
 </ul>
 <p>NHG Staff should note that REDCap User Accounts are not automatically
-issued. NHG Staff will need to apply for their REDCap User Accounts.</p>
+issued. NHG Staff will need to <a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">apply for</a> their REDCap User Accounts.</p>
 <p></p>
-<p><sup>If your Inst/Dept would like us to conduct a Presentation on REDCap and how it can benefit your research activities, please contact us at redcap@nhg.com.sg .</sup>
+<p><sup>If your Inst/Dept would like us to conduct a Presentation on REDCap and how it can benefit your research activities, please </sup>
+<a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><sup>contact us</sup>
+</a><sup>.</sup>
 </p>
 <p></p>
 <h4><strong>External &amp; Non-NHG Persons</strong></h4>
 <p>Due to NHG cybersecurity policy restrictions, we are unable to provide
 access to the NHG-REDCap system for External and Non-NHG persons.</p>
-<p>If you are from another Singapore Public Healthcare Cluster/Institution
+<p>If you are from another Singapore Public Healthcare Cluster(PHI) or Institution
 (ie: NUHS or Singhealth), we recommend that you check with your Cluster's
-Clinical Research Unit/Office to see how you can get access to your Institution's
-REDCap system to support your research activity.</p>
+Clinical Research Unit/Office to see how you can get access to your respective
+Cluster/Institution's REDCap system to support your research activity.</p>
 <p></p>
 <h4></h4>
 <p></p>
