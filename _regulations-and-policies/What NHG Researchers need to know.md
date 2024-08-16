@@ -6,10 +6,6 @@ description: ""
 ---
 <p>Here are some of the critical Regulations and NHG policies that all NHG
 Researchers must be aware of before conducting any research activities.</p>
-<p><strong>IMPORTANT: </strong>This is <strong><u>not</u></strong> an exhaustive
-list. We strongly recommend that researchers contact their Institution
-Clinical Research Units/Offices if they have any queries about the regulatory
-requirements for their research activity.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -32,3 +28,7 @@ requirements for their research activity.</p>
 </details>
 </div>
 <p></p>
+<p><strong>IMPORTANT: </strong>This is <strong><u>NOT</u></strong> an exhaustive
+list. We strongly recommend that researchers contact their respective Institution
+Clinical Research Units/Offices if they have any queries about the regulatory
+requirements for their research activity.</p>
