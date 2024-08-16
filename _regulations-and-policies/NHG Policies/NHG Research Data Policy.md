@@ -6,9 +6,9 @@ description: ""
 third_nav_title: NHG Policies
 ---
 <p>The <strong>NHG Research Data Policy</strong> provides the framework for
-governing research data to ensure compliance with the HBRA, Personal Data
-Protection Act (PDPA), Healthtech Instruction Manual (HIM), Synapxe policies
-and all other relevant regulations.</p>
+governing research data to ensure compliance with the Human Biomedical
+Research Act (HBRA), Personal Data Protection Act (PDPA), Healthtech Instruction
+Manual (HIM), Synapxe policies and all other relevant data regulations.</p>
 <p><strong>Who should know?</strong>
 <br>All NHG staff involved in handling any NHG research data.</p>
 <ul data-tight="true" class="tight">
