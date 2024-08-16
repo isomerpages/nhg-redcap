@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Staff of National Healthcare Group Institutions</strong></h4>
-<p>Only Staff of the National Healthcare Group (NHG) Institutions are eligible
+<p>Staff of the National Healthcare Group (NHG) Institutions are eligible
 to use the NHG-REDCap system to support specific types of activities.&nbsp;</p>
 <p>NHG Institutions include:</p>
 <ul data-tight="true" class="tight">
