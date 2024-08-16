@@ -20,8 +20,10 @@ Researchers must be aware of before conducting any research activities.</p>
 <details class="isomer-details">
 <summary>NHG Policies</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>NHG Research Data Policy</p>
-<p>NHG Proper Conduct of Reseach SOPs</p>
+<p><a href="/nhg-research-data-policy/" rel="noopener noreferrer nofollow" target="_blank">NHG Research Data Policy</a>
+</p>
+<p><a href="/pcr-sops/" rel="noopener noreferrer nofollow" target="_blank">NHG Proper Conduct of Reseach SOPs</a>
+</p>
 <p><a href="/nhg-redcap-system-usage-agreement/" rel="noopener noreferrer nofollow" target="_blank">NHG REDCap System Usage Agreement</a>
 </p>
 </div>
@@ -29,6 +31,7 @@ Researchers must be aware of before conducting any research activities.</p>
 </div>
 <p></p>
 <p><strong>IMPORTANT: </strong>This is <strong><u>NOT</u></strong> an exhaustive
-list. We strongly recommend that researchers contact their respective Institution
+list.
+<br>We strongly recommend that researchers contact their respective Institution
 Clinical Research Units/Offices if they have any queries about the regulatory
 requirements for their research activity.</p>
