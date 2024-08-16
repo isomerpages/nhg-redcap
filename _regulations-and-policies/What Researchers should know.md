@@ -4,8 +4,9 @@ permalink: /what-researchers-should-know/
 variant: tiptap
 description: ""
 ---
-<p>Here are some of the critical Singapore Regulations and NHG policies that
-all Researchers should be aware of before conducting any research activities.</p>
+<p>Here are some of the important Singapore Regulations and NHG policies
+that all Researchers should be aware of before conducting any research
+activities.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
