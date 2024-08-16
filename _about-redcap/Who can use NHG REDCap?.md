@@ -44,7 +44,7 @@ to use the NHG-REDCap system to support specific types of activities.&nbsp;</p>
 </li>
 </ul>
 <p>NHG Staff should note that REDCap User Accounts are not automatically
-issued. NHG Staff will need to <a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">apply for</a> their REDCap User Accounts.</p>
+issued. NHG Staff will need to <a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">apply (here) for</a> their REDCap User Accounts.</p>
 <p></p>
 <p><sup>If your Inst/Dept would like us to conduct a Presentation on REDCap and how it can benefit your research activities, please </sup>
 <a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><sup>contact us</sup>
