@@ -26,7 +26,8 @@ requirements for their research activity.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NHG Research Data Policy</p>
 <p>NHG Proper Conduct of Reseach Policy</p>
-<p>NHG REDCap System Usage Agreement</p>
+<p><a href="/nhg-redcap-system-usage-agreement/" rel="noopener noreferrer nofollow" target="_blank">NHG REDCap System Usage Agreement</a>
+</p>
 </div>
 </details>
 </div>
