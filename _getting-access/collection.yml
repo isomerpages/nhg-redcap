@@ -2,7 +2,7 @@ collections:
   getting-access:
     output: true
     order:
-      - Accessing NHG REDCap.md
+      - Who can access NHG REDCap?.md
       - REDCap User Accounts/.keep
       - REDCap User Accounts/Request for New REDCap User Accounts.md
       - REDCap User Accounts/Reactivating Suspended REDCap User Accounts.md
