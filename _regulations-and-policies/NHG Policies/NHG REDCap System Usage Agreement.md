@@ -5,13 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: NHG Policies
 ---
-<p>The NHG REDCap System Usage Agreement must be read and accepted by all
-users of the NHG REDCap System (‘REDCap Users’).</p>
+<p>The NHG REDCap System Usage Agreement ('Agreement') must be read and accepted
+by all users of the NHG REDCap System (‘REDCap Users’).</p>
 <p>By using the NHG REDCap system, the REDCap Users agree to abide by the
-provisions of the NHG REDCap System Usage Agreement.&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;</p>
+provisions of the Agreement.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
 <p>REDCap Users understand that violating the provisions of this Agreement
-may constitute grounds for disciplinary actions as determined by applicable
+may constitute grounds for disciplinary actions as determined by the applicable
 research regulations and NHG’s Policies and Procedures.</p>
 <p></p>
 <p><strong>Who should know?</strong>
