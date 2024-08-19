@@ -29,8 +29,9 @@ may constitute grounds for disciplinary actions as determined by applicable
 research regulations and NHG’s Policies and Procedures</p>
 </li>
 <li>
-<p>Click <a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Policies/1302-001%20NHG%20REDCap%20System%20Usage%20Agreement%20v1.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">here to view the NHG REDCap System Usage Agreement</a> (NHG
-Intranet access required).</p>
+<p>Click <a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Policies/1302-001%20NHG%20REDCap%20System%20Usage%20Agreement%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here to view the NHG REDCap System Usage Agreement</a>  <strong>(Restricted: NHG Intranet access required)</strong>
+</p>
+<p></p>
 </li>
 </ul>
 </div>
@@ -56,11 +57,12 @@ your REDCap User Account will be <strong><u>automatically suspended</u></strong>
 security reasons.</p>
 </li>
 <li>
-<p>REDCap Users will need to&nbsp;submit a Request&nbsp;to re-activate their
-suspended REDCap Account(s) for use.</p>
+<p>REDCap Users will need to&nbsp;submit an <a href="https://redcap.nhg.com.sg/surveys/?s=LPWM8XRMX7" rel="noopener noreferrer nofollow" target="_blank">online Request (here)</a>&nbsp;to
+re-activate their suspended REDCap Account(s) for use.</p>
 </li>
 <li>
 <p>We <strong>do not accept email requests</strong> for account re-activation.</p>
+<p></p>
 </li>
 </ul>
 </div>
@@ -69,8 +71,8 @@ suspended REDCap Account(s) for use.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Submit a <a href="https://redcap.nhg.com.sg/surveys/?s=FY8NDCDKWE" rel="noopener noreferrer nofollow" target="_blank">NEW NHG-REDCap User Account Request here</a></strong> (NHG
-Intranet access required)</p>
+<p><strong>Submit a <a href="https://redcap.nhg.com.sg/surveys/?s=FY8NDCDKWE" rel="noopener noreferrer nofollow" target="_blank">NEW NHG-REDCap User Account Request here</a></strong>  <strong>(Restricted: NHG Intranet access required)</strong>
+</p>
 </li>
 </ul>
 <p></p>
