@@ -24,13 +24,14 @@ User Account.</p>
 <details class="isomer-details">
 <summary>(2) Valid Ethics Approval</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Research activity has valid research ethics approval (or is able to
-show documentary evidence that it does not require DSRB Ethics approval).</p>
+<p>The Research activity has valid research ethics approval, or is able to
+show documentary evidence that it does not require DSRB Ethics approval
+under specific DSRB policies.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>(3) Provided supporting documents</summary>
+<summary>(3) Provided all Supporting Documents</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The latest Ethics Approval Letter or Stand Database Acknowledgement Letter
 has been submitted together with the REDCap Project Request Form.</p>
@@ -44,7 +45,7 @@ has been submitted together with the REDCap Project Request Form.</p>
 REDCap Project on the REDCap Production Server.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Request%20Forms/1305-001%20NHG%20REDCap%20Project%20Request%20Form%20v5.docx" rel="noopener noreferrer nofollow" target="_blank">REDCap Project Request Form (v5)</a></strong>  <strong>(Restricted: NHG Intranet access required)</strong>
+<p><strong><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Request%20Forms/1305-001%20NHG%20REDCap%20Project%20Request%20Form%20v5.docx?d=w4cdc1e953981433198dd934f0020fa66" rel="noopener noreferrer nofollow" target="_blank">REDCap Project Request Form (v5)</a></strong>  <strong>(Restricted: NHG Intranet access required)</strong>
 </p>
 </li>
 </ul>
