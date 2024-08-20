@@ -9,10 +9,10 @@ third_nav_title: REDCap User Accounts
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/CreateAccInfoPanel.jpg">
 </div>
 <p></p>
-<p><strong>Types of REDCap User Accounts</strong>
-</p>
+<h4><strong>Types of REDCap User Accounts</strong></h4>
 <p>There are two types of REDCap User Accounts, each with their own specific
-purpose and use.</p>
+purpose and use. Staff should consider carefully which User Accounts are
+needed for their work.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Production Server User Account</summary>
