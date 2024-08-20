@@ -19,9 +19,7 @@ User Accounts.
 their respective User-Rights within a REDCap Project.
 <br>Download here</p>
 <p></p>
-<p><strong>FAQ: What does the REDCap Project Status actually mean?</strong>
-<br>This guide explains what the REDCap Project Status means, the difference
-between each status, and its implications to the Project.
-<br>Download here</p>
+<p><em>More guides coming soon!</em>
+</p>
 <p></p>
 <p></p>
