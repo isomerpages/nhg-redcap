@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: REDCap User Accounts
 ---
-<h4><strong>NHG REDCap System Usage Agreement</strong></h4>
+<h4><strong>NHG-REDCap System Usage Agreement</strong></h4>
 <p><strong>IMPORTANT</strong>
 <br>The NHG REDCap System Usage Agreement (‘Agreement’) defines the responsibilities
 and obligations of all NHG-REDCap Users.</p>
@@ -56,7 +56,7 @@ NHG oversight committees.</p>
 </details>
 </div>
 <p></p>
-<h4><strong>New REDCap User Account Request</strong></h4>
+<h4><strong>Submit REDCap User Account Request</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Submit a new <strong><a href="https://redcap.nhg.com.sg/surveys/?s=FY8NDCDKWE" rel="noopener noreferrer nofollow" target="_blank">NHG-REDCap User Account Request here</a></strong> 
@@ -64,4 +64,9 @@ NHG oversight committees.</p>
 </p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<h4><strong>Suspended REDCap User Accounts</strong></h4>
+<p>REDCap User Accounts are automatically suspended for security reasons
+if Users do not log in for more than&nbsp;90 calendar days. <a href="/reactivation-useracct/" rel="noopener noreferrer nofollow" target="_blank">Learn more here</a>.</p>
 <p></p>
