@@ -9,10 +9,11 @@ description: ""
 Group (NHG) Institutions are eligible to use to support specific types
 of activities.&nbsp;</p>
 <h4><strong>Criteria for NHG-REDCap Access</strong></h4>
-<p>New Users must meet the following criteria:</p>
-<ol data-tight="true" class="tight">
+<p>To request access to the NHG REDCap system, Users must meet the following
+criteria:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Is a current <strong>NHG Employee, </strong>or holds a <strong>valid NHG Appointment</strong> (eg:
+<p>Is a current <strong>NHG Staff, </strong>or holds a <strong>valid NHG Appointment</strong> (eg:
 Visiting Consultant, Research Fellow etc)</p>
 </li>
 <li>
@@ -21,9 +22,9 @@ Visiting Consultant, Research Fellow etc)</p>
 <li>
 <p>Has a valid <strong>NHG Email address</strong>
 </p>
-</li>
-</ol>
 <p></p>
+</li>
+</ul>
 <h4><strong>External &amp; Non-NHG Persons</strong></h4>
 <p>Due to NHG cybersecurity policy restrictions, we are unable to provide
 access to the NHG-REDCap system for External and Non-NHG persons.</p>
