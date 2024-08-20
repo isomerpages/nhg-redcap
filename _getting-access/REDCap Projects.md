@@ -33,8 +33,11 @@ under specific DSRB policies.</p>
 <details class="isomer-details">
 <summary>(3) Provided all Supporting Documents</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The latest Ethics Approval Letter or Stand Database Acknowledgement Letter
-has been submitted together with the REDCap Project Request Form.</p>
+<p>All of the following Supporting Documents have been put into a single
+ZIP file.</p>
+<p>(a) REDCap Project Request Form (as a PDF)</p>
+<p>(b) Latest Ethics Approval Letter (as a PDF)</p>
+<p>(c) REDCap Project XML file (Metadata only) (if applicable)</p>
 <p></p>
 </div>
 </details>
