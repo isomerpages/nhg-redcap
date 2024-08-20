@@ -8,19 +8,12 @@ description: ""
 <p>NHG-REDCap is an internal system that only Staff of the National Healthcare
 Group (NHG) Institutions are eligible to use to support specific types
 of activities.&nbsp;</p>
-<h4><strong>Criteria for REDCap User Account</strong></h4>
-<p>Applicants must satisfy <strong>ALL </strong>of the following criteria <strong>BEFORE</strong> submitting
-their REDCap User-Account Request:</p>
+<h4><strong>Criteria for NHG-REDCap Access</strong></h4>
+<p>New Users must meet the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Is a current <strong>NHG Employee</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Or holds a <strong>valid NHG Appointment</strong> (eg: Visiting Consultant,
-Research Fellow etc)</p>
-</li>
-</ul>
+<p>Is a current <strong>NHG Employee, </strong>or holds a <strong>valid NHG Appointment</strong> (eg:
+Visiting Consultant, Research Fellow etc)</p>
 </li>
 <li>
 <p>Has a valid<strong> NHG ADID Account </strong>(Active Directory ID)</p>
