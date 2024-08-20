@@ -9,7 +9,7 @@ third_nav_title: REDCap User Accounts
 <p>REDCap User Accounts are automatically suspended for security reasons
 if Users do not log in for more than&nbsp;90 calendar days.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/SuspendedErrorMsg.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Content Images/SuspendedErrorMsg.jpg">
 </div>
 <p>Users will not be able to login to their REDCap User Account until the
 Account has been reactivated for use.</p>
