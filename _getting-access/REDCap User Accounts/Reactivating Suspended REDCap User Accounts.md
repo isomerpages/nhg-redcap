@@ -9,16 +9,17 @@ third_nav_title: REDCap User Accounts
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/ReactivateSuspAcctsInfoPanel.png">
 </div>
-<p></p>
-<p></p>
+<h4><strong>Automatic Suspension of dormant User Accounts</strong></h4>
+<p>REDCap User Accounts are automatically suspended for security reasons
+if Users do not log in for more than&nbsp;90 calendar days.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/SuspendedUserAcctMsg.jpg">
 </div>
-<p></p>
+<h4><strong>Submit Account Reactivation Request</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://redcap.nhg.com.sg/surveys/?s=LPWM8XRMX7" rel="noopener noreferrer" target="_blank"><u>Submit an online Request here</u></a></strong> to <strong>re-activate </strong>Suspended
-REDCap User Account(s). <strong>(Restricted: NHG Intranet access required)</strong>
+<p>Submit an <strong><a href="https://redcap.nhg.com.sg/surveys/?s=LPWM8XRMX7" rel="noopener noreferrer" target="_blank"><u>online Request here</u></a></strong> to
+reactivate Suspended REDCap User Account(s). <strong>(Restricted: NHG Intranet access required)</strong>
 </p>
 </li>
 </ul>
