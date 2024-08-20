@@ -32,7 +32,7 @@ under specific DSRB policies.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>(3) Provided all Supporting Documents</summary>
+<summary>(3) Provided all Supporting Documents in Submission</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>All of the following Supporting Documents have been put into a single
 ZIP file for submission.
