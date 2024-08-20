@@ -24,7 +24,7 @@ use the Staging Server there is no need to reactivate it.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit an <strong><a href="https://redcap.nhg.com.sg/surveys/?s=LPWM8XRMX7" rel="noopener noreferrer" target="_blank"><u>Account Reactivation Request here</u></a></strong>  <strong>(Restricted: NHG Intranet access required)</strong>
+<p>Submit a new <strong><a href="https://redcap.nhg.com.sg/surveys/?s=LPWM8XRMX7" rel="noopener noreferrer" target="_blank"><u>Account Reactivation Request here</u></a></strong>  <strong>(Restricted: NHG Intranet access required)</strong>
 </p>
 </li>
 </ul>
