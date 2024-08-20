@@ -9,6 +9,7 @@ description: ""
 who is also the NHG Principal Investigator, for a research activity that
 has obtained DSRB / IRB research ethics approval.</p>
 <h4><strong>Criteria for a successful Project Request</strong></h4>
+<p>These are the criteria for a successful Project Request submission.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>(1) Valid REDCap Production Server User Account</summary>
