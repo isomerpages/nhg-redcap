@@ -20,7 +20,7 @@ the NHG-REDCap System.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Policies/1302-001%20NHG%20REDCap%20System%20Usage%20Agreement%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the NHG REDCap System Usage Agreement here</a>.
+<p><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Policies/1302-001%20NHG%20REDCap%20System%20Usage%20Agreement%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the NHG REDCap System Usage Agreement (v2) here</a>.
 <br><strong>(Restricted: NHG Intranet access required)</strong>
 </p>
 </li>
