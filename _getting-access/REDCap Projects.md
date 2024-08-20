@@ -34,10 +34,10 @@ under specific DSRB policies.</p>
 <summary>(3) Provided all Supporting Documents</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>All of the following Supporting Documents have been put into a single
-ZIP file.</p>
-<p>(a) REDCap Project Request Form (as a PDF)</p>
-<p>(b) Latest Ethics Approval Letter (as a PDF)</p>
-<p>(c) REDCap Project XML file (Metadata only) (if applicable)</p>
+ZIP file.
+<br>(a) REDCap Project Request Form (as a PDF)
+<br>(b) Latest Ethics Approval Letter (as a PDF)
+<br>(c) REDCap Project XML file (Metadata only) (if applicable)</p>
 <p></p>
 </div>
 </details>
