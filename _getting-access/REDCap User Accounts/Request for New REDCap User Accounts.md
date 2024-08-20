@@ -21,7 +21,6 @@ needed for their work.</p>
 <summary>Production Server User Account</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Content Images/rcProdserver.png">
 </div>
@@ -38,6 +37,9 @@ in the Study's data collection activities conducted in a REDCap Project.</p>
 <summary>Staging Server User Account</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Content Images/rcStagserver.png">
+</div>
 <p>The REDCap Staging Server is the sandbox environment intended for <strong>ONLY TESTING and LEARNING</strong> purposes.</p>
 <p></p>
 <p>While Users may freely create Projects on the Staging Server for testing
