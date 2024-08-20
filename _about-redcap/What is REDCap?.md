@@ -4,6 +4,7 @@ permalink: /what-is-redcap/
 variant: tiptap
 description: ""
 ---
+<h4><strong>About REDCap</strong></h4>
 <p><strong>REDCap (Research Electronic Data Capture)</strong> is an easy-to-use
 web application designed to support electronic data capture in a secured
 and systematic manner.</p>
@@ -20,8 +21,7 @@ knowledge.</p>
 <p>Visit the <a href="https://projectredcap.org/about/" rel="noopener noreferrer nofollow" target="_blank">REDCap Consortium</a> (External
 Link) for more information.</p>
 <p></p>
-<p><strong>About REDCap in NHG</strong>
-</p>
+<h4><strong>About REDCap in NHG</strong></h4>
 <p>The National Healthcare Group (NHG) is a member of the REDCap Consortium
 (since 2016) which is made up of 7,357 active partners in 159 countries
 (as of 2024) who utilize and support REDCap in various ways. In Singapore,
@@ -33,12 +33,5 @@ their own REDCap systems.</p>
 </div>
 <p>The NHG-REDCap system was first launched in 2016 and is jointly administered
 and maintained by NHG Group Research &amp; Innovation (GRI) and Synapxe.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Learn more about NHG Group Research &amp; Innovation (GRI) here.</p>
-</li>
-<li>
-<p>Learn more about Synapxe here.</p>
-</li>
-</ul>
+<p>The NHG REDCap Helpdesk website is maintained by the NHG REDCap Administrator.</p>
 <p></p>
