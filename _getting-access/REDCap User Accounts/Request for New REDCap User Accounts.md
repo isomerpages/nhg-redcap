@@ -9,6 +9,64 @@ third_nav_title: REDCap User Accounts
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/CreateAccInfoPanel.jpg">
 </div>
 <p></p>
+<p><strong>Types of REDCap User Accounts</strong>
+</p>
+<p>There are two types of REDCap User Accounts, each with their own specific
+purpose and use.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Production Server User Account</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>The REDCap Production Server is the regulated environme where the REDCap
+Projects of approved research activities are hosted, and where research
+data collection activities are conducted.</p>
+<p></p>
+<p>Users will need to have a Production Server User Account if they are involved
+in the Study's REDCap data collection activities.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Staging Server User Account</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>The REDCap Staging Server is the sandbox environment intended for <strong>ONLY TESTING and LEARNING</strong> purposes.</p>
+<p></p>
+<p>While Users may freely create Projects on the Staging Server for testing
+and learning purposes, they are <strong>PROHIBITED</strong> from collecting,
+importing or entering any actual/real/live data on the Staging Server,&nbsp;including
+for testing purposes.</p>
+<p></p>
+<p>All detected non-compliant activities will be reported to the relevant
+NHG oversight committees.</p>
+<p></p>
+<p>Staging Server User Accounts are optional.</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p>REDCAP STAGING SERVER</p>
+<p>Users may freely create Projects on the Staging Server for only testing
+and learning purposes.</p>
+<p>However, USERS ARE PROHIBITED from collecting, importing or entering any
+actual/real/live data on the Staging Server,&nbsp;including for testing
+purposes.</p>
+<p>All detected Non-Compliant activities will be reported to the relevant
+NHG oversight committees.</p>
+<p>Staging Server User Accounts are optional.</p>
+<p>REDCAP PRODUCTION SERVER</p>
+<p>The PRODUCTION Server is where the REDCap Projects of approved research
+activities are hosted, and where research data collection activities are
+conducted.</p>
+<p>Users will need to have a Production Server User Account if they are involved
+in the Study's REDCap data collection activities.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>NHG REDCap System Usage Agreement</strong>
