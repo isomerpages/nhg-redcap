@@ -5,23 +5,26 @@ variant: tiptap
 description: ""
 third_nav_title: REDCap User Accounts
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/ReactivateSuspAcctsInfoPanel.png">
-</div>
 <h4><strong>Automatic Suspension of dormant User Accounts</strong></h4>
 <p>REDCap User Accounts are automatically suspended for security reasons
 if Users do not log in for more than&nbsp;90 calendar days.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/SuspendedErrorMsg.jpg">
 </div>
-<p>Users will not be able to login to their REDCap User Accounts until the
+<p>Users will not be able to login to their REDCap User Account until the
 Account has been reactivated for use.</p>
 <h4><strong>Submit Account Reactivation Request</strong></h4>
+<p>Users whose Account has been suspended, may complete and submit a Reactivation
+Request themselves. Alternatively, the User may authorize a Representative
+to submit the Reactivation Request on their behalf.</p>
+<p>Each Request can only be used to reactivate ONE REDCap Account Type. If
+you need to re-activate BOTH Account Types (ie: for Staging and Production
+Servers), you will need to submit TWO separate Requests. If you do not
+use the Staging Server there is no need to reactivate it.</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit an <strong><a href="https://redcap.nhg.com.sg/surveys/?s=LPWM8XRMX7" rel="noopener noreferrer" target="_blank"><u>online Request here</u></a></strong> to
-reactivate Suspended REDCap User Account(s). <strong>(Restricted: NHG Intranet access required)</strong>
+<p>Submit an <strong><a href="https://redcap.nhg.com.sg/surveys/?s=LPWM8XRMX7" rel="noopener noreferrer" target="_blank"><u>Account Reactivation Request here</u></a></strong>  <strong>(Restricted: NHG Intranet access required)</strong>
 </p>
 </li>
 </ul>
