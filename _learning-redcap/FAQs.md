@@ -19,7 +19,7 @@ between each status, and its implications to the Project.
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>How can I export &amp; share REDCap Project Forms that I created?</strong>
+<summary><strong>How can I export &amp; share the REDCap Project Forms that I created?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This guide explains how Users can export their REDCap Project Forms/Instruments.
