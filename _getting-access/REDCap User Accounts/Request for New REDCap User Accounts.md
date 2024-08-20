@@ -59,6 +59,8 @@ NHG oversight committees.</p>
 <h4><strong>Submit REDCap User Account Request</strong></h4>
 <p>Only Staff of the National Healthcare Group (NHG) Institutions are eligible
 for access to NHG-REDCap. <a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">Learn more here</a>.</p>
+<p>Applicants must <strong>personally</strong> complete and submit their requests
+via the link below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Submit a new <strong><a href="https://redcap.nhg.com.sg/surveys/?s=FY8NDCDKWE" rel="noopener noreferrer nofollow" target="_blank">NHG-REDCap User Account Request here</a></strong>  <strong>(Restricted: NHG Intranet access required)</strong>
