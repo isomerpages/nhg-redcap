@@ -4,7 +4,7 @@ title: NHG REDCap Helpdesk Support for NHG Research Community
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: This Site is currently under construction.
+notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
       title: NHG REDCap Helpdesk
