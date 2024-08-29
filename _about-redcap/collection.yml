@@ -1,0 +1,8 @@
+collections:
+  about-redcap:
+    output: true
+    order:
+      - What is REDCap?.md
+      - Why use REDCap?.md
+      - Who can use NHG REDCap?.md
+      - Supported Activities.md

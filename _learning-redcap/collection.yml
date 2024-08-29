@@ -1,0 +1,7 @@
+collections:
+  learning-redcap:
+    output: true
+    order:
+      - How to learn REDCap.md
+      - Tutorial Videos.md
+      - User Guides.md
