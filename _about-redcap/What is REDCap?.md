@@ -33,5 +33,14 @@ their own REDCap systems.</p>
 </div>
 <p>The NHG-REDCap system was first launched in 2016 and is jointly administered
 and maintained by NHG Group Research &amp; Innovation (GRI) and Synapxe.</p>
-<p>This website is maintained by the NHG REDCap Administrator.</p>
+<p>The NHG REDCap Helpdesk<strong> </strong>portal is maintained by the NHG
+REDCap Administrator.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn more about the <strong><a href="https://corp.nhg.com.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>National Healthcare Group (NHG)</u></a></strong> here.</p>
+</li>
+<li>
+<p>Learn more about the <strong><a href="https://gri.nhg.com.sg/" rel="noopener nofollow" target="_blank"><u>NHG Group Research &amp; Innovation (GRI)</u></a></strong> here.</p>
+</li>
+</ul>
 <p></p>
