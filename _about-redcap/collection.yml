@@ -2,6 +2,7 @@ collections:
   about-redcap:
     output: true
     order:
+      - abt gri.md
       - What is REDCap?.md
       - Why use REDCap?.md
       - Who can use NHG REDCap?.md
