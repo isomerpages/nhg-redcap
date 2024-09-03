@@ -39,7 +39,7 @@ multiple Events. Longitudinal-mode also allows Events to be divided into
 different Arms (or groups/populations). Thus in this way, Arms can be used
 to distinguish between different groups/populations of Participants, and
 to cater to different data collection needs of the different Arms.
-<br>Download here.</p>
+<br><a href="/files/User Guides/REDCap_Project___Longitudinal_with_multi_arms_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
 </li>
 </ul>
 <p></p>
