@@ -9,7 +9,7 @@ sections:
   - hero:
       title: NHG REDCap Helpdesk
       subtitle: REDCap End-User Support for the NHG Research Community
-      background: /images/Hero Banners/RED_Links.jpg
+      background: /images/Hero Banners/hero-banner.png
       dropdown:
         title: Shortcuts...
         options:
