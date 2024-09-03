@@ -28,6 +28,28 @@ their respective User-Rights within a REDCap Project.
 </li>
 </ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Using Longitudinal-mode Projects</strong>
+<br>Users can "switch" a Project from the default Classic-mode to Longitudinal-mode.
+In Longitudinal-mode, this enables users to enter data to Forms/Instruments
+which designated to pre-defined Events or Visits. This enables different
+Forms to be used for different Events, or the same Form can be used for
+multiple Events. Longitudinal-mode also allows Events to be divided into
+different Arms (or groups/populations). Thus in this way, Arms can be used
+to distinguish between different groups/populations of Participants, and
+to cater to different data collection needs of the different Arms.</p>
+<p>&nbsp;</p>
+<p>Download here.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Longitudinal-mode also allows Events to be divided into different Arms
+(or groups/populations). Thus in this way, Arms can be used to distinguish
+between different groups/populations of Participants, and to cater to different
+data collection needs of the different Arms.</p>
+<p>&nbsp;</p>
+<p>Download here.</p>
 <p><em>More guides coming soon!</em>
 </p>
 <p></p>
