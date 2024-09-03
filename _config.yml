@@ -1,16 +1,16 @@
 title: NHG REDCap Helpdesk Support for NHG Research Community
 url: https://redcapsupport.gri.nhg.com.sg
-favicon: /images/REDCap logo/favicon_nhgredcap.png
+favicon: /images/REDCap logo/favicon-isomer.ico
 colors:
   primary-color: "#21409a"
-  secondary-color: "#bd2d37"
+  secondary-color: "#00828d"
   media-colors:
     - title: media-color-one
-      color: "#853d79"
+      color: "#d2232a"
     - title: media-color-two
       color: "#853d79"
     - title: media-color-three
-      color: "#4cadb2"
+      color: "#00828d"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
