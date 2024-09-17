@@ -14,6 +14,7 @@ journey.</p>
 <p>Do drop us a line if you have any suggestions for what you would like
 to see here.</p>
 <p>Regards,
-<br>NHG REDCap System Administrator.</p>
+<br><em>NHG REDCap System Administrator.</em>
+</p>
 <p></p>
 <p></p>
