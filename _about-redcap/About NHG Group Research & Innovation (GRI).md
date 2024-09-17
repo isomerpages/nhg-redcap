@@ -24,8 +24,11 @@ technologies through collaborative partnerships with our academic partners
 and the MedTech industry.</p>
 <p>GRI's mission is to enhance patient care and outcomes through cutting-edge
 research and collaboration.</p>
-<p>Our work focuses on enabling research that:</p>
+<p>Our work focuses on enabling high quality, ethical research that:</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Safeguards Research Participants’ Safety, Well-Being, and Rights</p>
+</li>
 <li>
 <p>Improves Clinical and Health outcomes</p>
 </li>
