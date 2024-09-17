@@ -13,7 +13,7 @@ variant: tiptap
 journey.</p>
 <p>Do drop us a line if you have any suggestions for what you would like
 to see here.</p>
-<p>Regards,</p>
-<p>NHG REDCap System Administrator.</p>
+<p>Regards,
+<br>NHG REDCap System Administrator.</p>
 <p></p>
 <p></p>
