@@ -4,7 +4,7 @@ title: NHG REDCap Helpdesk Support for NHG Research Community
 description: A National Healthcare Group (NHG) site built with Isomer
 image: /images/isomer-logo.svg
 permalink: /
-notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
+notification: ""
 sections:
   - hero:
       title: NHG REDCap Helpdesk
