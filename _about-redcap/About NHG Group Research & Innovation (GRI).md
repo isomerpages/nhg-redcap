@@ -56,7 +56,7 @@ of innovative MedTech solutions that can address unmet healthcare needs
 and contribute to improved patient and healthcare outcomes. This is achieved
 through a structured framework that includes funding, talent development,
 and partnerships with academic and industry leaders.</p>
-<p>Learn <strong><a href="https://innovation.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about CMTi here</a></strong>.</p>
+<p></p>
 <p></p>
 </div>
 </details>
@@ -125,6 +125,6 @@ vision and mission.</p>
 </details>
 </div>
 <p></p>
-<p>Learn <strong><a href="https://gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about NHG Group Research &amp; Innovation (GRI) and what we do here</a></strong>.</p>
+<p></p>
 <p></p>
 <p></p>
