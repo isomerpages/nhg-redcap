@@ -22,8 +22,9 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: The NHG REDCap Helpdesk can only provide support and assistance to NHG
-          Institution Staff and NHG-REDCap Users.
-    title: Important
+      - other: • The NHG REDCap Helpdesk can only provide support and assistance to NHG
+          Institution Staff and NHG-REDCap Users.<br>• We will NEVER require or
+          ask for your Passwords or for any personal information.
+    title: IMPORTANT
 feedback: ""
 ---
