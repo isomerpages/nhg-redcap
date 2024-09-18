@@ -9,11 +9,12 @@ third_nav_title: NHG Policies
 guidelines and templates developed to provide the NHG research community
 with detailed procedures on conducting research in accordance with applicable
 guidelines and regulations.</p>
-<p><strong>Who should know?</strong>
-<br>All NHG staff carrying out research activities.</p>
+<h4><strong>Who should know?</strong></h4>
+<p>All NHG staff carrying out research activities.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/resources/pcr+sops+and+templates" rel="noopener noreferrer nofollow" target="_blank">Learn more about the NHG PCR-SOPs here</a>.</p>
+<p>Learn more about the NHG <a href="https://ethics.gri.nhg.com.sg/pcr-sop-templates/" rel="noopener nofollow" target="_blank">NHG Proper Conduct of Research (PCR) SOPs here</a>
+</p>
 </li>
 </ul>
 <p></p>
