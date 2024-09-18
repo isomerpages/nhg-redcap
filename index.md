@@ -30,8 +30,9 @@ sections:
       id: announcements
       announcement_items:
         - title: NHG REDCap Helpdesk Portal
-          date: 01 August 2024
-          announcement: We have a new REDCap Helpdesk Portal for NHG Users!
+          date: 17 September 2024
+          announcement: Welcome! This is our brand-new REDCap Helpdesk Portal for the NHG
+            Research Community!
           link_text: Read more
-          link_url: /welcome-to-the-new-nhg-redcap-helpdesk-portal/
+          link_url: /new-redcap-helpdesk-portal/
 ---
