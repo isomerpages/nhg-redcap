@@ -95,7 +95,11 @@ maintaining high standards through international accreditation. OHRPP also
 engages in public outreach to promote awareness and understanding of participant
 rights in research. This commitment supports the ethical and effective
 conduct of research within NHG.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Learn more <a href="https://ethics.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">about OHRPP here</a>.</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
