@@ -42,8 +42,8 @@ between each status, and its implications to the Project.
 fully comply with or meet the requirements of Singapore’s Electronic Transactions
 Act (ETA).</p>
 <p></p>
-<p>Hence, we do NOT recommend that researchers use REDCap to perform any
-e-Consent activities.</p>
+<p>Hence, we do <strong>NOT </strong>recommend that researchers use REDCap
+to perform any e-Consent activities.</p>
 <p></p>
 <p>For more information, please refer to the following resources.</p>
 <p></p>
@@ -53,15 +53,13 @@ e-Consent activities.</p>
 Intranet access required.)</p>
 </li>
 </ul>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.hsa.gov.sg/docs/default-source/hprg-io-ctb/hsa_gn-ioctb-14_e-consent_1oct2021.pdf?sfvrsn=388d125e_2" rel="noopener nofollow" target="_blank">HSA - Guidance on Electronic Co nsent (for LCinical Trials0)</a>
+<p><a href="https://www.hsa.gov.sg/docs/default-source/hprg-io-ctb/hsa_gn-ioctb-14_e-consent_1oct2021.pdf?sfvrsn=388d125e_2" rel="noopener nofollow" target="_blank">HSA - Guidance on Electronic Consent (for Clinical Trials)</a>
 </p>
 </li>
 </ul>
 <p></p>
-<p>cc</p>
 </div>
 </details>
 </div>
