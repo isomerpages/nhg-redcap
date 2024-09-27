@@ -32,8 +32,8 @@ between each status, and its implications to the Project.
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Can REDCap be used to perform/obtain Electronic Informed Consent from
-NHG Research Participants?</summary>
+<summary><strong>Can REDCap be used to document/obtain Electronic Informed Consent from NHG Research Participants?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>The REDCap system does have some functionality to perform e-Consent activities.</p>
@@ -56,12 +56,12 @@ Intranet access required.)</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.hsa.gov.sg/docs/default-source/hprg-io-ctb/hsa_gn-ioctb-14_e-consent_1oct2021.pdf?sfvrsn=388d125e_2" rel="noopener nofollow" target="_blank">HSA - Guidance on Electronic Consent</a>
+<p><a href="https://www.hsa.gov.sg/docs/default-source/hprg-io-ctb/hsa_gn-ioctb-14_e-consent_1oct2021.pdf?sfvrsn=388d125e_2" rel="noopener nofollow" target="_blank">HSA - Guidance on Electronic Co nsent (for LCinical Trials0)</a>
 </p>
 </li>
 </ul>
 <p></p>
-<p></p>
+<p>cc</p>
 </div>
 </details>
 </div>
