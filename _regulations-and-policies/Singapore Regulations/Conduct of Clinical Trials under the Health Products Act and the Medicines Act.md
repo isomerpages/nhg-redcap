@@ -1,7 +1,7 @@
 ---
 title: Conduct of Clinical Trials under the Health Products Act and the Medicines Act
 permalink: /clinical-trials/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Singapore Regulations
 ---
@@ -28,6 +28,10 @@ Authority (HSA) website below</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.hsa.gov.sg/clinical-trials" rel="noopener noreferrer nofollow" target="_blank">HSA: Regulatory overview of Clinical Trials.</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA: Guidance documents for Clinical Trials</a>
 </p>
 </li>
 </ul>
