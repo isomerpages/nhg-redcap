@@ -25,10 +25,12 @@ User Account.</p>
 <details class="isomer-details">
 <summary>(2) Valid Ethics Approval</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Research activity has valid research ethics approval, or is able to
-show documentary evidence that it does not require DSRB Ethics approval
-under specific DSRB policies.</p>
-<p></p>
+<p>The Research activity has valid research ethics approval*, or is able
+to show documentary evidence that it does not require DSRB Ethics approval
+under specific DSRB policies.
+<br><strong>*</strong>  <sub>includes NHG Standing Database (SDB) Registration for potential future research.</sub>
+<br>
+</p>
 </div>
 </details>
 <details class="isomer-details">
