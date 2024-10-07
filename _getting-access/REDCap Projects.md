@@ -12,10 +12,12 @@ has obtained DSRB / IRB research ethics approval.</p>
 <p>These are the criteria for a successful Project Request submission.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>(1) Valid REDCap Production Server User Account</summary>
+<summary><strong>(1) Valid/Activated REDCap Production Server User Account</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The REDCap Project Owner is able to login to their activated* REDCap <u>Production</u> Server
-User Account.</p>
+<p>
+<br>The REDCap Project Owner (ie: Study PI) is <strong>able to login</strong> to
+their activated* REDCap <u>Production</u> Server User Account.</p>
 <p></p>
 <p><strong>*</strong>  <sup><sub>Submitting a REDCap User Account Request </sub></sup><strong><sup><sub>DOES NOT</sub></sup></strong><sup><sub> imply that the NHG REDCap Account(s) has been activated. User Accounts are valid for use </sub></sup><strong><sup><sub>ONLY AFTER</sub></sup></strong><sup><sub> the user has followed the instructions to login and activate the User Account.</sub></sup>
 </p>
@@ -23,29 +25,38 @@ User Account.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>(2) Valid Ethics Approval</summary>
+<summary><strong>(2) Valid Ethics Approval</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Research activity has valid research ethics approval*, or is able
-to show documentary evidence that it does not require DSRB Ethics approval
-under specific DSRB policies.
-<br><strong>*</strong>  <sub>includes NHG Standing Database (SDB) Registration for potential future research.</sub>
+<p>
+<br>The Research activity has <strong>valid research ethics approval *</strong>,
+or is able to show documentary evidence that it does not require DSRB Ethics
+approval under specific DSRB policies.
+<br><strong>*</strong>  <sub>includes NHG Standing Database (SDB) Registration for potential future research. Relevant Approval Letters must be submitted together with the REDCap Project Request Form.</sub>
 <br>
 </p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>(3) Provided all Supporting Documents in Submission</summary>
+<summary><strong>(3) Provided all Supporting Documents in Submission</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All of the following Supporting Documents have been put into a single
+<p>
+<br>All of the following Supporting Documents have been put into a single
 ZIP file for submission.
+<br>
 <br>(a) REDCap Project Request Form (as a PDF)
 <br>(b) Latest Ethics Approval Letter (as a PDF)
-<br>(c) REDCap Project XML file (Metadata only) (if applicable)</p>
+<br>(c) REDCap Project XML file (Metadata only) (if applicable)
+<br>
+</p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
+<p>REDCap Project Requests which do not meet the above criteria may be delayed
+while we contact the Project Owner with our clarifications.</p>
 <h4><strong>REDCap Project Request Form</strong></h4>
 <p>Please download and complete the Project Request Form to request for a
 REDCap Project on the REDCap Production Server.</p>
