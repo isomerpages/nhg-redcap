@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Accessing NHG REDCap.md
+      - REDCap User Accounts/NHG ADID Assistance.md
       - REDCap User Accounts/.keep
       - REDCap User Accounts/Request for New REDCap User Accounts.md
       - REDCap User Accounts/Reactivating Suspended REDCap User Accounts.md
