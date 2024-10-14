@@ -8,6 +8,22 @@ third_nav_title: Singapore Regulations
 <p>Research should always be conducted with integrity and be of reliable
 quality to ensure that the health, welfare and safety of research participants
 remain a paramount consideration at all times.</p>
+<p></p>
+<p><em>Section 27 of the Human Biomedical Research Act (HBRA) states that: </em>
+</p>
+<blockquote>
+<p>"Every person who has obtained individually-identifiable information or
+human biological material for the purposes of human biomedical research
+must take all reasonable steps and safeguards as may be necessary, including
+rendering information or material non-identifiable, to protect such information
+or material against accidental or unlawful loss, modification or destruction,
+or unauthorised access, disclosure, copying, use or modification.</p>
+<p>Any person who contravenes these requirements in HBRA shall be guilty
+of an offence and shall be liable on conviction to a fine or to imprisonment
+or to both."</p>
+</blockquote>
+<p></p>
+<p></p>
 <p>Singapore's <strong>Human Biomedical Research Act (HBRA)</strong> provides
 clarity regarding the roles and responsibilities of individuals and body
 corporates involved in human biomedical research and the handling of human
