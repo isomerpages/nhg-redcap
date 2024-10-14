@@ -9,7 +9,7 @@ third_nav_title: Singapore Regulations
 quality to ensure that the health, welfare and safety of research participants
 remain a paramount consideration at all times.</p>
 <p></p>
-<p><em>Section 27 of the Human Biomedical Research Act (HBRA) states that: </em>
+<p><em>Section 27 of the Human Biomedical Research Act (HBRA) states that:</em>
 </p>
 <blockquote>
 <p>"Every person who has obtained individually-identifiable information or
