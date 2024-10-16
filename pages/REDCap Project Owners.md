@@ -37,7 +37,7 @@ PDPA) relating to the collection and use of Data.</p>
 </li>
 <li>
 <p>Informing the REDCap System Administrators (<a rel="noopener noreferrer nofollow" target="_blank">redcap@nhg.com.sg</a>)
-when the REDCap Project has been completed, or is no longer required.</p>
+when the REDCap Project has been completed or is no longer required.</p>
 <p></p>
 </li>
 </ul>
