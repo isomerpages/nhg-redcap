@@ -43,6 +43,6 @@ when the REDCap Project has been completed or is no longer required.</p>
 </ul>
 </li>
 </ul>
-<p>REDCap Project Owners should download and read the REDCap Usage Agreement
-here for a full description of their responsibilities and obligations.</p>
+<p><strong>** REDCap Project Owners are advised to download and read the <a href="https://redcapsupport.gri.nhg.com.sg/redcap-use/" rel="noopener nofollow" target="_blank">REDCap Usage Agreement here</a> for a full description of their responsibilities and obligations.</strong>
+</p>
 <p></p>
