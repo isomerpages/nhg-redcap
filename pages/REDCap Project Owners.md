@@ -28,9 +28,9 @@ of the REDCap Project.</p>
 shall also be responsible for:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Actively supervising the use and conduct of the REDCap Project to ensure
-compliance with all applicable Legislation and NHG Policies (eg: HBRA,
-PDPA) relating to the collection and use of Data.</p>
+<p>Supervising the use of the REDCap Project to ensure compliance with all
+applicable Legislations (eg: HBRA, PDPA) and NHG Policies (eg: DSRB Ethics,
+NHG Research Data Policy) relating to the collection and use of Data.</p>
 </li>
 <li>
 <p>Ensuring appropriate user-access to their REDCap Projects and Data</p>
