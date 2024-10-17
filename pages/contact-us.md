@@ -26,5 +26,12 @@ contacts:
           Institution Staff and NHG-REDCap Users.<br>• We will NEVER require or
           ask for your Passwords or for any personal information.
     title: IMPORTANT
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <p>Click <u><a target="_blank"
+          href="https://redcapsupport.gri.nhg.com.sg/nhg-adid-assistance/">here
+          for NHG-ITD Helpdesk Contact information</a></u>.</p>
+    title: NHG ITD Helpdesk
 feedback: ""
 ---
