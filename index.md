@@ -43,7 +43,6 @@ sections:
           link_url: /new-redcap-helpdesk-portal/
   - resources:
       title: Latest News & Announcements
-      subtitle: Add a preview and link to your Resource Room
       id: resources
       button: See more here
 ---
