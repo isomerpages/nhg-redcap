@@ -25,22 +25,6 @@ sections:
             url: /learnredcap/
           - title: Contact Helpdesk
             url: /contact-us/
-  - announcements:
-      title: Latest News & Announcements
-      id: announcements
-      announcement_items:
-        - title: New Version of NHG-REDCap Project Request Form now available
-          date: 01 October 2024
-          announcement: The NHG-REDCap Project Request Form has been updated to Version 5
-            and is now available.
-          link_text: Download here
-          link_url: https://redcapsupport.gri.nhg.com.sg/request-rcprojects/
-        - title: NHG REDCap Helpdesk Portal
-          date: 17 September 2024
-          announcement: Welcome! This is our brand-new REDCap Helpdesk Portal for the NHG
-            Research Community!
-          link_text: Read more
-          link_url: /new-redcap-helpdesk-portal/
   - resources:
       title: Latest News & Announcements
       id: resources
