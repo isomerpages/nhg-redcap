@@ -43,7 +43,18 @@ to cater to different data collection needs of the different Arms.
 </li>
 </ul>
 <p></p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Backing up your REDCap Project Design</strong>
+<br>This FAQ guide shows how Users can backup and share their REDCap Project
+designs (including Forms and Data variables). It also informs Users on
+what the process is to transfer REDCap Projects from the Staging Server
+to the Production Server.
+<br><a href="/files/User Guides/1304_011B_Transfering_a_REDCap_Project_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.
+<br>
+</p>
+</li>
+</ul>
 <p><em>More guides coming soon!</em>
 </p>
 <p></p>
