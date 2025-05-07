@@ -15,6 +15,7 @@ the following period.
 <br>START: <strong>6.30pm, Wed 7 MAY 2025</strong>
 <br>END: <strong>10am, TUE, 13 MAY 2025</strong>
 <br>
+<br>
 </p>
 </li>
 <li>
