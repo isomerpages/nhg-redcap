@@ -8,8 +8,8 @@ image: ""
 variant: tiptap
 ---
 <h4><strong>What this is about</strong></h4>
-<p>The <strong>NHG-REDCap Production Server</strong> will be shut down to facilitate
-a System Upgrading Exercise.</p>
+<p>The <strong>NHG-REDCap Production Server</strong> will be shut down in June
+2025 to facilitate a System Upgrading Exercise.</p>
 <p>This will ensure that the NHG-REDCap System is using the latest stable
 software version to address any existing bugs and to improve the system's
 functionality and performance.</p>
@@ -27,7 +27,11 @@ be suspended, including<em>:</em>
 <p>Project Design and Form Amendments</p>
 </li>
 <li>
-<p>New Account Requests, and New Account Activation</p>
+<p>New Production Server User Account Requests, and New Production Server
+User Account Activation</p>
+</li>
+<li>
+<p>New Project Requests</p>
 </li>
 </ul>
 <p></p>
@@ -36,9 +40,9 @@ be suspended, including<em>:</em>
 <p></p>
 <h4><strong>What Users need to do</strong></h4>
 <p>We strongly recommend that all Users, especially REDCap Project Owners
-(ie Overall NHG PIs / Site-PIs), carefully review the document below to
-understand how the Production Server shutdown could adversely affect their
-research activities and the mitigation measures to be taken.</p>
+(ie Overall NHG PIs / Site-PIs), carefully review the Guide below to understand
+how the Production Server shutdown could adversely affect their research
+activities, and the mitigation measures available to minimize any disruptions.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>NHG-REDCap Production Server Shutdown &amp; Upgrading Exercise 2025 Guide</strong> 
