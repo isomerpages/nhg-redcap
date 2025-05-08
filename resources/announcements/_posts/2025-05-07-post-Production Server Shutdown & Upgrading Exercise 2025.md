@@ -39,7 +39,7 @@ User Account Activation</p>
 <p>The NHG-REDCap Production Server will be shut down from <strong><u>6.30pm on Tuesday 3 June 2025</u></strong> until <strong><u>9am on Monday 9 June 2025</u></strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Content Images/RC_Prod_Shutdown_Period_2025.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Content Images/RC_Prod_Shutdown_Period_2025.png">
 </div>
 <p></p>
 <h4><strong>What Users need to do</strong></h4>
