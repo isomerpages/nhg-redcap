@@ -47,7 +47,8 @@ activities, and the mitigation measures available to minimize any disruptions.</
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>NHG-REDCap Production Server Shutdown &amp; Upgrading Exercise 2025 Guide</strong> 
-<br><u>Download here</u> (NHG Intranet /HVPN Access required)</p>
+<br><strong><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Announcements/REDCap%20Production%20Shutdown%20User%20Guide%202025%20v2.pdf" rel="noopener nofollow" target="_blank">Download here</a></strong> (NHG
+Intranet /HVPN Access required)</p>
 </li>
 </ul>
 <p></p>
