@@ -21,17 +21,14 @@ be suspended, including<em>:</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Data Entry</p>
+<p>User Login, Data Entry</p>
 </li>
 <li>
-<p>Project Design and Form Amendments</p>
+<p>New Project Requests, Project Design and Form Amendments</p>
 </li>
 <li>
-<p>New Production Server User Account Requests, and New Production Server
-User Account Activation</p>
-</li>
-<li>
-<p>New Project Requests</p>
+<p>New Production Server User Account Requests and Account Activation</p>
+<p></p>
 </li>
 </ul>
 <p></p>
