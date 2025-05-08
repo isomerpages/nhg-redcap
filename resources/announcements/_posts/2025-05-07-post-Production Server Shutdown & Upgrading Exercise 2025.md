@@ -40,10 +40,11 @@ be suspended, including<em>:</em>
 </div>
 <p></p>
 <h4><strong>What Users need to do</strong></h4>
-<p>We strongly recommend that all Users, especially REDCap Project Owners
-(ie Overall NHG PIs / Site-PIs), carefully review the Guide below to understand
-how the Production Server shutdown could adversely affect their research
-activities, and the mitigation measures available to minimize any disruptions.</p>
+<p>We <strong>strongly recommend</strong> that all Users, especially REDCap
+Project Owners (ie Overall NHG PIs / Site-PIs), carefully review the Guide
+below to understand how the Production Server shutdown could adversely
+affect their research activities, and the mitigation measures available
+to minimize any disruptions.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>NHG-REDCap Production Server Shutdown &amp; Upgrading Exercise 2025 Guide</strong> 
