@@ -50,7 +50,7 @@ DSRB Ethics approval under specific DSRB policies.<em> (Valid Approval includes 
 </ul>
 <p></p>
 <p></p>
-<p><strong>(3) Supporting Documents </strong>
+<p><strong>(3) Supporting Documents</strong>
 </p>
 <p>All of the following Supporting Documents have been put into a single
 ZIP file for submission.
@@ -58,7 +58,7 @@ ZIP file for submission.
 <br>(a) REDCap Project Request Form (as a PDF)
 <br>(b) Latest Ethics Approval Letter (as a PDF)
 <br>(c) REDCap Project XML file (Metadata only) (if applicable)</p>
-<p><em>See the REDCap Project Request Form for detailed instructions &amp; submission checklist.</em>
+<p><strong>*</strong><em> Refer to the REDCap Project Request Form for detailed instructions &amp; submission checklist.</em>
 </p>
 <p></p>
 <p></p>
