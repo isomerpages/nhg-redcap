@@ -2,6 +2,7 @@ collections:
   getting-access:
     output: true
     order:
+      - REDCap Projects (2)/REDCap Projects.md
       - REDCap Projects (2)/.keep
       - Accessing NHG REDCap.md
       - REDCap User Accounts/.keep
