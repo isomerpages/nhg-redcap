@@ -45,7 +45,7 @@ Termination.</p>
 </ul>
 <p></p>
 <h4><strong>Form Download</strong></h4>
-<p>Please download the <strong>Project Closure Form </strong>at the link below:</p>
+<p>Please download the Form at the link below:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>NHG-REDCap Project Closure Form (v3)</strong> (Restricted: NHG
