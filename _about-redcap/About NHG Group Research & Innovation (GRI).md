@@ -4,7 +4,7 @@ permalink: /abt-gri/
 variant: tiptap
 description: ""
 ---
-<h4><strong>National Healthcare Group</strong></h4>
+<h4><strong>NHG Health</strong></h4>
 <p><strong>NHG Health </strong>is a leader in public healthcare in Singapore
 recognized for delivering high value patient care. Our clinical services
 are provided through an integrated system of primary care polyclinics,
@@ -18,7 +18,7 @@ of Healthy Life to the people we serve.​</p>
 <h4><strong>NHG Group Research &amp; Innovation</strong></h4>
 <p>At NHG Health, we believe that <strong>Research </strong>and <strong>Innovation </strong>are
 at the heart of <strong>advancing healthcare</strong>.</p>
-<p>Established in 2004 in NHG, the <strong>NHG Health Group Research &amp; Innovation (GRI)</strong> is
+<p>Established in 2004 in NHG Health, the <strong>NHG Health Group Research &amp; Innovation (GRI)</strong> is
 dedicated to cultivating medical research and developing innovative medical
 technologies through collaborative partnerships with our academic partners
 and the MedTech industry.</p>
