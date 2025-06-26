@@ -48,8 +48,8 @@ Termination.</p>
 <p>Please download the Form at the link below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>NHG-REDCap Project Closure Form (v3)</strong> (Restricted: NHG
-Intranet access required)</p>
+<p><strong>NHG-REDCap Project Closure Form (v3) (Zip File)</strong>  <strong>(Restricted: NHG Intranet access required)</strong>
+</p>
 </li>
 </ul>
 <p></p>
