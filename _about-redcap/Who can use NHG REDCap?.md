@@ -4,10 +4,10 @@ permalink: /who-can-use-nhg-redcap/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Staff of National Healthcare Group Institutions</strong></h4>
-<p>Staff of the National Healthcare Group (NHG) Institutions are eligible
-to use the NHG-REDCap system to support specific types of activities.&nbsp;</p>
-<p>NHG Institutions include:</p>
+<h4><strong>Staff of NHG Health Institutions</strong></h4>
+<p>Staff of NHG Health Institutions are eligible to use the NHG-REDCap system
+to support specific types of activities.&nbsp;</p>
+<p>NHG Health Institutions include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tan Tock Seng Hospital</p>
@@ -40,11 +40,12 @@ to use the NHG-REDCap system to support specific types of activities.&nbsp;</p>
 <p>NHG Pharmacy</p>
 </li>
 <li>
-<p>NHG HQ</p>
+<p>NHG Health Group Offices</p>
 </li>
 </ul>
-<p>NHG Staff should note that REDCap User Accounts are not automatically
-issued. NHG Staff will need to <a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">apply (here) for</a> their REDCap User Accounts.</p>
+<p>Staff should note that REDCap User Accounts are not automatically issued.
+Staff will need to personally <a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">apply </a><em><a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">(see here)</a></em>
+<a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">for</a>their REDCap User Accounts.</p>
 <p></p>
 <p><sup>If your Inst/Dept would like us to conduct a Presentation on REDCap and how it can benefit your research activities, please </sup>
 <a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><sup>contact us</sup>
@@ -56,7 +57,7 @@ issued. NHG Staff will need to <a href="/rcuser-access/" rel="noopener noreferre
 criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Is a current <strong>NHG Staff, </strong>or holds a <strong>valid NHG Appointment</strong> (eg:
+<p>Is a current <strong>NHG Health Staff, </strong>or holds a <strong>valid NHG Appointment</strong> (eg:
 Visiting Consultant, Research Fellow etc)</p>
 </li>
 <li>
@@ -69,8 +70,8 @@ Visiting Consultant, Research Fellow etc)</p>
 </ul>
 <p></p>
 <h4><strong>External &amp; Non-NHG Persons</strong></h4>
-<p>Due to NHG cybersecurity policy restrictions, we are unable to provide
-access to the NHG-REDCap system for External and Non-NHG persons.</p>
+<p>Due to NHG Health cybersecurity policy restrictions, we are unable to
+provide access to the NHG-REDCap system for External and Non-NHG persons.</p>
 <p>If you are from another Singapore Public Healthcare Cluster(PHI) or Institution
 (ie: NUHS or Singhealth), we recommend that you check with your Cluster's
 Clinical Research Unit/Office to see how you can get access to your respective
