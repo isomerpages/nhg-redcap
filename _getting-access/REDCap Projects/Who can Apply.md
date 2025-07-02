@@ -7,8 +7,8 @@ third_nav_title: REDCap Projects
 ---
 <h4><strong>Who can apply</strong></h4>
 <p>The REDCap Project Request Form must be signed by the REDCap Project Owner,
-who is also the NHG Principal Investigator, for a research activity that
-has obtained DSRB / IRB research ethics approval.</p>
+who is also the NHG Health Principal Investigator, for a research activity
+that has obtained DSRB / IRB research ethics approval.</p>
 <h4><strong>Criteria for a successful Project Request</strong></h4>
 <p>There are three main criteria for a successful Project Request submission.
 These are outlined below.</p>
