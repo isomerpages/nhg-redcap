@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p>NHG-REDCap is an internal system that only Staff of the National Healthcare
-Group (NHG) Institutions are eligible to use to support specific types
-of activities.&nbsp;</p>
+<p>NHG-REDCap is an internal system that only Staff of NHG Health are eligible
+to use to support specific types of activities.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Learn more about <a href="https://redcapsupport.gri.nhg.com.sg/who-can-use-nhg-redcap/" rel="noopener nofollow" target="_blank">who can use NHG-REDCap here</a>.</p>
