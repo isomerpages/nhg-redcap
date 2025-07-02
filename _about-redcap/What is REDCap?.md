@@ -22,19 +22,20 @@ knowledge.</p>
 Link) for more information.</p>
 <p></p>
 <h4><strong>About REDCap in NHG</strong></h4>
-<p>The National Healthcare Group (NHG) is a member of the REDCap Consortium
-(since 2016) which is made up of 7,357 active partners in 159 countries
-(as of 2024) who utilize and support REDCap in various ways. In Singapore,
-all three public healthcare clusters (NHG, NUHS, SingHealth) host and support
-their own REDCap systems.</p>
+<p>NHG Health is a member of the REDCap Consortium (since 2016) which is
+made up of 7,357 active partners in 159 countries (as of 2024) who utilize
+and support REDCap in various ways. In Singapore, all three public healthcare
+clusters (NHG Health, NUHS, SingHealth) host and support their own REDCap
+systems.</p>
 <p>The NHG-REDCap system was first launched in 2016 and is jointly administered
-and maintained by NHG Group Research &amp; Innovation (GRI) and Synapxe.</p>
-<p>The NHG REDCap Helpdesk<strong> </strong>portal is maintained by the NHG
-REDCap Administrator.</p>
+and maintained by Group Research &amp; Innovation (GRI) and Synapxe.</p>
+<p>This Helpdesk<strong> </strong>portal is maintained by the NHG-REDCap
+Administrator.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learn more about the <strong><a href="https://corp.nhg.com.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>National Healthcare Group (NHG)</u></a></strong> here.</p>
+<p>Learn more about the <strong><a href="https://corp.nhg.com.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health</u></a></strong> here.</p>
 <p></p>
 </li>
 </ul>
-<p></p>
+<p>*<em> NHG Health was formerly known as National Healthcare Group (NHG) before 1 July 2025.</em>
+</p>
