@@ -4,9 +4,8 @@ permalink: /staging-login/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/REDCap logo/RC_Staging_Server_Logo.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RC Logo 2025/RC_Staging_Logo_2025.png">
 </div>
 <p>The NHG-REDCap Staging Server is intended <strong>only for testing and learning purposes</strong>.&nbsp;</p>
 <p>Users <strong>CANNOT</strong> to use the NHG-REDCap Staging Server to collect
