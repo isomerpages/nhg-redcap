@@ -44,8 +44,8 @@ to support specific types of activities.&nbsp;</p>
 </li>
 </ul>
 <p>Staff should note that REDCap User Accounts are not automatically issued.
-Staff will need to personally <a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">apply </a><em><a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">(see here)</a></em>
-<a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">for</a>their REDCap User Accounts.</p>
+Staff will need to personally <a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">apply for </a><em><a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">(see here)</a></em> their
+REDCap User Accounts.</p>
 <p></p>
 <p><sup>If your Inst/Dept would like us to conduct a Presentation on REDCap and how it can benefit your research activities, please </sup>
 <a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><sup>contact us</sup>
