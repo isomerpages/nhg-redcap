@@ -18,11 +18,11 @@ purpose and use. Staff should consider carefully which User Accounts are
 needed for their work.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Production Server User Account</summary>
+<summary><strong>Production Server User Account</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Content Images/rcProdserver.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RC Logo 2025/RC_Production_Logo_2025.png">
 </div>
 <p>The REDCap Production Server is the regulated environment where the REDCap
 Projects of approved research activities are hosted, and where research
@@ -34,11 +34,11 @@ in the Study's data collection activities conducted in a REDCap Project.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Staging Server User Account</summary>
+<summary><strong>Staging Server User Account</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Content Images/rcStagserver.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RC Logo 2025/RC_Staging_Logo_2025.png">
 </div>
 <p>The REDCap Staging Server is the sandbox environment intended for <strong>ONLY TESTING and LEARNING</strong> purposes.</p>
 <p></p>
@@ -57,8 +57,8 @@ NHG oversight committees.</p>
 </div>
 <p></p>
 <h4><strong>Submit REDCap User Account Request</strong></h4>
-<p>Only Staff of the National Healthcare Group (NHG) Institutions are eligible
-for access to NHG-REDCap. <a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">Learn more here</a>.</p>
+<p>Only Staff of the NHG Health are eligible for access to NHG-REDCap.
+<a href="/rcuser-access/" rel="noopener noreferrer nofollow" target="_blank">Learn more here</a>.</p>
 <p>Applicants must <strong>personally</strong> complete and submit their requests
 via the link below.</p>
 <ul data-tight="true" class="tight">
