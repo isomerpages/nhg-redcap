@@ -4,10 +4,10 @@ permalink: /production-login/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
-<p>
-<br>The NHG-REDCap Production Server is the regulated REDCap environment where
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RC Logo 2025/RC_Production_Logo_2025.png">
+</div>
+<p>The NHG-REDCap Production Server is the regulated REDCap environment where
 Ethics approved Research Activities are to be carried out in strict accordance
 to the requirements by the NHG Domain Specific Review Boards (DSRB), Personal
 Data Protection Act (PDPA) and any other applicable regulations where applicable
