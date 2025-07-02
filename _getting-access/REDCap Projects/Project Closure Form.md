@@ -48,7 +48,7 @@ Termination.</p>
 <p>Please download the Form at the link below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Request%20Forms/1305-091B%20REDCap%20Project%20Closure%20Request%20v3.zip" rel="noopener nofollow" target="_blank">NHG-REDCap Project Closure Form (v3) (Zip File)</a></strong>  <strong>(Restricted: NHG Intranet access required)</strong>
+<p><strong><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Request%20Forms/1305-091B%20REDCap%20Project%20Closure%20Request%20v3.1.zip" rel="noopener nofollow" target="_blank">NHG-REDCap Project Closure Form (v3.1) (Zip File)</a></strong>  <strong>(Restricted: NHG Intranet access required)</strong>
 </p>
 </li>
 </ul>
