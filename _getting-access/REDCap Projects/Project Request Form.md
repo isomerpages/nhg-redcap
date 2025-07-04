@@ -11,7 +11,7 @@ REDCap Project on the REDCap Production Server.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Request%20Forms/1305-001A%20NHG%20REDCap%20Project%20Request%20v6.zip" rel="noopener noreferrer nofollow" target="_blank"><u>REDCap Project Request Form (v6)</u></a></strong> (Updated
+<p><strong><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Request%20Forms/1305-001A%20NHG%20REDCap%20Project%20Request%20v6.zip" rel="noopener noreferrer nofollow" target="_blank"><u>REDCap Project Request Form (v6) (Zip file)</u></a></strong> (Updated
 4 July 2025)
 <br><strong>(Restricted: NHG Intranet access required)*</strong>
 </p>
