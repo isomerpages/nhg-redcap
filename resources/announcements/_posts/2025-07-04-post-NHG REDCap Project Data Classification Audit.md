@@ -19,9 +19,13 @@ their REDCap Projects and provide the appropriate Data Classification.</p>
 </li>
 </ul>
 <h4><strong>WHAT NEEDS TO BE DONE</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>We recommend that REDCap Project Owners <strong><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20User%20Guides%20and%20References/1304-010%20NHG%20REDCap%20Project%20Data%20Classification%20Guide%20v1.pdf" rel="noopener noreferrer nofollow" target="_blank">download the REDCap Project Data Classification Submission Guide here</a></strong>  <em>(NHG Intranet access required) </em>for
 more information on how to assess and determine the appropriate Data Classification
 for their REDCap Project(s).&nbsp;</p>
+</li>
+</ul>
 <h4><strong>WHO CAN MAKE THE SUBMISSION</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
