@@ -31,12 +31,13 @@ the REDCap Project. REDCap Project Owners are now required to assess and
 declare the Data Security Classification of their REDCap Project.</p>
 </li>
 <li>
-<p>The new Version also comes with a separate PDF Guide to assist Users in
-completing the Request Form.</p>
+<p>The new Version also comes with a <strong>separate PDF Guide</strong> to
+assist Users in completing the Request Form.</p>
 </li>
 <li>
-<p>Both the Project Request Form (Docx) and Guide (PDF) are contained in
-a single ZIP file and can be downloaded at the REDCap Helpdesk Site below.</p>
+<p>Both the <strong>Project Request Form (Docx)</strong> and <strong>Guide (PDF)</strong> are
+contained in a <strong>single ZIP file</strong> and can be downloaded at
+the REDCap Helpdesk Site below.</p>
 </li>
 </ul>
 <h4><strong>Where to download</strong></h4>
@@ -45,6 +46,7 @@ a single ZIP file and can be downloaded at the REDCap Helpdesk Site below.</p>
 <p>Download the updated Project Request Form here:</p>
 <p><strong>NHG-REDCap Project Request page:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://redcapsupport.gri.nhg.com.sg/project-request-form/</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>We recommend that Users always download a fresh copy of the Project Request
