@@ -43,7 +43,7 @@ a single ZIP file and can be downloaded at the REDCap Helpdesk Site below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Download the updated Project Request Form here:</p>
-<p><strong>NHG-REDCap Project Request:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://redcapsupport.gri.nhg.com.sg/project-request-form/</a>
+<p><strong>NHG-REDCap Project Request page:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://redcapsupport.gri.nhg.com.sg/project-request-form/</a>
 </p>
 </li>
 <li>
