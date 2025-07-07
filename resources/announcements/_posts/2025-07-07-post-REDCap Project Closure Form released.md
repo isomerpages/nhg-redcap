@@ -44,5 +44,17 @@ out.</p>
 Termination.</p>
 </li>
 </ul>
+<h4><strong>Form Download</strong></h4>
+<p>Please download the Form at the page below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://redcapsupport.gri.nhg.com.sg/project-closure-form/" rel="noopener noreferrer nofollow" target="_blank">https://redcapsupport.gri.nhg.com.sg/project-closure-form/</a>
+</p>
+</li>
+</ul>
+<p>We recommend that Users always download a fresh copy of the Form from
+the NHG-REDCap Helpdesk Site to ensure they are always using the latest
+version.</p>
+<p></p>
 <h4></h4>
 <p></p>
