@@ -7,4 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>test</p>
+<p>The <strong>NHG-REDCap Project Closure Form</strong> is for closing REDCap
+Projects hosted on the <strong>NHG REDCap (Production) Server</strong>.</p>
+<p>Projects can be <strong>CLOSED</strong> in the following situations:</p>
+<p></p>
