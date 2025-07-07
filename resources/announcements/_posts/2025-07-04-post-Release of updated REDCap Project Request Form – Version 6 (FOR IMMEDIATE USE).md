@@ -49,8 +49,8 @@ the REDCap Helpdesk Site below.</p>
 <p></p>
 </li>
 <li>
-<p>We recommend that Users always download a fresh copy of the Project Request
-Form from the <a href="https://redcapsupport.gri.nhg.com.sg/" rel="noopener noreferrer nofollow" target="_blank">NHG-REDCap Helpdesk Site</a> to
+<p>We recommend that Users always download a fresh copy of the Form from
+the <a href="https://redcapsupport.gri.nhg.com.sg/" rel="noopener noreferrer nofollow" target="_blank">NHG-REDCap Helpdesk Site</a> to
 ensure they are always using the latest version.</p>
 </li>
 </ul>
