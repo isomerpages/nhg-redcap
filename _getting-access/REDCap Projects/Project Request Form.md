@@ -17,9 +17,12 @@ REDCap Project on the REDCap Production Server.</p>
 </p>
 </li>
 </ul>
-<p>We recommend that Users always download a fresh copy of the Project Request
-Form from the NHG-REDCap Helpdesk Site to ensure they are always using
-the latest version.
+<p></p>
+<p>The file download is contained in a <strong>single ZIP file</strong> which
+contains the <strong>Project Request Form (.docx)</strong> and a <strong>Infosheet document (.pdf)</strong>.
+Users are strongly encouraged to read the Infosheet document first.</p>
+<p>We recommend that Users always download a fresh copy of the Form from
+this page to ensure they are always using the latest version.
 <br>
 <br>
 </p>
