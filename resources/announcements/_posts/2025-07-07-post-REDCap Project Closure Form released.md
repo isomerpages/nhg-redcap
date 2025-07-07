@@ -28,3 +28,22 @@ Completion.</p>
 </li>
 </ul>
 <p></p>
+<p><strong>(2)&nbsp;&nbsp; <u>PROJECT TERMINATED</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Project has been <strong>TERMINATED / DISCONTINUED / WITHDRAWN</strong> before
+reaching its planned conclusion.</p>
+</li>
+<li>
+<p>All activities have been stopped. No further activities will be carried
+out.</p>
+</li>
+<li>
+<p>The DSRB / IRB (or equivalent) has formally acknowledged the Project’s
+Termination.</p>
+</li>
+</ul>
+<p></p>
+<h4></h4>
+<p></p>
