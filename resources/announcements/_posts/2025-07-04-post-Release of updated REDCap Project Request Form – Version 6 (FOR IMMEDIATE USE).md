@@ -46,12 +46,7 @@ the REDCap Helpdesk Site below.</p>
 <p>Download the updated Project Request Form here:</p>
 <p><strong>NHG-REDCap Project Request page:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://redcapsupport.gri.nhg.com.sg/project-request-form/</a>
 </p>
-<p></p>
-</li>
-<li>
-<p>We recommend that Users always download a fresh copy of the Form from
-the <a href="https://redcapsupport.gri.nhg.com.sg/" rel="noopener noreferrer nofollow" target="_blank">NHG-REDCap Helpdesk Site</a> to
-ensure they are always using the latest version.</p>
+<p>&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
