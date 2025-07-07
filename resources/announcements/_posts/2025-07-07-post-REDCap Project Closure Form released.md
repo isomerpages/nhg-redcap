@@ -44,6 +44,5 @@ out.</p>
 Termination.</p>
 </li>
 </ul>
-<p></p>
 <h4></h4>
 <p></p>
