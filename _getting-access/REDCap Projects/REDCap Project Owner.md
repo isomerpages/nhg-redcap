@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: REDCap Projects
 ---
-<h4><strong>Who is the NHG-REDCap Project Owner</strong></h4>
+<h4><strong>The NHG-REDCap Project Owner</strong></h4>
 <p>The NHG-REDCap Project Owner shall be the NHG Overall Principal Investigator<strong>*</strong> for
 an ethics-approved research activity.</p>
 <p>&nbsp;The Project Owner must also be a current employee of NHG Health
