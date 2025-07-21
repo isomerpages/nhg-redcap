@@ -14,8 +14,8 @@ the REDCap Projects of <strong>approved activities</strong> are hosted, and
 where approved data collection activities are conducted in strict compliance
 to relevant regulations and policies.</p>
 <p>REDCap Users <strong>cannot create Projects on the Production Server</strong> but
-must submit a Project Request with the necessary documentations. (Learn
-more here.)</p>
+must submit a Project Request with the necessary documentations. Only approved
+activities will be hosted on the Production Server.</p>
 <h4><strong>Projects on the REDCap Staging Server</strong></h4>
 <p>The NHG-REDCap Staging Server is intended <strong>strictly for Testing and Learning purposes only</strong>.</p>
 <p>Users are allowed to create Projects themselves on the Staging Server.</p>
