@@ -13,7 +13,6 @@ on the Production Server.</p>
 for the duration of the REDCap Project.</p>
 <p><strong>*</strong>  <sup><sub>Or the NHG Officer-in-Charge (or equivalent) for a proposed REDCap project.</sub></sup>
 </p>
-<p></p>
 <h4><strong>Responsibilities of the Project Owner</strong></h4>
 <p>All REDCap Project activities hosted on the Production Server must strictly
 comply with requirements set forth by:</p>
