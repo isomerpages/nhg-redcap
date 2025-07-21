@@ -12,8 +12,7 @@ Owner.</p>
 <p>There are three main criteria for a successful Project Request submission.
 These are outlined below.</p>
 <p></p>
-<p><strong>(1) Activated REDCap (Production Server) User Account</strong>
-</p>
+<h4>(1) Activated REDCap (Production Server) User Account</h4>
 <p>The REDCap Project Owner must be <strong>ABLE TO LOGIN</strong> to their <strong>activated*</strong> REDCap
 (Production Server) User Account.</p>
 <p><strong>*</strong> What is an Activated REDCap User Accounts?</p>
@@ -29,11 +28,10 @@ that the REDCap User Account(s) have been created or activated.</p>
 </ul>
 <p></p>
 <p></p>
-<p><strong>(2) Valid Research Ethics Approval</strong>
-</p>
-<p>The Research Activity has been granted <strong>valid Research Ethics Approval from the NHG-DSRB </strong>(or
+<h4>(2) Valid Research Ethics Approval</h4>
+<p>The Research Activity has been granted <strong>valid Research Ethics Approval<sup>1</sup> from the NHG-DSRB </strong>(or
 equivalent) or is able to show documentary evidence that it does not require
-DSRB Ethics approval under specific DSRB policies.<em> (Valid Approval includes NHG Standing Database (SDB) Registration for potential future research.)</em>
+DSRB Ethics approval under specific DSRB policies.<em> </em>
 </p>
 <p>The Approval letter must state clearly the following details:</p>
 <ul data-tight="true" class="tight">
@@ -41,27 +39,29 @@ DSRB Ethics approval under specific DSRB policies.<em> (Valid Approval includes 
 <p>The Study Title</p>
 </li>
 <li>
-<p>Name of NHG-PI</p>
+<p>Name of NHG-Overall Study PI</p>
 </li>
 <li>
-<p>The Approval Period <em>(Start &amp; End Dates)</em> for the Study</p>
+<p>Approval Period <em>(including Start &amp; End Dates)</em>
+</p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p><strong>(3) Supporting Documents</strong>
+<p><strong><sub>[1]</sub></strong><sub> Valid Approvals include NHG Standing Database (SDB) Registration and NHG Tissue Banking Registration.</sub>
 </p>
-<p>All of the following Supporting Documents have been put into a single
-ZIP file for submission.
+<p></p>
+<h4>(3) Supporting Documents</h4>
+<p>All of the following Supporting Documents have been put into a <strong>single ZIP file<sup>2</sup></strong> for
+submission.
 <br>
-<br>(a) REDCap Project Request Form (as a PDF)
-<br>(b) Latest Ethics Approval Letter (as a PDF)
+<br>(a) REDCap Project Request Form (as a PDF file)
+<br>(b) Latest Ethics Approval Letter (as a PDF file)
 <br>(c) REDCap Project XML file (Metadata only) (if applicable)</p>
-<p><strong>*</strong><em> Refer to the REDCap Project Request Form for detailed instructions &amp; submission checklist.</em>
+<p><strong><sub>[2]</sub></strong><sub> Refer to the REDCap Project Request Form for detailed instructions &amp; submission checklist.</sub>
 </p>
 <p></p>
 <p></p>
-<p><strong>IMPORTANT: </strong>REDCap Project Requests which do not meet
-the above criteria will be delayed while we contact the Project Owner with
-our clarifications.</p>
+<p><strong>IMPORTANT:  </strong>We strongly recommend Users read the Accompanying
+information sheet before submitting the Project Request Form. REDCap Project
+Requests which do not meet the above criteria will be delayed while we
+contact the Project Owner with our clarifications.</p>
 <p></p>
