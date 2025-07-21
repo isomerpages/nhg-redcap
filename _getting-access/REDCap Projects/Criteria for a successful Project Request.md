@@ -13,7 +13,7 @@ Owner.</p>
 These are outlined below.</p>
 <p></p>
 <h4>(1) Activated REDCap (Production Server) User Account</h4>
-<p>The REDCap Project Owner must be <strong>ABLE TO LOGIN</strong> to their <strong>activated</strong><sup>[1]</sup> REDCap
+<p>The REDCap Project Owner must be <strong>ABLE TO LOGIN</strong> to their <strong>activated<sup>1</sup></strong> REDCap
 (Production Server) User Account.</p>
 <p><strong><sub>[1]</sub></strong><sub> What is an Activated REDCap User Account?</sub>
 <br><sub>• The REDCap User Accounts are valid for use </sub><strong><sub>ONLY AFTER</sub></strong><sub> the User is able to login to the REDCap Server to activate the Account.</sub>
