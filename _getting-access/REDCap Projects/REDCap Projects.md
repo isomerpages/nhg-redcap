@@ -6,8 +6,8 @@ description: ""
 third_nav_title: REDCap Projects
 ---
 <h4><strong>REDCap Projects</strong></h4>
-<p>An REDCap Project can be thought of as a 'Folder' or 'Container' used
-for storing the entered data for a specific activity.</p>
+<p>A REDCap Project can be thought of as a 'Folder' or 'Container' used for
+storing the entered data for a specific activity.</p>
 <h4><strong>Projects on the REDCap Production Server</strong></h4>
 <p>The NHG-REDCap Production Server is the <strong>regulated environment</strong> where
 the REDCap Projects of <strong>approved activities</strong> are hosted, and
