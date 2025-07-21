@@ -7,11 +7,11 @@ third_nav_title: REDCap Projects
 ---
 <h4><strong>The NHG-REDCap Project Owner</strong></h4>
 <p>The NHG-REDCap Project Owner shall be the NHG Overall Study Principal
-Investigator<strong>*</strong> for an approved research activity hosted
-on the Production Server.</p>
+Investigator<sup>1</sup> for an approved research activity hosted on the
+Production Server.</p>
 <p>&nbsp;The Project Owner must also be a current employee of NHG Health
 for the duration of the REDCap Project.</p>
-<p><strong>*</strong>  <sup><sub>Or the NHG Officer-in-Charge (or equivalent) for a proposed REDCap project.</sub></sup>
+<p><strong><sub>[1]</sub></strong><sub> Or the NHG Officer-in-Charge (or equivalent) for a proposed REDCap project.</sub>
 </p>
 <h4><strong>Responsibilities of the Project Owner</strong></h4>
 <p>All REDCap Project activities hosted on the Production Server must strictly
