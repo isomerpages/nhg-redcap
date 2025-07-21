@@ -6,8 +6,8 @@ description: ""
 third_nav_title: REDCap Projects
 ---
 <h4><strong>The NHG-REDCap Project Owner</strong></h4>
-<p>The NHG-REDCap Project Owner shall be the NHG Overall Principal Investigator<strong>*</strong> for
-an ethics-approved research activity.</p>
+<p>The NHG-REDCap Project Owner shall be the NHG Overall Study Principal
+Investigator<strong>*</strong> for an ethics-approved research activity.</p>
 <p>&nbsp;The Project Owner must also be a current employee of NHG Health
 for the duration of the REDCap Project.</p>
 <p><strong>*</strong>  <sup><sub>Or the NHG Officer-in-Charge (or equivalent) for a proposed REDCap project.</sub></sup>
