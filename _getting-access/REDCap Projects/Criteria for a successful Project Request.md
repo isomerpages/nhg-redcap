@@ -31,8 +31,7 @@ that the REDCap User Account(s) have been created or activated.</p>
 <h4>(2) Valid Research Ethics Approval</h4>
 <p>The Research Activity has been granted <strong>valid Research Ethics Approval<sup>1</sup> from the NHG-DSRB </strong>(or
 equivalent) or is able to show documentary evidence that it does not require
-DSRB Ethics approval under specific DSRB policies.<em> </em>
-</p>
+DSRB Ethics approval under specific DSRB policies.</p>
 <p>The Approval letter must state clearly the following details:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -60,7 +59,7 @@ submission.
 </p>
 <p></p>
 <p></p>
-<p><strong>IMPORTANT:  </strong>We strongly recommend Users read the Accompanying
+<p><strong>IMPORTANT: </strong>We strongly recommend Users read the Accompanying
 information sheet before submitting the Project Request Form. REDCap Project
 Requests which do not meet the above criteria will be delayed while we
 contact the Project Owner with our clarifications.</p>
