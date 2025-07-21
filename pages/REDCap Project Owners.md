@@ -4,45 +4,41 @@ permalink: /redcap-project-owners/
 variant: tiptap
 description: ""
 ---
-<h4><strong>NHG-REDCap Project Owners</strong></h4>
+<h4><strong>Who can be the NHG-REDCap Project Owner?</strong></h4>
+<p>The NHG-REDCap Project Owner shall be the NHG Overall Principal Investigator<strong>*</strong> for
+an ethics-approved research activity.</p>
+<p>&nbsp;The Project Owner must also be a current employee of NHG Health
+for the duration of the REDCap Project.</p>
+<p><strong>*</strong>  <sup><sub>Or the NHG Officer-in-Charge (or equivalent) for a proposed REDCap project.</sub></sup>
+</p>
+<p></p>
+<h4><strong>Responsibilities of the Project Owner</strong></h4>
+<p>All REDCap Project activities must strictly comply with requirements set
+forth by:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NHG Domain Specific Review Boards (DSRB) (or equivalent Oversight body).</p>
+</li>
+<li>
+<p>Human Biomedical Research Act (HBRA)</p>
+</li>
+<li>
+<p>Personal Data Protection Act (PDPA)</p>
+</li>
+<li>
+<p>All applicable NHG Health policies and regulations.
+<br>&nbsp;</p>
+</li>
+</ul>
+<p>REDCap Project Owners bear <strong><a href="https://redcapsupport.gri.nhg.com.sg/redcap-use/" rel="noopener noreferrer nofollow" target="_blank">significant responsibilities</a></strong> for
+ensuring their projects comply with relevant regulations and policies.</p>
+<p>While Project Owners may delegate responsibilities to other project members,
+Project Owners must still <strong>maintain active oversight</strong> and
+management of Users accessing the REDCap project.</p>
+<p>The <strong>Project Owner retains ultimate responsibility</strong> for all
+activities conducted within the REDCap Project.</p>
+<p></p>
+<p>Learn more here: <a href="https://redcapsupport.gri.nhg.com.sg/clinical-trials/" rel="noopener noreferrer nofollow" target="_blank">Singapore Research Regulations</a> |
+<a href="https://redcapsupport.gri.nhg.com.sg/research-data-policy/" rel="noopener noreferrer nofollow" target="_blank">NHG Health Policies</a>| <a href="https://redcapsupport.gri.nhg.com.sg/redcap-use/" rel="noopener noreferrer nofollow" target="_blank">NHG-REDCap Usage Agreement</a>
+</p>
 <p>&nbsp;</p>
-<p><strong>Who can be a REDCap Project Owner?</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The REDCap Project Owner shall be the <strong>NHG Overall Principal Investigator</strong> of
-the Study as notified to the DSRB or, where appropriate, be the <strong>NHG Person-in-Charge or equivalent</strong> for
-a proposed REDCap project.</p>
-</li>
-<li>
-<p>The REDCap Project Owner must be a current employee of NHG for the duration
-of the REDCap Project.</p>
-</li>
-</ul>
-<p></p>
-<p><strong>What are the Responsibilities of the REDCap Project Owner?</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>In addition to the responsibilities of a REDCap User, the Project Owner
-shall also be responsible for:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Supervising the use of the REDCap Project to ensure compliance with all
-applicable Legislations (eg: HBRA, PDPA) and NHG Policies (eg: DSRB Ethics,
-NHG Research Data Policy) relating to the collection and use of Data.</p>
-</li>
-<li>
-<p>Ensuring appropriate user-access to their REDCap Projects and Data</p>
-</li>
-<li>
-<p>Informing the REDCap System Administrators (<a rel="noopener noreferrer nofollow" target="_blank">redcap@nhg.com.sg</a>)
-when the REDCap Project has been completed or is no longer required.</p>
-<p></p>
-</li>
-</ul>
-</li>
-</ul>
-<p><strong>** REDCap Project Owners are advised to download and read the <a href="https://redcapsupport.gri.nhg.com.sg/redcap-use/" rel="noopener nofollow" target="_blank">REDCap Usage Agreement here</a> for a full description of their responsibilities and obligations.</strong>
-</p>
-<p></p>
