@@ -26,15 +26,16 @@ Intranet access required) for details.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The NHG-REDCap System uses your NHG Email Address for important project
-notifications.</p>
-</li>
-<li>
-<p>Hence it is important to ensure your Email Address is accurate and updated
-in the REDCap User Account Profile(s).</p>
+notifications. Hence it is important to ensure your Email Address is accurate
+and updated in the REDCap User Account Profile(s).</p>
 </li>
 <li>
 <p>REDCap User Accounts with “outdated” Email addresses will be permanently
 suspended from 1 November 2025.</p>
+</li>
+<li>
+<p>There will not be any changes to your existing NHG-ADID credentials for
+login to your REDCap User Account(s).</p>
 </li>
 </ul>
 <h4><strong>WHAT ALL NHG-REDCAP USERS NEED TO DO</strong></h4>
