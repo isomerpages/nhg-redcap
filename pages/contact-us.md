@@ -13,7 +13,7 @@ contacts:
           REDCap Server (Staging or Production) <br>• REDCap Project
           Title  <br>• Name of Form & Data-Field <br>• A description of the
           problem together with screen-captures where possible.
-    title: NHG REDCap Helpdesk
+    title: NHG Health REDCap Administrator
   - content:
       - phone: ""
       - email: ""
@@ -23,8 +23,9 @@ contacts:
       - phone: ""
       - email: ""
       - other: • The NHG REDCap Helpdesk can only provide support and assistance to NHG
-          Institution Staff and NHG-REDCap Users.<br>• We will NEVER require or
-          ask for your Passwords or for any personal information.
+          Health Institution Staff and NHG-REDCap Users.<br>• We will
+          <b>NEVER</b> require or ask for your Passwords or for any personal
+          information.
     title: IMPORTANT
   - content:
       - phone: ""
