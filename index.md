@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: NHG Health REDCap Helpdesk
-      subtitle: REDCap End-User Support for the NHG Research Community
+      title: NHG Health's REDCap Helpdesk
+      subtitle: REDCap End-User Support for NHG Health's Research Community
       background: /images/Hero Banners/RED_Links.jpg
       dropdown:
         title: Shortcuts...

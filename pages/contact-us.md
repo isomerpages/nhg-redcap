@@ -2,18 +2,18 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: NHG REDCap Helpdesk
+agency_name: NHG Health's REDCap Helpdesk
 contacts:
   - content:
       - phone: ""
       - email: redcap@nhg.com.sg
-      - other: <br>Please provide as much details as possible about the problem so that
-          we can efficiently troubleshoot the
-          problem.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>• NHG-ADID Username <br>•
-          REDCap Server (Staging or Production) <br>• REDCap Project
-          Title  <br>• Name of Form & Data-Field <br>• A description of the
-          problem together with screen-captures where possible.
-    title: NHG REDCap Helpdesk
+      - other: <br>Please provide as much details as possible so that we can efficiently
+          troubleshoot the problem.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>•
+          NHG-ADID Username <br>• REDCap Server (Staging or Production Server)
+          <br>• REDCap Project Title & DSRB Ref No.  <br>• Name of affected
+          Form & Data-Field <br>• A description of the problem together with
+          screen-captures of the error.
+    title: NHG Health REDCap Administrator
   - content:
       - phone: ""
       - email: ""
@@ -23,8 +23,9 @@ contacts:
       - phone: ""
       - email: ""
       - other: • The NHG REDCap Helpdesk can only provide support and assistance to NHG
-          Institution Staff and NHG-REDCap Users.<br>• We will NEVER require or
-          ask for your Passwords or for any personal information.
+          Health Institution Staff and NHG-REDCap Users.<br>• We will
+          <b>NEVER</b> require or ask for your Passwords or for any personal
+          information.
     title: IMPORTANT
   - content:
       - phone: ""
@@ -32,6 +33,6 @@ contacts:
       - other: <p>• Click <u><a target="_blank"
           href="https://redcapsupport.gri.nhg.com.sg/nhg-adid-assistance/">here
           for NHG-ITD Helpdesk Contact information</a></u>.</p>
-    title: NHG ITD Helpdesk
+    title: NHG Health's ITD Helpdesk
 feedback: ""
 ---
