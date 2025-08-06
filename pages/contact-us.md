@@ -7,12 +7,12 @@ contacts:
   - content:
       - phone: ""
       - email: redcap@nhg.com.sg
-      - other: <br>Please provide as much details as possible about the problem so that
-          we can efficiently troubleshoot the
-          problem.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>• NHG-ADID Username <br>•
-          REDCap Server (Staging or Production) <br>• REDCap Project
-          Title  <br>• Name of Form & Data-Field <br>• A description of the
-          problem together with screen-captures where possible.
+      - other: <br>Please provide as much details as possible so that we can efficiently
+          troubleshoot the problem.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>•
+          NHG-ADID Username <br>• REDCap Server (Staging or Production Server)
+          <br>• REDCap Project Title & DSRB Ref No.  <br>• Name of affected
+          Form & Data-Field <br>• A description of the problem together with
+          screen-captures of the error.
     title: NHG Health REDCap Administrator
   - content:
       - phone: ""
