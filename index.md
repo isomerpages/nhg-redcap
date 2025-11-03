@@ -4,7 +4,11 @@ title: NHG-REDCap Helpdesk Support for NHG Health Research Community
 description: A NHG Health site built with Isomer
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: NHG-REDCap will never ask you to transfer money, disclose bank
+  log-in details or your account passwords over a phone call. Call the 24/7
+  ScamShield Helpline at 1799 to check if you are unsure if something is a scam.
+  For more information on how to protect yourself against scams, please visit
+  www.scamshield.gov.sg .
 sections:
   - hero:
       title: NHG Health's REDCap Helpdesk
