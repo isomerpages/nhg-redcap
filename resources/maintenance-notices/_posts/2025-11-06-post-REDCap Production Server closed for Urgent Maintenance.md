@@ -39,18 +39,18 @@ be suspended, including<em>:</em>
 <p></p>
 <h4><strong>What Users need to do</strong></h4>
 <p>We <strong>strongly recommend</strong> that all Users, especially REDCap
-Project Owners (ie Overall NHG PIs / Site-PIs), carefully review the Guide
+Project Owners (ie Overall NHG PIs / Site-PIs), carefully review the Guides
 below to understand how the Production Server shutdown could adversely
 affect their research activities, and the mitigation measures available
 to minimize any disruptions.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>NHG-REDCap Production Server Shutdown &amp; Upgrading Exercise 2025 Guide</strong>
-<br><strong><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Announcements/REDCap%20Production%20Shutdown%20User%20Guide%202025%20v2.pdf" rel="noopener nofollow" target="_blank"><u>Download here</u></a></strong> (NHG
+<p><strong>NHG-REDCap Shutdown Preparation Guides </strong>
+<br><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Announcements/REDCap%20Shutdown%20Preparation%20Guides.zip" rel="noopener nofollow" target="_blank">Download here</a> (NHG
 Intranet /HVPN Access required)</p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Enquiries</strong></h4>
-<p>Please contact us (<a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Announcements/REDCap%20Production%20Shutdown%20User%20Guide%202025%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>redcap@nhg.com.sg</u></a>)
+<p>Please contact us (<a href="mailto:nhggroup.redcap@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.redcap@nhghealth.com.sg</a>)
 for any queries.</p>
