@@ -33,6 +33,9 @@ be suspended, including<em>:</em>
 <p>The NHG-REDCap Production Server will be shut down from <strong><u>6.30 pm, Thursday 13 Nov 2025</u></strong> until <strong><u>10 am, Friday 14 Nov 2025</u></strong><u>.</u>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Content Images/shutdown_Nov_2025.png">
+</div>
 <p></p>
 <h4><strong>What Users need to do</strong></h4>
 <p>We <strong>strongly recommend</strong> that all Users, especially REDCap
