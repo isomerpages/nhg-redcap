@@ -10,8 +10,6 @@ variant: tiptap
 <h4><strong>NHG-REDCap Project Request Form Version 5</strong></h4>
 <p>We have published a new version for the NHG-REDCap Project Request Form.
 The previous Form version is now defunct.&nbsp;</p>
-<p>Please visit the link below for more information and to download the new
-REDCap Project Request Form.</p>
 <h4><strong>Where to download</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
