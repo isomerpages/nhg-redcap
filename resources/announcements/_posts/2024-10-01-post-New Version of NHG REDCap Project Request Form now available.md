@@ -10,15 +10,14 @@ variant: tiptap
 <h4><strong>NHG-REDCap Project Request Form Version 5</strong></h4>
 <p>We have published a new version for the NHG-REDCap Project Request Form.
 The previous Form version is now defunct.&nbsp;</p>
-<p>Please visit the link below for more information and to download the new
-REDCap Project Request Form.</p>
+<h4><strong>Where to download</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Requesting for an NHG-REDCap Project:</strong>  <a href="https://redcapsupport.gri.nhg.com.sg/request-rcprojects/" rel="noopener noreferrer nofollow" target="_blank">https://redcapsupport.gri.nhg.com.sg/request-rcprojects/</a>&nbsp;</p>
+<p>Download the updated Project Request Form here: <strong><a href="https://redcapsupport.gri.nhg.com.sg/project-request-form/" rel="noopener nofollow" target="_blank"><u>NHG-REDCap Project Request Info page</u></a></strong>
+</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>Contact Information</strong></h4>
-<p>For any enquiries, please contact the NHG REDCap Administrator at <a href="mailto:redcap@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">redcap@nhg.com.sg</a> .</p>
+<h4></h4>
 <p></p>
 <p></p>
