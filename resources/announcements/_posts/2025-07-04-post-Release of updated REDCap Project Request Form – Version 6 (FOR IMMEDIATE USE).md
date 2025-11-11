@@ -43,10 +43,10 @@ the REDCap Helpdesk Site below.</p>
 <h4><strong>Where to download</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the updated Project Request Form here:</p>
-<p><strong>NHG-REDCap Project Request page:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://redcapsupport.gri.nhg.com.sg/project-request-form/</a>
+<p>Download the updated Project Request Form here: <strong><a href="https://redcapsupport.gri.nhg.com.sg/project-request-form/" rel="noopener nofollow" target="_blank">NHG-REDCap Project Request Info page</a></strong>
 </p>
-<p>&nbsp;</p>
 </li>
 </ul>
-<p></p>
+<p>
+<br>
+</p>
