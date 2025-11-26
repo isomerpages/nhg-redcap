@@ -28,7 +28,7 @@ activities around it.</p>
 <h4><strong>WHEN THIS WILL HAPPEN</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The REDCap Production Server Shutdown Period will begin <strong>from <u>6pm on Friday 19 Dec 2025</u></strong> and
+<p>The Production Server Shutdown Period will begin <strong>from <u>6pm on Friday 19 Dec 2025</u></strong> and
 will end at <strong><u>10am, Tuesday 23 Dec 2025</u></strong>, after which
 the Production Server will resume normal operations.</p>
 </li>
@@ -44,7 +44,7 @@ the Production Server will resume normal operations.</p>
 the Shutdown period.</p>
 </li>
 <li>
-<p>All REDCap Production Server activities will <strong><u>NOT BE AVAILABLE</u></strong> to
+<p>All Production Server activities will <strong><u>NOT BE AVAILABLE</u></strong> to
 Users,<em> </em>including<em>:</em>
 </p>
 <ul data-tight="true" class="tight">
@@ -58,7 +58,7 @@ Users,<em> </em>including<em>:</em>
 <p>Project Change Requests and Implementation</p>
 </li>
 <li>
-<p>New Account Requests, and New Account Activation<em> (for both Production and Staging Servers)</em>
+<p>New Account Requests, and New Account Activation Forms<em> (for both Production and Staging Servers)</em>
 </p>
 </li>
 <li>
@@ -66,7 +66,7 @@ Users,<em> </em>including<em>:</em>
 </p>
 </li>
 <li>
-<p>New Project requests</p>
+<p>New Project Requests</p>
 </li>
 </ul>
 </li>
