@@ -7,10 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h4><strong>WHAT THIS IS ABOUT</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The NHG-REDCap Production Server will be shutting down between <strong>19th to 23rd Dec 2025</strong> to
-facilitate upgrading works.</p>
+facilitate server upgrading and maintenance works.</p>
 </li>
 <li>
 <p>This announcement is to inform all NHG-REDCap Users of the pending Shutdown
@@ -27,12 +28,16 @@ activities around it.</p>
 <h4><strong>WHEN THIS WILL HAPPEN</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The REDCap Production Server Shutdown Period will begin <strong>from 6pm on Friday 19 Dec 2025</strong> and
-will end on <strong>10am, Tuesday 23 Dec 2025</strong>, after which the
-Production Server will resume normal operations.</p>
+<p>The REDCap Production Server Shutdown Period will begin <strong>from <u>6pm on Friday 19 Dec 2025</u></strong> and
+will end at <strong><u>10am, Tuesday 23 Dec 2025</u></strong>, after which
+the Production Server will resume normal operations.</p>
 </li>
 </ul>
-<h4><strong>HOW REDCAP USERS ARE AFFECTED</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Content Images/RCProdShutdownDec2025.png">
+</div>
+<h4><strong>HOW USERS WILL BE AFFECTED</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>There will be <strong><u>NO USER ACCESS</u></strong> to the <strong><u>PRODUCTION SERVER</u></strong> during
@@ -76,7 +81,7 @@ collection activities during the shutdown period.</p>
 <li>
 <p>Please download and read the <strong>Shutdown Guide</strong> for details
 on what Users <strong>WILL NEED TO KNOW, WHAT TO PREPARE FOR</strong>, and
-what the available mitigation measures are for the Shutdown.</p>
+what the available mitigation measures are for the Shutdown Period.</p>
 </li>
 <li>
 <p><strong>Download: <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/NHG%20REDCap/REDCap%20User%20Guides%20and%20References/REDCap%20Server%20Shutdown%20Guides/REDCap%20Production%20Shutdown%20User%20Guide%20DEC%202025.pdf?csf=1&amp;web=1&amp;e=500hab" rel="noopener noreferrer nofollow" target="_blank">REDCap Production Shutdown User Guide DEC 2025.pdf</a></strong> (NHG
