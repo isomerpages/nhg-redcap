@@ -10,12 +10,8 @@ variant: tiptap
 <h4><strong>What this is about</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>This is to inform you that we have released <strong><u>Version 6</u></strong> of
-the NHG-REDCap Project Request Form.</p>
-</li>
-<li>
-<p><em>With immediate effect</em>, <strong>all new</strong> REDCap Project
-Requests will be <strong>required to use the Version 6 form</strong>.</p>
+<p>The NHG-REDCap Project Request Form has been updated to <strong>Version 6.1</strong>  <strong>(dated 5 Jan 2025).</strong>
+</p>
 </li>
 <li>
 <p>Submissions made with <strong>previous versions</strong> of the Request
@@ -23,30 +19,34 @@ Form <strong><u>will be rejected</u>.</strong>
 </p>
 </li>
 </ul>
-<h4><strong>&nbsp;What has changed</strong></h4>
+<h4><strong>&nbsp;What has been updated in v6.1</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Version 6</strong> adds a new Section on <strong>Data Classification Declaration</strong> for
-the REDCap Project. REDCap Project Owners are now required to assess and
-declare the Data Security Classification of their REDCap Project.</p>
-</li>
-<li>
-<p>The new Version also comes with a <strong>separate PDF Guide</strong> to
-assist Users in completing the Request Form.</p>
-</li>
-<li>
-<p>Both the <strong>Project Request Form (Docx)</strong> and <strong>Guide (PDF)</strong> are
-contained in a <strong>single ZIP file</strong> and can be downloaded at
-the REDCap Helpdesk Site below.</p>
+<p>Document links to reference research policies and Institution DPO Email
+addresses have been updated.</p>
 </li>
 </ul>
+<p></p>
 <h4><strong>Where to download</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the updated Project Request Form here: <strong><a href="https://redcapsupport.gri.nhg.com.sg/project-request-form/" rel="noopener nofollow" target="_blank">NHG-REDCap Project Request Info page</a></strong>
+<p>Download here: <strong><a href="https://redcapsupport.gri.nhg.com.sg/project-request-form/" rel="noopener nofollow" target="_blank">NHG-REDCap Project Request Info page</a></strong>
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
+<h4><strong>Note</strong></h4>
+<p>The NHG-REDCap Project Request Form is contained in a single ZIP file
+which contains:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Project Request Form (.docx)</p>
+</li>
+<li>
+<p>Project Request Infosheet (.pdf)</p>
+</li>
+</ul>
+<p></p>
+<p>Users are strongly encouraged to <strong><em>read the Infosheet document first</em></strong>.</p>
+<p>We recommend that Users <strong><em>always download a fresh copy</em></strong> of
+the Form to ensure they are always using the latest version.</p>
