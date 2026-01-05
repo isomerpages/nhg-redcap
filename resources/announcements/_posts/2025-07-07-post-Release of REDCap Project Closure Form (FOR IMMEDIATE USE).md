@@ -7,51 +7,44 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The <strong>NHG-REDCap Project Closure Form</strong> is for closing REDCap
-Projects hosted on the <strong>NHG REDCap (Production) Server</strong>.</p>
-<p>Projects can be <strong>CLOSED</strong> in the following situations:</p>
-<p></p>
-<p><strong>(1)&nbsp;&nbsp; <u>PROJECT COMPLETED</u></strong>
-</p>
+<h4><strong>What this is about</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The Project is <strong>PERMANENTLY CLOSED</strong> to the enrollment of
-new participants and the addition of new data.</p>
+<p>The <strong>NHG-REDCap Project Closure Form</strong> has been updated to <strong>Version 3.2 (dated 5 Jan 2026) </strong>for
+immediate use.</p>
 </li>
 <li>
-<p>All the Project’s Activities, including Data Analysis, are <strong>FULLY COMPLETED</strong>.
-No further activity will be carried out.</p>
-</li>
-<li>
-<p>The DSRB / IRB (or equivalent) has formally acknowledged the Project’s
-Completion.</p>
+<p>New Submissions made with <strong>previous versions</strong> of the Closure
+Form <strong><u>will be rejected</u>.</strong>
+</p>
 </li>
 </ul>
-<p></p>
-<p><strong>(2)&nbsp;&nbsp; <u>PROJECT TERMINATED</u></strong>
-</p>
+<h4><strong>What has been updated</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The Project has been <strong>TERMINATED / DISCONTINUED / WITHDRAWN</strong> before
-reaching its planned conclusion.</p>
-</li>
-<li>
-<p>All activities have been stopped. No further activities will be carried
-out.</p>
-</li>
-<li>
-<p>The DSRB / IRB (or equivalent) has formally acknowledged the Project’s
-Termination.</p>
+<p>Document links to reference research policies have been updated.</p>
 </li>
 </ul>
 <h4><strong>Where to Download</strong></h4>
-<p>Please download the Form at the page below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>NHG-REDCap Project Closure page: </strong><a href="https://redcapsupport.gri.nhg.com.sg/project-closure-form/" rel="noopener noreferrer nofollow" target="_blank">https://redcapsupport.gri.nhg.com.sg/project-closure-form/</a>
+<p>Download here: <strong><a href="https://redcapsupport.gri.nhg.com.sg/project-closure-form/" rel="noopener nofollow" target="_blank">NHG-REDCap Project Closure page</a></strong>
 </p>
 </li>
 </ul>
-<p></p>
-<h4></h4>
+<h4><strong>Note</strong></h4>
+<p>The file download is contained in a <strong>single ZIP file</strong> which
+contains:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The <strong>REDCap Project Closure Form (.docx)</strong> 
+</p>
+</li>
+<li>
+<p>The <strong>Project Closure FAQ document (.pdf)</strong>.</p>
+</li>
+</ul>
+<p>Users are strongly encouraged <strong><em>to read the FAQ document first</em></strong>.</p>
+<p>We recommend that Users <strong><em>always download a fresh copy</em></strong> of
+the Form to ensure they are always using the latest version.</p>
 <p></p>
