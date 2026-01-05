@@ -41,7 +41,7 @@ out.</p>
 Termination.</p>
 </li>
 </ul>
-<p></p>
+<p>Please see the Project Closure Info &amp; FAQ document for more details.</p>
 <h4><strong>Form Download</strong></h4>
 <p>Please download the Form at the link below:</p>
 <ul data-tight="true" class="tight">
