@@ -20,7 +20,7 @@ the NHG-REDCap System.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHG-REDCap/Shared%20Documents/REDCap%20Policies/1302-001%20NHG%20REDCap%20System%20Usage%20Agreement%20v2.1%20(5%20Jan%202026).pdf?csf=1&amp;web=1&amp;e=U0xHEW" rel="noopener noreferrer nofollow" target="_blank">NHG REDCap System Usage Agreement (v2.1) here</a>.
+<p>Download the <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHG-REDCap/Shared%20Documents/REDCap%20Policies/1302-001%20NHG%20REDCap%20System%20Usage%20Agreement%20v2.1%20(5%20Jan%202026).pdf?csf=1&amp;web=1&amp;e=1c1NO4" rel="noopener noreferrer nofollow" target="_blank">NHG REDCap System Usage Agreement (v2.1) here</a>.
 (Restricted: NHG Intranet access required)</p>
 </li>
 </ul>
