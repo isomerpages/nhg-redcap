@@ -10,7 +10,7 @@ variant: tiptap
 <h4><strong>What this is about</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The NHG-REDCap Project Request Form has been updated to <strong>Version 6.1</strong>  <strong>(dated 5 Jan 2026).</strong>
+<p>The NHG-REDCap New Project Request Form has been updated to <strong>Version 6.1</strong>  <strong>(dated 5 Jan 2026).</strong>
 </p>
 </li>
 <li>
@@ -30,20 +30,20 @@ addresses have been updated.</p>
 <h4><strong>Where to download</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download here: <strong><a href="https://redcapsupport.gri.nhg.com.sg/project-request-form/" rel="noopener nofollow" target="_blank">NHG-REDCap Project Request Info page</a></strong>
+<p>Download here: <strong><a href="https://redcapsupport.gri.nhg.com.sg/project-request-form/" rel="noopener nofollow" target="_blank">NHG-REDCap New Project Request Info page</a></strong>
 </p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Note</strong></h4>
-<p>The NHG-REDCap Project Request Form is contained in a single ZIP file
+<p>The NHG-REDCap New Project Request Form is contained in a single ZIP file
 which contains:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Project Request Form (.docx)</p>
+<p>New Project Request Form (.docx)</p>
 </li>
 <li>
-<p>Project Request Infosheet (.pdf)</p>
+<p>New Project Request Infosheet (.pdf)</p>
 </li>
 </ul>
 <p></p>
