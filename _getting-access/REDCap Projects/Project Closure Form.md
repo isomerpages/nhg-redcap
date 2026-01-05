@@ -56,11 +56,10 @@ Termination.</p>
 contains:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>The <strong>Project Closure Form (.docx)</strong> 
-</p>
+<p>The Project Closure Form (.docx)</p>
 </li>
 <li>
-<p>The <strong>Project Closure FAQ document (.pdf)</strong>.</p>
+<p>The Project Closure Info &amp; FAQ document (.pdf).</p>
 <p></p>
 </li>
 </ol>
