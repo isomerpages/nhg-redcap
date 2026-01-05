@@ -37,11 +37,10 @@ Form <strong><u>will be rejected</u>.</strong>
 contains:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The <strong>REDCap Project Closure Form (.docx)</strong> 
-</p>
+<p>Project Closure Form (.docx)</p>
 </li>
 <li>
-<p>The <strong>Project Closure FAQ document (.pdf)</strong>.</p>
+<p>Project Closure FAQ document (.pdf).</p>
 </li>
 </ul>
 <p>Users are strongly encouraged <strong><em>to read the FAQ document first</em></strong>.</p>
