@@ -19,7 +19,7 @@ Form <strong><u>will be rejected</u>.</strong>
 </p>
 </li>
 </ul>
-<h4><strong>&nbsp;What has been updated</strong></h4>
+<h4><strong>What has been updated</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Document links to reference research policies and Institution DPO Email
