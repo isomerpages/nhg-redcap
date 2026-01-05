@@ -7,8 +7,8 @@ third_nav_title: REDCap Projects
 ---
 <h4><strong>REDCap Project Closure Form</strong></h4>
 <p>The <strong>NHG-REDCap Project Closure Form</strong> is for closing REDCap
-Projects hosted on the <strong>NHG REDCap (Production) Server</strong>.
-Projects can be <strong>CLOSED</strong> in the following situations:</p>
+Projects hosted on the <strong>NHG REDCap (Production) Server</strong>.</p>
+<p>Projects can be <strong>CLOSED</strong> in the following situations:</p>
 <p><strong>(1)&nbsp;&nbsp; <u>PROJECT COMPLETED</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -43,10 +43,10 @@ Termination.</p>
 </ul>
 <p>Please see the Project Closure Info &amp; FAQ document for more details.</p>
 <h4><strong>Form Download</strong></h4>
-<p>Please download the Form at the link below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://healthsg.sharepoint.com/:u:/r/sites/NHG-REDCap/Shared%20Documents/REDCap%20Project%20Forms/1305-091%20REDCap%20Project%20Closure%20Request%20v3.2.zip?csf=1&amp;web=1&amp;e=nXhWCP" rel="noopener nofollow" target="_blank">NHG-REDCap Project Closure Form (v3.2) (Zip File)</a></strong>  <strong>(Restricted: NHG Intranet access required)</strong>
+<p>Download here: <strong><a href="https://healthsg.sharepoint.com/:u:/r/sites/NHG-REDCap/Shared%20Documents/REDCap%20Project%20Forms/1305-091%20REDCap%20Project%20Closure%20Request%20v3.2.zip?csf=1&amp;web=1&amp;e=nXhWCP" rel="noopener nofollow" target="_blank">NHG-REDCap Project Closure Form (v3.2) (Zip File)</a></strong> 
+<br><strong>(Restricted: NHG Intranet access required)</strong>
 </p>
 </li>
 </ul>
