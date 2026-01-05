@@ -10,7 +10,7 @@ variant: tiptap
 <h4><strong>What this is about</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The NHG-REDCap Project Request Form has been updated to <strong>Version 6.1</strong>  <strong>(dated 5 Jan 2025).</strong>
+<p>The NHG-REDCap Project Request Form has been updated to <strong>Version 6.1</strong>  <strong>(dated 5 Jan 2026).</strong>
 </p>
 </li>
 <li>
@@ -19,7 +19,7 @@ Form <strong><u>will be rejected</u>.</strong>
 </p>
 </li>
 </ul>
-<h4><strong>&nbsp;What has been updated in v6.1</strong></h4>
+<h4><strong>&nbsp;What has been updated</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Document links to reference research policies and Institution DPO Email
