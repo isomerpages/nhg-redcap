@@ -6,7 +6,7 @@ agency_name: NHG Health's REDCap Helpdesk
 contacts:
   - content:
       - phone: ""
-      - email: redcap@nhg.com.sg
+      - email: nhggroup.redcap@nhghealth.com.sg
       - other: <br>Please provide as much details as possible so that we can efficiently
           troubleshoot the problem.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>•
           NHG-ADID Username <br>• REDCap Server (Staging or Production Server)
