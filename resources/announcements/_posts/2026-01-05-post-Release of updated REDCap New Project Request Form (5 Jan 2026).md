@@ -1,5 +1,5 @@
 ---
-title: Release of updated REDCap New Project Request Form
+title: Release of updated REDCap New Project Request Form (5 Jan 2026)
 permalink: /updated-proj-request-form/
 date: 2026-01-05
 layout: post

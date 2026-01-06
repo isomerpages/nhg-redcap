@@ -1,5 +1,5 @@
 ---
-title: Release of updated REDCap Project Closure Form
+title: Release of updated REDCap Project Closure Form (5 Jan 2026)
 permalink: /updated-project-closure-form/
 date: 2026-01-05
 layout: post
