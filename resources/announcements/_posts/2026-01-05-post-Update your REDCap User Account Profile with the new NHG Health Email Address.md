@@ -48,7 +48,7 @@ to update your REDCap Account Profile(s).</p>
 <h4><strong>Step-by-Step Guide</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download here: <strong><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHG-REDCap/Shared%20Documents/REDCap%20User%20Guides/1304-001B%20Updating%20REDCap%20User%20Account%20Profile%20v2.pdf?csf=1&amp;web=1&amp;e=2TFg3a" rel="noopener noreferrer nofollow" target="_blank">User Guide to updating your REDCap Account Profile</a></strong> (NHG
+<p>Download here: <strong><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHG-REDCap/Shared%20Documents/REDCap%20User%20Guides/1304-001B%20Updating%20REDCap%20User%20Account%20Profile%20v2.pdf?csf=1&amp;web=1&amp;e=2TFg3a" rel="noopener noreferrer nofollow" target="_blank">User Guide to updating your REDCap Account Profile (v2)</a></strong> (NHG
 Intranet access required)</p>
 <p></p>
 </li>
