@@ -17,6 +17,7 @@ name.</p>
 <li>
 <p>See <strong><a href="https://healthsg.sharepoint.com/sites/NHGHealth-GIT/MDOT/OneNHG%20Email%20FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Group CIO Office’s FAQ document</a></strong> (NHG
 Intranet access required) for details.</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>How this impacts you</strong></h4>
@@ -28,6 +29,7 @@ Notifications, especially for Projects on the REDCap Production Server.</p>
 <li>
 <p>Hence it is important to ensure your Email Address is accurate and updated
 in the REDCap User Account Profile(s).</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>What you need to do</strong></h4>
@@ -40,14 +42,15 @@ the registered email address in the REDCap User Account Profile.</p>
 <li>
 <p>We recommend you download the Step-by-Step Guide and follow the instructions
 to update your REDCap Account Profile(s).</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Step-by-Step Guide</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download here: <strong><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/NHG%20REDCap/REDCap%20User%20Guides%20and%20References/1304-001B%20Updating%20REDCap%20User%20Account%20Profile%20July%202025.pdf?csf=1&amp;web=1&amp;e=zoqu3L" rel="noopener noreferrer nofollow" target="_blank">User Guide to updating your REDCap Account Profile</a></strong> (NHG
+<p>Download here: <strong><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHG-REDCap/Shared%20Documents/REDCap%20User%20Guides/1304-001B%20Updating%20REDCap%20User%20Account%20Profile%20v2.pdf?csf=1&amp;web=1&amp;e=2TFg3a" rel="noopener noreferrer nofollow" target="_blank">User Guide to updating your REDCap Account Profile</a></strong> (NHG
 Intranet access required)</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Enquiries</strong></h4>
@@ -57,6 +60,7 @@ Intranet access required)</p>
 any queries.</p>
 </li>
 </ul>
+<p></p>
 <p></p>
 <p><em><sub>Updated 6 Jan 2026</sub></em>
 </p>
