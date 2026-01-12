@@ -20,7 +20,7 @@ and request process.</p>
 <h4><strong>Form Download</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download here: <strong><a href="https://healthsg.sharepoint.com/:u:/s/NHG-REDCap/IQArsoAaAa-dQ7RFNNx_q6XyAXdlrG6M688pQT8BXjLq02s" rel="noopener nofollow" target="_blank">NHG-REDCap New Project Request Form (v6.1)(ZIP file) (Updated 5 Jan 2026)</a></strong>
+<p>Download here: <strong><a href="https://healthsg.sharepoint.com/:u:/s/NHG-REDCap/IQArsoAaAa-dQ7RFNNx_q6XyAXdlrG6M688pQT8BXjLq02s?e=X86v6h" rel="noopener nofollow" target="_blank">NHG-REDCap New Project Request Form (v6.1)(ZIP file) (Updated 5 Jan 2026)</a></strong>
 <br><strong>(Restricted: NHG Intranet access required)</strong>
 </p>
 </li>
