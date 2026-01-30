@@ -21,10 +21,6 @@ Manual (HIM), Synapxe policies and all other relevant data regulations.</p>
 <p>Learn more about the <a href="https://ethics.gri.nhg.com.sg/data-governance/" rel="noopener nofollow" target="_blank">NHG Research Data Policy here</a>.</p>
 </li>
 <li>
-<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/NHG%20Research%20Data%20Policy.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Research Data Policy here</a> (Restricted:
-NHG Intranet access required)</p>
-</li>
-<li>
 <p>See more <a href="https://ethics.gri.nhg.com.sg/nhg-research-policies/" rel="noopener nofollow" target="_blank">NHG Research Policies and Guidelines here</a>.</p>
 </li>
 </ul>
