@@ -1,7 +1,7 @@
 ---
-title: REDCap Production Server Upgrading Exercise (19th to 23rd Dec 2025)
-permalink: /20251126-rc-production-shutdown/
-date: 2025-11-26
+title: REDCap Production Server Upgrading Exercise (17th to 21st Apr 2026)
+permalink: /20260312-rc-production-shutdown/
+date: 2026-03-12
 layout: post
 description: ""
 image: ""
@@ -10,7 +10,7 @@ variant: tiptap
 <h4><strong>WHAT THIS IS ABOUT</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The NHG-REDCap Production Server will be shutting down between <strong>19th to 23rd Dec 2025</strong> to
+<p>The NHG-REDCap Production Server will be shutting down between <strong>17th to 21st Apr 2026</strong> to
 facilitate server upgrading and maintenance works.</p>
 </li>
 <li>
@@ -28,14 +28,13 @@ activities around it.</p>
 <h4><strong>WHEN THIS WILL HAPPEN</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The Production Server Shutdown Period will begin <strong>from <u>6pm on Friday 19 Dec 2025</u></strong> and
-will end at <strong><u>10am, Tuesday 23 Dec 2025</u></strong>, after which
+<p>The Production Server Shutdown Period will begin <strong>from <u>6pm on Friday 17th Apr 2026</u></strong> and
+will end at <strong><u>10am, Tuesday 21st Apr 2026</u></strong>, after which
 the Production Server will resume normal operations.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Content Images/RCProdShutdownDec2025.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Content Images/RC_Shutdown_Apr_2026.png">
 </div>
 <h4><strong>HOW USERS WILL BE AFFECTED</strong></h4>
 <ul data-tight="true" class="tight">
@@ -84,7 +83,7 @@ on what Users <strong>WILL NEED TO KNOW, WHAT TO PREPARE FOR</strong>, and
 what the available mitigation measures are for the Shutdown Period.</p>
 </li>
 <li>
-<p><strong>Download: <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/NHG%20REDCap/REDCap%20User%20Guides%20and%20References/REDCap%20Server%20Shutdown%20Guides/REDCap%20Production%20Shutdown%20User%20Guide%20DEC%202025.pdf?csf=1&amp;web=1&amp;e=500hab" rel="noopener noreferrer nofollow" target="_blank">REDCap Production Shutdown User Guide DEC 2025.pdf</a></strong> (NHG
+<p><strong>Download: <a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=ZdyeVT" rel="noopener noreferrer nofollow" target="_blank">REDCap Production Server Shutdown - User Survival Guide (v4)</a></strong> (NHG
 Intranet/HVPN access required)</p>
 </li>
 </ul>
