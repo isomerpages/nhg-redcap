@@ -10,7 +10,7 @@ of the National Healthcare Group (NHG) and her Institutions.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>All you need to know about using REDCap in NHG</strong>
-<br>A quick introduction to REDCap and how it can be used.
+<br>A quick introduction to REDCap, what it is and how it can be used.
 <br><a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQCRt8D1bZ9aT5joiTaq9_6cAUY8HrmyFNybCaQAnOzZsys?e=1xMqOm" rel="noopener nofollow" target="_blank">Download here</a>  <em>(NHG Intranet access required)</em>
 </p>
 </li>
@@ -18,11 +18,11 @@ of the National Healthcare Group (NHG) and her Institutions.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Account Creation Guide</strong>
+<p><strong>REDCap Account Creation Guide</strong>
 <br>This guide shows how to apply for, creating and activating your NHG REDCap
 User Accounts.
-<br><a href="/files/User Guides/1304_001_NHG_REDCap_User_Account_Creation_Guide_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
-</p>
+<br><a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQA_VMQWfEkSS558EmfNL778ATWiySplSpGwUIcMXXnZrWE?e=oR3zfm" rel="noopener nofollow" target="_blank">Download here</a> (NHG
+Intranet access required)</p>
 </li>
 </ul>
 <p></p>
@@ -41,12 +41,14 @@ their respective User-Rights within a REDCap Project.
 <p><strong>Using Longitudinal-mode Projects</strong>
 <br>Users can "switch" a Project from the default Classic-mode to Longitudinal-mode.
 In Longitudinal-mode, this enables users to enter data to Forms/Instruments
-which designated to pre-defined Events or Visits. This enables different
-Forms to be used for different Events, or the same Form can be used for
-multiple Events. Longitudinal-mode also allows Events to be divided into
-different Arms (or groups/populations). Thus in this way, Arms can be used
-to distinguish between different groups/populations of Participants, and
-to cater to different data collection needs of the different Arms.
+which designated to pre-defined Events or Visits.
+<br>
+<br>This enables different Forms to be used for different Events, or the same
+Form can be used for multiple Events. Longitudinal-mode also allows Events
+to be divided into different Arms (or groups/populations). Thus in this
+way, Arms can be used to distinguish between different groups/populations
+of Participants, and to cater to different data collection needs of the
+different Arms.
 <br><a href="/files/User Guides/REDCap_Project___Longitudinal_with_multi_arms_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
 </li>
 </ul>
@@ -58,11 +60,26 @@ to cater to different data collection needs of the different Arms.
 designs (including Forms and Data variables). It also informs Users on
 what the process is to transfer REDCap Projects from the Staging Server
 to the Production Server.
-<br><a href="/files/User Guides/1304_011B_Transfering_a_REDCap_Project_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.
-<br>
+<br><a href="/files/User Guides/1304_011B_Transfering_a_REDCap_Project_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>REDCap Production Server Shutdown - User Survival Guide</strong>
+<br>This Guide is intended to assist REDCap Users in preparing for an REDCap
+Production Server’s Shutdown &amp; Upgrading Exercise. It is critical for
+all Users, especially REDCap Project Owners, to carefully review this document
+to understand how the shutdown of REDCap Production Server will adversely
+affect their research activities, what mitigation measures ae available
+to minimize any disruptions, and what additional steps can be taken to
+safeguard their REDCap Project Data and Forms.
+<br><a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=hCUXnS" rel="noopener nofollow" target="_blank">Download here</a>. <em>(NHG Intranet access required)</em>
 </p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <p><em>More guides coming soon!</em>
 </p>
 <p></p>
