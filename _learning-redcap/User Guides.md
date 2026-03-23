@@ -10,8 +10,8 @@ of the National Healthcare Group (NHG) and her Institutions.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>All you need to know about using REDCap in NHG</strong>
-<br>An introduction to REDCap and how it can be used.
-<br><a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQCRt8D1bZ9aT5joiTaq9_6cAUY8HrmyFNybCaQAnOzZsys?e=1xMqOm" rel="noopener nofollow" target="_blank">Download here</a>
+<br>A quick introduction to REDCap and how it can be used.
+<br><a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQCRt8D1bZ9aT5joiTaq9_6cAUY8HrmyFNybCaQAnOzZsys?e=1xMqOm" rel="noopener nofollow" target="_blank">Download here</a>  <em>(NHG Intranet access required)</em>
 </p>
 </li>
 </ul>
