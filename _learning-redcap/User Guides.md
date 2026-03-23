@@ -74,7 +74,7 @@ to understand how the shutdown of REDCap Production Server will adversely
 affect their research activities, what mitigation measures ae available
 to minimize any disruptions, and what additional steps can be taken to
 safeguard their REDCap Project Data and Forms.
-<br><a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=U6XOSp" rel="noopener nofollow" target="_blank">Download here</a>. <em>(NHG Intranet access required)</em>
+<br><a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=hCUXnS" rel="noopener nofollow" target="_blank">Download here</a>. <em>(NHG Intranet access required)</em>
 </p>
 </li>
 </ul>
