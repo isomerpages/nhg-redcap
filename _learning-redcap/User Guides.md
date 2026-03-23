@@ -45,9 +45,8 @@ which designated to pre-defined Events or Visits.
 <br>
 <br>This enables different Forms to be used for different Events, or the same
 Form can be used for multiple Events. Longitudinal-mode also allows Events
-to be divided into different Arms (or groups/populations).
-<br>
-<br>Thus in this way, Arms can be used to distinguish between different groups/populations
+to be divided into different Arms (or groups/populations). Thus in this
+way, Arms can be used to distinguish between different groups/populations
 of Participants, and to cater to different data collection needs of the
 different Arms.
 <br><a href="/files/User Guides/REDCap_Project___Longitudinal_with_multi_arms_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
@@ -61,11 +60,26 @@ different Arms.
 designs (including Forms and Data variables). It also informs Users on
 what the process is to transfer REDCap Projects from the Staging Server
 to the Production Server.
-<br><a href="/files/User Guides/1304_011B_Transfering_a_REDCap_Project_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.
-<br>
+<br><a href="/files/User Guides/1304_011B_Transfering_a_REDCap_Project_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Download here</a>.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>REDCap Production Server Shutdown - User Survival Guide</strong>
+<br>This Guide is intended to assist REDCap Users in preparing for an REDCap
+Production Server’s Shutdown &amp; Upgrading Exercise. It is critical for
+all Users, especially REDCap Project Owners, to carefully review this document
+to understand how the shutdown of REDCap Production Server will adversely
+affect their research activities, what mitigation measures ae available
+to minimize any disruptions, and what additional steps can be taken to
+safeguard their REDCap Project Data and Forms.
+<br><a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=U6XOSp" rel="noopener nofollow" target="_blank">Download here</a>. <em>(NHG Intranet access required)</em>
 </p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <p><em>More guides coming soon!</em>
 </p>
 <p></p>
