@@ -8,12 +8,14 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<p><strong>The NHG-REDCap Staging Server will be shutdown for the following period to faciliate urgent maintenance works.</strong>
+<p><strong>The NHG-REDCap Staging Server will be shut down for the following period to facilitate urgent maintenance works.</strong>
+<br>
 </p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>HOW USERS WILL BE AFFECTED</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Content Images/Staging_Maintenance_5_May_2026.png">
+</div>
+<p>
+<br><strong>HOW USERS WILL BE AFFECTED</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
