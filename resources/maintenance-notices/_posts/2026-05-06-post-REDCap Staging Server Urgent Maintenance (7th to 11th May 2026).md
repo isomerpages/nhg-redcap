@@ -12,7 +12,7 @@ variant: tiptap
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Content Images/Staging_Maintenance_5_May_2026.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Content Images/Staging_Maintenance_5_May_2026.png">
 </div>
 <h4><br>HOW USERS WILL BE AFFECTED</h4>
 <ul data-tight="true" class="tight">
