@@ -14,18 +14,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Content Images/Staging_Maintenance_5_May_2026.png">
 </div>
-<p>
-<br><strong>HOW USERS WILL BE AFFECTED</strong>
-</p>
+<h4><br>HOW USERS WILL BE AFFECTED</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>There will be&nbsp;<strong><u>NO USER ACCESS</u></strong>&nbsp;to the&nbsp;<strong><u>STAGING SERVER</u></strong>&nbsp;during
 the Shutdown period.</p>
 </li>
 </ul>
-<p>
-<br><strong>WHAT USERS NEED TO DO</strong>
-</p>
+<h4>WHAT USERS NEED TO DO</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Users who are <strong><em>testing or building a project which could be deployed onto the Production server</em></strong>,
@@ -51,4 +47,11 @@ to do before the Shutdown.</p>
 </li>
 </ul>
 <p></p>
-<p>&nbsp;</p>
+<h4>Queries</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Contact the <strong><a href="https://redcapsupport.gri.nhg.com.sg/contact-us/" rel="noopener nofollow" target="_blank">NHG REDCap Administrator</a></strong> for
+any queries.</p>
+</li>
+</ul>
+<p></p>
