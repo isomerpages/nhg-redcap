@@ -15,7 +15,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Content Images/RC_Staging_SD_15_26May2026.png">
 </div>
-<p><strong>All Users must log out from the Staging Server by 7pm on 7 May.</strong>
+<p><strong>All Users must log out from the Staging Server by 9am on 15 May 2026.</strong>
 </p>
 <h4><br>HOW USERS WILL BE AFFECTED</h4>
 <ul data-tight="true" class="tight">
@@ -43,7 +43,7 @@ there are no plans to backup any existing project data.</p>
 <p></p>
 </li>
 <li>
-<p><strong>All Users must log out from the Staging Server by 7pm on 7 May.</strong>
+<p><strong>All Users must log out from the Staging Server by 9am on 15 May 2026.</strong>
 </p>
 </li>
 </ul>
