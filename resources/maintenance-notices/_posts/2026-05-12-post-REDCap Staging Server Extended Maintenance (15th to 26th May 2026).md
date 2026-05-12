@@ -17,7 +17,7 @@ variant: tiptap
 </div>
 <p><strong>All Users must log out from the Staging Server <u>by 9am on 15 May 2026</u>.</strong>
 </p>
-<h4><br>HOW USERS WILL BE AFFECTED</h4>
+<h4><strong>HOW USERS WILL BE AFFECTED</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>There will be&nbsp;<strong><u>NO USER ACCESS</u></strong>&nbsp;to the&nbsp;<strong><u>STAGING SERVER</u></strong>&nbsp;during
@@ -29,7 +29,7 @@ all REDCap <strong>project designs</strong> could be lost from the Staging
 Server.</p>
 </li>
 </ul>
-<h4>WHAT USERS NEED TO DO</h4>
+<h4><strong>WHAT USERS NEED TO DO</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Users who are testing or building a project on the Staging Server, which could be deployed onto the Production server, are STRONGLY ADVISED to back up their project build. </strong>
@@ -37,14 +37,16 @@ Server.</p>
 </p>
 </li>
 <li>
-<p><em>Download <a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=ZdyeVT" rel="noopener noreferrer nofollow" target="_blank">the </a></em>
-<a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=ZdyeVT" rel="noopener noreferrer nofollow" target="_blank">REDCap Production Server Shutdown - User Survival Guide (v4)</a><em> for details on how to back up your Project design.&nbsp;(NHG Intranet/HVPN access required)</em>
+<p>Download the <a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=ZdyeVT" rel="noopener noreferrer nofollow" target="_blank">REDCap Server Shutdown - User Survival Guide (v4)</a> for
+details on how to back up your Project design.&nbsp;(NHG Intranet/HVPN
+access required)
 <br>
 </p>
 </li>
 <li>
 <p>As the Staging Server is <strong>intended only for learning and testing purposes</strong>,
-there are no plans to backup any existing project data.</p>
+there are <strong>no plans</strong> to backup any existing project data since
+it would be test/dummy data.</p>
 <p></p>
 </li>
 <li>
@@ -53,7 +55,7 @@ there are no plans to backup any existing project data.</p>
 </li>
 </ul>
 <p></p>
-<h4>Queries</h4>
+<h4><strong>Queries</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;Contact the <strong><a href="https://redcapsupport.gri.nhg.com.sg/contact-us/" rel="noopener nofollow" target="_blank">NHG REDCap Administrator</a></strong> for
