@@ -11,9 +11,12 @@ variant: tiptap
 <p><strong>The NHG-REDCap Staging Server will be shut down for the following period to facilitate urgent maintenance works.</strong>
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Content Images/Staging_Maintenance_5_May_2026.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Content Images/RC_Staging_SD_15_26May2026.png">
 </div>
+<p><strong>All Users must log out from the Staging Server by 7pm on 7 May.</strong>
+</p>
 <h4><br>HOW USERS WILL BE AFFECTED</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -24,8 +27,7 @@ the Shutdown period.</p>
 <h4>WHAT USERS NEED TO DO</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Users who are <strong><em>testing or building a project which could be deployed onto the Production server</em></strong>,
-are advised to <strong>backup their project build. </strong>
+<p><strong>Users who are testing or building a project on the Staging Server, which could be deployed onto the Production server, are STRONGLY ADVISED to back up their project build. </strong>
 <br>
 </p>
 </li>
@@ -37,8 +39,7 @@ are advised to <strong>backup their project build. </strong>
 </li>
 <li>
 <p>As the Staging Server is <strong>intended only for learning and testing purposes</strong>,
-there are no urgent or important preparations that most Users would need
-to do before the Shutdown.</p>
+there are no plans to backup any existing project data.</p>
 <p></p>
 </li>
 <li>
