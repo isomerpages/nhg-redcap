@@ -15,13 +15,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Content Images/RC_Staging_SD_15_26May2026.png">
 </div>
-<p><strong>All Users must log out from the Staging Server by 9am on 15 May 2026.</strong>
+<p><strong>All Users must log out from the Staging Server <u>by 9am on 15 May 2026</u>.</strong>
 </p>
 <h4><br>HOW USERS WILL BE AFFECTED</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>There will be&nbsp;<strong><u>NO USER ACCESS</u></strong>&nbsp;to the&nbsp;<strong><u>STAGING SERVER</u></strong>&nbsp;during
 the Shutdown period.</p>
+</li>
+<li>
+<p>Due to the complex nature of the upgrade this time, there is a <strong>high risk </strong>that
+all REDCap <strong>project designs</strong> could be lost from the Staging
+Server.</p>
 </li>
 </ul>
 <h4>WHAT USERS NEED TO DO</h4>
@@ -43,7 +48,7 @@ there are no plans to backup any existing project data.</p>
 <p></p>
 </li>
 <li>
-<p><strong>All Users must log out from the Staging Server by 9am on 15 May 2026.</strong>
+<p><strong>All Users must log out from the Staging Server <u>by 9am on 15 May 2026</u>.</strong>
 </p>
 </li>
 </ul>
