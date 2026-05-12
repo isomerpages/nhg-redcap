@@ -24,20 +24,19 @@ variant: tiptap
 the Shutdown period.</p>
 </li>
 <li>
-<p>Due to the complex nature of the upgrade this time, there is a <strong>high risk </strong>that
-all REDCap <strong>project designs</strong> could be lost from the Staging
-Server.</p>
+<p>Due to the complex nature of the upgrade this time, there is a <strong>high risk that all REDCap project designs could be lost from the Staging Server.</strong>
+</p>
 </li>
 </ul>
 <h4><strong>WHAT USERS NEED TO DO</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Users who are testing or building a project on the Staging Server, which could be deployed onto the Production server, are STRONGLY ADVISED to back up their project build. </strong>
+<p><strong>Users who are testing or building a project on the Staging Server, which could be deployed onto the Production server, are <u>STRONGLY ADVISED</u> to back up their project build. </strong>
 <br>
 </p>
 </li>
 <li>
-<p>Download the <a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=ZdyeVT" rel="noopener noreferrer nofollow" target="_blank">REDCap Server Shutdown - User Survival Guide (v4)</a> for
+<p>Download the<strong> <a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=ZdyeVT" rel="noopener noreferrer nofollow" target="_blank">REDCap Server Shutdown - User Survival Guide (v4)</a></strong> for
 details on how to back up your Project design.&nbsp;(NHG Intranet/HVPN
 access required)
 <br>
