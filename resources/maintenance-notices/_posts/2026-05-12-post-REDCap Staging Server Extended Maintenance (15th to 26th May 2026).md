@@ -45,7 +45,7 @@ access required)
 <li>
 <p>As the Staging Server is <strong>intended only for learning and testing purposes</strong>,
 there are <strong>no plans</strong> to backup any existing project data since
-it would be test/dummy data.</p>
+it would be only test/dummy data.</p>
 <p></p>
 </li>
 <li>
