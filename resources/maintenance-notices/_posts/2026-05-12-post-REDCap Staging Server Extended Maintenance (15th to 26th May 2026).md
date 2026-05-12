@@ -8,9 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<p><strong>The NHG-REDCap Staging Server will be shut down for the following period to facilitate urgent maintenance works.</strong>
-<br>
-</p>
+<h4><strong>The NHG-REDCap Staging Server will be shut down for the following period to facilitate urgent maintenance works.</strong><br></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Content Images/RC_Staging_SD_15_26May2026.png">
@@ -31,22 +29,19 @@ the Shutdown period.</p>
 <h4><strong>WHAT USERS NEED TO DO</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Users who are testing or building a project on the Staging Server, which could be deployed onto the Production server, are <u>STRONGLY ADVISED</u> to back up their project build. </strong>
-<br>
+<p><strong>IMPORTANT: Users who are testing or building a project on the Staging Server, which could be deployed onto the Production server, are <u>STRONGLY ADVISED</u> to BACK UP / EXPORT their project build. </strong>
 </p>
 </li>
 <li>
 <p>Download the<strong> <a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=ZdyeVT" rel="noopener noreferrer nofollow" target="_blank">REDCap Server Shutdown - User Survival Guide (v4)</a></strong> for
 details on how to back up your Project design.&nbsp;(NHG Intranet/HVPN
-access required)
-<br>
-</p>
+access required)</p>
 </li>
 <li>
 <p>As the Staging Server is <strong>intended only for learning and testing purposes</strong>,
 there are <strong>no plans</strong> to backup any existing project data since
-it would be only test/dummy data.</p>
-<p></p>
+it would be only test/dummy data. All data on the Staging Server will be
+wiped.</p>
 </li>
 <li>
 <p><strong>All Users must log out from the Staging Server <u>by 9am on 15 May 2026</u>.</strong>
