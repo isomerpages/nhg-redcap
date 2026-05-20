@@ -1,7 +1,7 @@
 ---
-title: REDCap Production Server Upgrading Exercise (17th to 21st Apr 2026)
-permalink: /20260312-rc-production-shutdown/
-date: 2026-03-12
+title: REDCap Production Server Urgent Upgrading Exercise (5th TO 9th JUN 2026)
+permalink: /20260520-rc-production-shutdown/
+date: 2026-05-20
 layout: post
 description: ""
 image: ""
@@ -10,8 +10,8 @@ variant: tiptap
 <h4><strong>WHAT THIS IS ABOUT</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The NHG-REDCap Production Server will be shutting down between <strong>17th to 21st Apr 2026</strong> to
-facilitate server upgrading and maintenance works.</p>
+<p>The NHG-REDCap Production Server will be shut down between <strong><u>5TH TO 9TH JUNE 2026</u></strong> to
+facilitate urgent and critical server upgrading and maintenance works.</p>
 </li>
 <li>
 <p>This announcement is to inform all NHG-REDCap Users of the pending Shutdown
@@ -20,21 +20,22 @@ Collection activities and what Users need to do to prepare for the Shutdown
 Period.</p>
 </li>
 <li>
-<p>We urge all REDCap Users, in particular REDCap Project Owners (ie: Study
-PIs), take note of the Shutdown period and plan their research data collection
-activities around it.</p>
+<p><strong>We urge all REDCap Users, in particular REDCap Project Owners (ie: Study PIs), take note of the Shutdown period and plan their research data collection activities around it.</strong>
+</p>
 </li>
 </ul>
 <h4><strong>WHEN THIS WILL HAPPEN</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The Production Server Shutdown Period will begin <strong>from <u>6pm on Friday 17th Apr 2026</u></strong> and
-will end at <strong><u>10am, Tuesday 21st Apr 2026</u></strong>, after which
-the Production Server will resume normal operations.</p>
+<p>The Production Server Shutdown Period will begin <strong><u>FROM 6 PM ON FRIDAY 5 JUNE 2026</u></strong> and
+will end at <strong><u>END ON 9 AM, TUESDAY 9 JUNE 2026</u></strong>, after
+which the Production Server will resume normal operations.</p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Content Images/RC_Shutdown_Apr_2026.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Content Images/RCProdShutdown5_9June2026.png">
 </div>
 <h4><strong>HOW USERS WILL BE AFFECTED</strong></h4>
 <ul data-tight="true" class="tight">
@@ -83,7 +84,7 @@ on what Users <strong>WILL NEED TO KNOW, WHAT TO PREPARE FOR</strong>, and
 what the available mitigation measures are for the Shutdown Period.</p>
 </li>
 <li>
-<p><strong>Download: <a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=ZdyeVT" rel="noopener noreferrer nofollow" target="_blank">REDCap Production Server Shutdown - User Survival Guide (v4)</a></strong> (NHG
+<p><strong>Download: <a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQB9NiReOLcXQqbGz08-IuagARXEgkz_Wbmf53S9oaRgWjA?e=FtHu1O" rel="noopener noreferrer nofollow" target="_blank">REDCap Production Server Shutdown - User Survival Guide (v4)</a></strong> (NHG
 Intranet/HVPN access required)</p>
 </li>
 </ul>
