@@ -10,7 +10,7 @@ variant: tiptap
 <h4><strong>WHAT THIS IS ABOUT</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The NHG-REDCap Production Server will be shut down between <strong>5TH TO 9TH JUNE 2026</strong> to
+<p>The NHG-REDCap Production Server will be shut down between <strong><u>5TH TO 9TH JUNE 2026</u></strong> to
 facilitate urgent and critical server upgrading and maintenance works.</p>
 </li>
 <li>
@@ -20,9 +20,8 @@ Collection activities and what Users need to do to prepare for the Shutdown
 Period.</p>
 </li>
 <li>
-<p>We urge all REDCap Users, in particular REDCap Project Owners (ie: Study
-PIs), take note of the Shutdown period and plan their research data collection
-activities around it.</p>
+<p><strong>We urge all REDCap Users, in particular REDCap Project Owners (ie: Study PIs), take note of the Shutdown period and plan their research data collection activities around it.</strong>
+</p>
 </li>
 </ul>
 <h4><strong>WHEN THIS WILL HAPPEN</strong></h4>
