@@ -10,8 +10,8 @@ variant: tiptap
 <h4><strong>WHAT THIS IS ABOUT</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The NHG-REDCap Production Server will be shutting down between <strong>5TH TO 9TH JUNE 2026</strong> to
-facilitate server upgrading and maintenance works.</p>
+<p>The NHG-REDCap Production Server will be shut down between <strong>5TH TO 9TH JUNE 2026</strong> to
+facilitate urgent and critical server upgrading and maintenance works.</p>
 </li>
 <li>
 <p>This announcement is to inform all NHG-REDCap Users of the pending Shutdown
