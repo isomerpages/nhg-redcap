@@ -35,9 +35,9 @@ will result in processing delays.</p>
 </p>
 </li>
 <li>
-<p>Please ensure you download a fresh copy of the Project Request Form each
-time before completing it, as submissions using outdated or incorrect versions
-will not be accepted.</p>
+<p>Please ensure you download a <strong>fresh copy </strong>of the Project
+Request Form each time before completing it, as submissions using <strong>outdated</strong> versions
+will not be accepted and returned for <strong>resubmission</strong>.</p>
 </li>
 </ul>
 <p></p>
