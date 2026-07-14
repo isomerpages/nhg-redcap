@@ -13,11 +13,6 @@ variant: tiptap
 <p>The NHG-REDCap New Project Request Form has been updated to <strong>Version 6.2</strong>  <strong>(dated 14 Jul 2026).</strong>
 </p>
 </li>
-<li>
-<p>Please note that submissions using an <strong>outdated version</strong> of
-the Project Request Form will be <strong>rejected </strong>and returned
-for <strong>resubmission</strong>.</p>
-</li>
 </ul>
 <h4><strong>What has been updated</strong></h4>
 <ul data-tight="true" class="tight">
@@ -40,9 +35,9 @@ will result in processing delays.</p>
 </p>
 </li>
 <li>
-<p>To avoid rejection, please ensure you download a fresh copy of the Project
-Request Form each time before completing it, as submissions using outdated
-or incorrect versions will not be accepted.</p>
+<p>Please ensure you download a fresh copy of the Project Request Form each
+time before completing it, as submissions using outdated or incorrect versions
+will not be accepted.</p>
 </li>
 </ul>
 <p></p>
