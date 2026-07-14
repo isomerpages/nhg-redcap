@@ -1,7 +1,7 @@
 ---
 title: Update your REDCap User Account Profile with the new NHG Health Email Address
-permalink: /20250729-update-profile-with-new-email/
-date: 2026-01-05
+permalink: /update-profile-with-new-email/
+date: 2026-05-05
 layout: post
 description: ""
 image: ""
@@ -15,7 +15,7 @@ initiative and will consolidate all NHG entities under a single Email Domain
 name.</p>
 </li>
 <li>
-<p>See <strong><a href="https://healthsg.sharepoint.com/sites/NHGHealth-GIT/MDOT/OneNHG%20Email%20FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Group CIO Office’s FAQ document</a></strong> (NHG
+<p>See <strong><a href="https://healthsg.sharepoint.com/sites/NHGHealth/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FNHGHealth%2FSiteAssets%2FLists%2FQuick%20Links%2FNewForm%2Fonenhg%5Femail%5Ffaq%5F20250508%2Epdf&amp;parent=%2Fsites%2FNHGHealth%2FSiteAssets%2FLists%2FQuick%20Links%2FNewForm" rel="noopener noreferrer nofollow" target="_blank">NHG Group CIO Office’s FAQ document</a></strong> (NHG
 Intranet access required) for details.</p>
 <p></p>
 </li>
@@ -42,9 +42,9 @@ the registered email address in the REDCap User Account Profile.</p>
 <li>
 <p>We recommend you download the Step-by-Step Guide and follow the instructions
 to update your REDCap Account Profile(s).</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <h4><strong>Step-by-Step Guide</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -62,5 +62,5 @@ any queries.</p>
 </ul>
 <p></p>
 <p></p>
-<p><em><sub>Updated 6 Jan 2026</sub></em>
+<p><em><sub>Updated 5 May 2026</sub></em>
 </p>

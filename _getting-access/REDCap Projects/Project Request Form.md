@@ -20,29 +20,39 @@ and request process.</p>
 <h4><strong>Form Download</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download here: <strong><a href="https://healthsg.sharepoint.com/:u:/s/NHG-REDCap/IQDWhYqrbKrSRoMiKVXS1vVaAWGrhk7AQGbwaVy3oM2Ef3U?e=vYcKQG" rel="noopener nofollow" target="_blank">NHG-REDCap New Project Request Form (v6.1)(ZIP file) (Updated 5 Jan 2026)</a></strong>
+<p>Download here: <strong><a href="https://healthsg.sharepoint.com/:u:/s/NHG-REDCap/IQAMq1L28RknRptRy3UijYzLAeDhQqWmQmx43vwP3nDZQHE?e=6FdeAa" rel="noopener nofollow" target="_blank">NHG-REDCap New Project Request Form (v6.2)(ZIP file) (Updated 14 Jul 2026)</a></strong>
 <br><strong>(Restricted: NHG Intranet access required)</strong>
 </p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<h4><strong>Note</strong></h4>
-<p>The New Project Request Form is contained in a single ZIP file which contains:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Project Request Form (.docx)</p>
+<p>The New REDCap Project Request Form is contained in a single ZIP file
+which contains:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>REDCap New Project Request Form (.docx)</p>
 </li>
 <li>
-<p>Project Request Infosheet (.pdf)</p>
+<p>Information Sheet for REDCap New Project Request submission (.pdf)</p>
 </li>
 </ul>
-<p></p>
-<p>Users are strongly encouraged to <strong><em>read the Infosheet document first</em></strong>.</p>
-<p>We recommend that Users <strong><em>always download a fresh cop</em></strong>y
-of the Form from this page to ensure they are always using the latest version.
-Project Requests which are submitted on an outdated form version may be
-rejected.
+</li>
+</ul>
+<h4><strong>Important</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please ensure you download a <strong>fresh copy </strong>of the Project
+Request Form each time before completing it, as submissions using <strong>outdated</strong> versions
+will not be accepted and returned for <strong>resubmission</strong>.</p>
+</li>
+<li>
+<p>We strongly encourage Users to <strong>read the Information Sheet carefully first</strong> before
+completing the Project Request Form, as <strong>incomplete</strong> or <strong>incorrect </strong>submissions
+will result in processing <strong>delays</strong>.</p>
+</li>
+</ul>
+<p>
 <br>
 <br>
 </p>
