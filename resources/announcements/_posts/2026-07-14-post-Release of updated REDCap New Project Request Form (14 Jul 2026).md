@@ -14,17 +14,17 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Submissions made with <strong>previous versions</strong> of the Request
-Form <strong><u>will be rejected</u>.</strong>
-</p>
+<p>Please note that submissions using an <strong>outdated version</strong> of
+the Project Request Form will be <strong>rejected </strong>and returned
+for <strong>resubmission</strong>.</p>
 </li>
 </ul>
 <h4><strong>What has been updated</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Addition of new Section - Regulatory Classification - in the Project Request
-Form, and the corresponding guidance information in the accompanying Information
-Sheet.</p>
+<p>Addition of new Section - <strong>Regulatory Classification</strong> - in
+the Project Request Form, and the corresponding guidance information in
+the accompanying Information Sheet.</p>
 </li>
 <li>
 <p>Please <strong><em>read the Information Sheet carefully first</em></strong> before
