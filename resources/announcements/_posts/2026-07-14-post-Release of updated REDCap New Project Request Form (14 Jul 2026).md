@@ -10,7 +10,7 @@ variant: tiptap
 <h4><strong>What this is about</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The NHG-REDCap New Project Request Form has been updated to <strong>Version 6.1</strong>  <strong>(dated 5 Jan 2026).</strong>
+<p>The NHG-REDCap New Project Request Form has been updated to <strong>Version 6.2</strong>  <strong>(dated 14 Jul 2026).</strong>
 </p>
 </li>
 <li>
@@ -22,8 +22,14 @@ Form <strong><u>will be rejected</u>.</strong>
 <h4><strong>What has been updated</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Document links to reference research policies and Institution DPO Email
-addresses have been updated.</p>
+<p>Addition of new Section - Regulatory Classification - in the Project Request
+Form, and the corresponding guidance information in the accompanying Information
+Sheet.</p>
+</li>
+<li>
+<p>Please <strong><em>read the Information Sheet carefully first</em></strong> before
+completing the Project Request Form, as incomplete or incorrect submissions
+will result in processing delays.</p>
 </li>
 </ul>
 <p></p>
@@ -32,6 +38,11 @@ addresses have been updated.</p>
 <li>
 <p>Download here: <strong><a href="https://redcapsupport.gri.nhg.com.sg/project-request-form/" rel="noopener nofollow" target="_blank">NHG-REDCap New Project Request Info page</a></strong>
 </p>
+</li>
+<li>
+<p>To avoid rejection, please ensure you download a fresh copy of the Project
+Request Form each time before completing it, as submissions using outdated
+or incorrect versions will not be accepted.</p>
 </li>
 </ul>
 <p></p>
@@ -47,6 +58,5 @@ which contains:</p>
 </li>
 </ul>
 <p></p>
-<p>Users are strongly encouraged to <strong><em>read the Infosheet document first</em></strong>.</p>
-<p>We recommend that Users <strong><em>always download a fresh copy</em></strong> of
-the Form to ensure they are always using the latest version.</p>
+<p></p>
+<p></p>
