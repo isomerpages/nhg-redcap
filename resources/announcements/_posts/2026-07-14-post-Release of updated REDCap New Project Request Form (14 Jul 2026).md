@@ -27,7 +27,6 @@ completing the Project Request Form, as incomplete or incorrect submissions
 will result in processing delays.</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Where to download</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -40,16 +39,19 @@ Request Form each time before completing it, as submissions using <strong>outdat
 will not be accepted and returned for <strong>resubmission</strong>.</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Note</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>The NHG-REDCap New Project Request Form is contained in a single ZIP file
 which contains:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>New Project Request Form (.docx)</p>
+<p>REDCap New Project Request Form (.docx)</p>
 </li>
 <li>
-<p>New Project Request Infosheet (.pdf)</p>
+<p>Information Sheet for New Project Request submission (.pdf)</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
