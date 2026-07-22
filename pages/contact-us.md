@@ -34,5 +34,14 @@ contacts:
           href="https://redcapsupport.gri.nhg.com.sg/nhg-adid-assistance/">here
           for NHG-ITD Helpdesk Contact information</a></u>.</p>
     title: NHG Health's ITD Helpdesk
+  - content:
+      - phone: ""
+      - email: ""
+      - other: • If you are a patient or member of the public, please note that this
+          form is not monitored for urgent requests. If you are experiencing a
+          urgent medical emergency, call 995 or go to your nearest A&E
+          immediately. For non-emergency health advice, call HealthHub at 1800
+          223 1313.
+    title: ""
 feedback: ""
 ---
