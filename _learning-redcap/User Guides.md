@@ -55,6 +55,15 @@ different Arms.
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong>Transferring a REDCap Project from the Staging Server to the Production Server</strong>
+<br>This FAQ Guide shows how Users can "transfer" their REDCap Projects from
+the Staging Server to the Production Server.
+<br>Download here.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Backing up your REDCap Project Design</strong>
 <br>This FAQ guide shows how Users can backup and share their REDCap Project
 designs (including Forms and Data variables). It also informs Users on
