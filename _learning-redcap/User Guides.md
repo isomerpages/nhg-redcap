@@ -58,7 +58,8 @@ different Arms.
 <p><strong>Transferring a REDCap Project from the Staging Server to the Production Server</strong>
 <br>This FAQ Guide shows how Users can "transfer" their REDCap Projects from
 the Staging Server to the Production Server.
-<br>Download here.</p>
+<br><a href="https://healthsg.sharepoint.com/:b:/s/NHG-REDCap/IQDogFzztG5YTKfeEj2ps3S7Ad-RkXqF380kssCKBejpuLs?e=VbUKOn" rel="noopener nofollow" target="_blank">Download here</a>. <em>(NHG Intranet access required)</em>
+</p>
 </li>
 </ul>
 <p></p>
