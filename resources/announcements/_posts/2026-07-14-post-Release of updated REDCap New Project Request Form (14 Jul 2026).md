@@ -10,8 +10,7 @@ variant: tiptap
 <h4><strong>What this is about</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The NHG-REDCap New Project Request Form has been updated to <strong>Version 6.2</strong>  <strong>(dated 14 Jul 2026).</strong>
-</p>
+<p>The NHG-REDCap New Project Request Form has been updated to <strong>Version 6.3 (dated 29 July 2026)</strong>.</p>
 </li>
 </ul>
 <h4><strong>What has been updated</strong></h4>
